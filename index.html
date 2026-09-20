@@ -25,7 +25,7 @@
 <div id="player" class="player hidden"><div class="playerbar"><button id="playerClose">×</button><b id="playerTitle"></b></div><div id="playerMount" style="display:flex;flex:1;min-height:0"></div></div>
 <script>
 const CATALOG='/api/catalog', STORE='arielMoviesStateV2';
-const LIVE=[{title:'כאן 11',category:'שידור ציבורי חי',is_live:true,video_url:'https://n-121-7.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8',thumbnail_url:'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kan11Logo.svg/512px-Kan11Logo.svg.png'},{title:'כאן חינוכית',category:'שידור ציבורי חי',is_live:true,video_url:'https://n-121-5.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8?renditions&fmp4',thumbnail_url:'https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kan_Educational.svg/512px-Kan_Educational.svg.png'}];
+const LIVE=[{title:'כאן 11',category:'שידור ציבורי חי',is_live:true,video_url:'https://n-121-7.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8',thumbnail_url:'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kan11Logo.svg/512px-Kan11Logo.svg.png'}];
 let all=[],filtered=[],selectedCategory='הכול',limit=60,active=null,playing=null,state=JSON.parse(localStorage.getItem(STORE)||'{"progress":{},"watchlist":[],"watched":{}}');
 const $=s=>document.querySelector(s), esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
 const save=()=>localStorage.setItem(STORE,JSON.stringify(state)), label=x=>x.series_name||x.title||'ללא שם', key=x=>x.id||x.custom_slug||x.title;
