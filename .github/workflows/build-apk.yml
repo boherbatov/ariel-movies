@@ -41,22 +41,27 @@ jobs:
                   applicationId 'com.zovex.flow'
                   minSdk 26
                   targetSdk 35
-                  versionCode 4
-                  versionName '1.1.0'
+                  versionCode 5
+                  versionName '1.2.0'
               }
           }
+          dependencies { implementation 'com.google.android.gms:play-services-cast-framework:22.0.0' }
           GRADLE
           curl -fsSL https://raw.githubusercontent.com/boherbatov/ariel-movies/main/logo.png -o app/src/main/res/drawable/app_icon.png
           cat > app/src/main/AndroidManifest.xml <<'XML'
           <manifest xmlns:android="http://schemas.android.com/apk/res/android">
             <uses-permission android:name="android.permission.INTERNET"/>
-            <application android:theme="@style/AppTheme" android:label="Ariel Movies 🍿" android:icon="@drawable/app_icon" android:usesCleartextTraffic="false" android:hardwareAccelerated="true">
+            <uses-feature android:name="android.software.leanback" android:required="false"/>
+            <uses-feature android:name="android.hardware.touchscreen" android:required="false"/>
+            <application android:name=".App" android:theme="@style/AppTheme" android:label="Ariel Movies 🍿" android:icon="@drawable/app_icon" android:usesCleartextTraffic="false" android:hardwareAccelerated="true" android:banner="@drawable/app_icon">
               <activity android:name=".MainActivity" android:screenOrientation="unspecified" android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout" android:supportsPictureInPicture="true" android:resizeableActivity="true" android:exported="true">
                 <intent-filter>
                   <action android:name="android.intent.action.MAIN"/>
                   <category android:name="android.intent.category.LAUNCHER"/>
+                  <category android:name="android.intent.category.LEANBACK_LAUNCHER"/>
                 </intent-filter>
               </activity>
+              <meta-data android:name="com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME" android:value="com.zovex.flow.CastOptionsProvider"/>
             </application>
           </manifest>
           XML
@@ -72,6 +77,21 @@ jobs:
             </style>
           </resources>
           XML
+          cat > app/src/main/java/com/zovex/flow/App.java <<'JAVA'
+          package com.zovex.flow;
+          import android.app.Application;
+          public class App extends Application {}
+          JAVA
+          cat > app/src/main/java/com/zovex/flow/CastOptionsProvider.java <<'JAVA'
+          package com.zovex.flow;
+          import android.content.Context;
+          import com.google.android.gms.cast.framework.*;
+          import java.util.*;
+          public class CastOptionsProvider implements OptionsProvider {
+            public CastOptions getCastOptions(Context c){return new CastOptions.Builder().setReceiverApplicationId(CastMediaControlIntent.DEFAULT_MEDIA_RECEIVER_APPLICATION_ID).build();}
+            public List<SessionProvider> getAdditionalSessionProviders(Context c){return null;}
+          }
+          JAVA
           cat > app/src/main/java/com/zovex/flow/MainActivity.java <<'JAVA'
           package com.zovex.flow;
           import android.app.*;
@@ -85,6 +105,10 @@ jobs:
           import android.widget.*;
           import android.content.pm.ActivityInfo;
           import android.util.Rational;
+          import android.webkit.JavascriptInterface;
+          import com.google.android.gms.cast.*;
+          import com.google.android.gms.cast.framework.*;
+          import com.google.android.gms.cast.framework.media.*;
 
           public class MainActivity extends Activity {
             private static final String HOME="https://ariel-movies.onrender.com/";
@@ -96,8 +120,9 @@ jobs:
               web=new WebView(this); setContentView(web); WebSettings s=web.getSettings();
               s.setJavaScriptEnabled(true); s.setDomStorageEnabled(true); s.setDatabaseEnabled(true); s.setMediaPlaybackRequiresUserGesture(false);
               s.setLoadWithOverviewMode(true); s.setUseWideViewPort(true); s.setBuiltInZoomControls(false); s.setDisplayZoomControls(false);
-              s.setUserAgentString(s.getUserAgentString()+" ArielMoviesAndroid/4.0");
+              s.setUserAgentString(s.getUserAgentString()+" ArielMoviesAndroid/5.0");
               CookieManager.getInstance().setAcceptCookie(true); CookieManager.getInstance().setAcceptThirdPartyCookies(web,true);
+              web.addJavascriptInterface(new Object(){ @JavascriptInterface public void cast(String url,String title,String mime){ runOnUiThread(()->{ try { CastSession cs=CastContext.getSharedInstance(MainActivity.this).getSessionManager().getCurrentCastSession(); if(cs==null||!cs.isConnected()){ Toast.makeText(MainActivity.this,"בחר מכשיר Cast דרך סמל השידור במערכת",Toast.LENGTH_LONG).show(); return;} MediaMetadata md=new MediaMetadata(MediaMetadata.MEDIA_TYPE_MOVIE);md.putString(MediaMetadata.KEY_TITLE,title);MediaInfo info=new MediaInfo.Builder(url).setStreamType(MediaInfo.STREAM_TYPE_BUFFERED).setContentType(mime==null||mime.isEmpty()?"video/mp4":mime).setMetadata(md).build();cs.getRemoteMediaClient().load(new MediaLoadRequestData.Builder().setMediaInfo(info).setAutoplay(true).build()); }catch(Exception e){Toast.makeText(MainActivity.this,"Cast אינו זמין במכשיר זה",Toast.LENGTH_SHORT).show();}}); }},"ArielNative");
               web.setWebViewClient(new WebViewClient(){@Override public boolean shouldOverrideUrlLoading(WebView v, WebResourceRequest r){
                 Uri u=r.getUrl(); if("ariel-movies.onrender.com".equals(u.getHost())) return false;
                 startActivity(new Intent(Intent.ACTION_VIEW,u)); return true; }});
@@ -127,7 +152,7 @@ jobs:
           path: Ariel-Movies.apk
       - uses: softprops/action-gh-release@v2
         with:
-          tag_name: ariel-movies-pip-v4
-          name: Ariel Movies 🍿 Android PiP v4
+          tag_name: ariel-movies-tv-cast-v5
+          name: Ariel Movies 🍿 Android TV + Cast v5
           body: "אפליקציית Android ללא מסגרת דפדפן. התוכן נטען מהאתר החי, ולכן עדכוני האתר מופיעים בלי התקנה מחדש."
           files: Ariel-Movies.apk
