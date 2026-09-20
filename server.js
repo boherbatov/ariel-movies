@@ -31,4 +31,4 @@ const server=http.createServer(async(req,res)=>{try{let u=new URL(req.url,'http:
  let rel=p==='/'?'index.html':p.slice(1),target=path.normalize(path.join(ROOT,rel));if(!target.startsWith(ROOT))return json(res,403,{error:'forbidden'});return file(res,target,req.headers['accept-encoding']);
  }catch(e){console.error(e);json(res,500,{error:'שגיאת שרת'})}});
 async function loadCatalog(){try{let r=await fetch(UPSTREAM);if(!r.ok)throw Error('HTTP '+r.status);catalog=await r.json();console.log('catalog',catalog.length)}catch(e){console.error('catalog load',e.message);let p=path.join(ROOT,'catalog.json');catalog=fs.existsSync(p)?JSON.parse(fs.readFileSync(p)):[]}}
-Promise.all([loadOverrides(),loadCatalog()]).finally(()=>server.listen(PORT,()=>console.log('Ariel Movies on',PORT)));
+server.listen(PORT,()=>console.log('Ariel Movies on',PORT)); Promise.all([loadOverrides(),loadCatalog()]);
