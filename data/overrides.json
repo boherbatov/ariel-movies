@@ -1,15 +1,7 @@
 {
-  "upserts": {
-    "persistence-test-1789932122": {
-      "id": "persistence-test-1789932122",
-      "title": "בדיקת התמדה זמנית",
-      "category": "בדיקה",
-      "year": 2026,
-      "description": "פריט בדיקה זמני שיימחק לאחר אימות",
-      "video_url": "https://example.com/test.mp4",
-      "thumbnail_url": null
-    }
-  },
-  "deleted": [],
+  "upserts": {},
+  "deleted": [
+    "persistence-test-1789932122"
+  ],
   "pages": []
 }
