@@ -46,7 +46,7 @@ jobs:
               }
           }
           GRADLE
-          curl -fsSL https://ariel-movies.onrender.com/logo.png -o app/src/main/res/drawable/app_icon.png
+          curl -fsSL https://raw.githubusercontent.com/boherbatov/ariel-movies/main/logo.png -o app/src/main/res/drawable/app_icon.png
           cat > app/src/main/AndroidManifest.xml <<'XML'
           <manifest xmlns:android="http://schemas.android.com/apk/res/android">
             <uses-permission android:name="android.permission.INTERNET"/>
