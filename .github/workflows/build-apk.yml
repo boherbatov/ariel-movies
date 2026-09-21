@@ -124,8 +124,8 @@ jobs:
             private ValueCallback<Uri[]> fileCallback;
             private static final int FILE_CHOOSER=9001;
             @Override public void onCreate(Bundle b){super.onCreate(b);
-              getWindow().setStatusBarColor(Color.rgb(7,16,22)); getWindow().setNavigationBarColor(Color.rgb(7,16,22));
-              web=new WebView(this); setContentView(web); ViewCompat.setOnApplyWindowInsetsListener(web,(v,in)->{androidx.core.graphics.Insets bars=in.getInsets(WindowInsetsCompat.Type.systemBars());v.setPadding(bars.left,bars.top,bars.right,bars.bottom);return in;}); WebSettings s=web.getSettings();
+              WindowCompat.setDecorFitsSystemWindows(getWindow(),true); getWindow().setStatusBarColor(Color.rgb(7,16,22)); getWindow().setNavigationBarColor(Color.rgb(7,16,22));
+              web=new WebView(this); setContentView(web); ViewCompat.setOnApplyWindowInsetsListener(web,(v,in)->{androidx.core.graphics.Insets bars=in.getInsets(WindowInsetsCompat.Type.systemBars());v.setPadding(0,0,0,bars.bottom);return in;}); WebSettings s=web.getSettings();
               s.setJavaScriptEnabled(true); s.setDomStorageEnabled(true); s.setDatabaseEnabled(true); s.setMediaPlaybackRequiresUserGesture(false);
               s.setLoadWithOverviewMode(true); s.setUseWideViewPort(true); s.setBuiltInZoomControls(false); s.setDisplayZoomControls(false);
               s.setUserAgentString(s.getUserAgentString()+" ArielMoviesAndroid/5.0");
