@@ -27,6 +27,7 @@ jobs:
           rootProject.name='ArielMovies'
           include ':app'
           GRADLE
+          printf 'android.useAndroidX=true\n' > gradle.properties
           cat > build.gradle <<'GRADLE'
           plugins {
               id 'com.android.application' version '8.5.2' apply false
