@@ -117,7 +117,7 @@ jobs:
           import com.google.android.gms.cast.framework.*;
           import com.google.android.gms.cast.framework.media.*;
           import androidx.browser.customtabs.CustomTabsIntent;
-          import androidx.mediarouter.app.MediaRouteChooserDialog;
+          import androidx.mediarouter.app.MediaRouteButton;
           import androidx.mediarouter.media.MediaRouteSelector;
 
           public class MainActivity extends Activity {
@@ -126,10 +126,11 @@ jobs:
             private ValueCallback<Uri[]> fileCallback;
             private static final int FILE_CHOOSER=9001;
             private String pendingCastUrl,pendingCastTitle,pendingCastMime;
+            private MediaRouteButton castRouteButton;
             private boolean mediaPlaying=false;
             @Override public void onCreate(Bundle b){super.onCreate(b);
               WindowCompat.setDecorFitsSystemWindows(getWindow(),false); getWindow().setStatusBarColor(Color.rgb(7,16,22)); getWindow().setNavigationBarColor(Color.rgb(7,16,22)); if(Build.VERSION.SDK_INT>=29)getWindow().setNavigationBarContrastEnforced(false); if(Build.VERSION.SDK_INT>=23)getWindow().getDecorView().setSystemUiVisibility(0);
-              web=new WebView(this); android.widget.FrameLayout root=new android.widget.FrameLayout(this);root.addView(web,new android.widget.FrameLayout.LayoutParams(-1,-1));setContentView(root);ViewCompat.setOnApplyWindowInsetsListener(root,(v,in)->{androidx.core.graphics.Insets bars=in.getInsets(WindowInsetsCompat.Type.statusBars()|WindowInsetsCompat.Type.navigationBars()|WindowInsetsCompat.Type.displayCutout());android.widget.FrameLayout.LayoutParams lp=(android.widget.FrameLayout.LayoutParams)web.getLayoutParams();lp.leftMargin=bars.left;lp.topMargin=bars.top;lp.rightMargin=bars.right;lp.bottomMargin=bars.bottom;web.setLayoutParams(lp);return WindowInsetsCompat.CONSUMED;});ViewCompat.requestApplyInsets(root); WebSettings s=web.getSettings();
+              web=new WebView(this); android.widget.FrameLayout root=new android.widget.FrameLayout(this);root.addView(web,new android.widget.FrameLayout.LayoutParams(-1,-1));castRouteButton=new MediaRouteButton(this);castRouteButton.setAlpha(0.01f);android.widget.FrameLayout.LayoutParams crp=new android.widget.FrameLayout.LayoutParams(2,2);root.addView(castRouteButton,crp);CastButtonFactory.setUpMediaRouteButton(this,castRouteButton);setContentView(root);ViewCompat.setOnApplyWindowInsetsListener(root,(v,in)->{androidx.core.graphics.Insets bars=in.getInsets(WindowInsetsCompat.Type.statusBars()|WindowInsetsCompat.Type.navigationBars()|WindowInsetsCompat.Type.displayCutout());android.widget.FrameLayout.LayoutParams lp=(android.widget.FrameLayout.LayoutParams)web.getLayoutParams();lp.leftMargin=bars.left;lp.topMargin=bars.top;lp.rightMargin=bars.right;lp.bottomMargin=bars.bottom;web.setLayoutParams(lp);return WindowInsetsCompat.CONSUMED;});ViewCompat.requestApplyInsets(root); WebSettings s=web.getSettings();
               s.setJavaScriptEnabled(true); s.setDomStorageEnabled(true); s.setDatabaseEnabled(true); s.setMediaPlaybackRequiresUserGesture(false);
               s.setLoadWithOverviewMode(true); s.setUseWideViewPort(true); s.setBuiltInZoomControls(false); s.setDisplayZoomControls(false);
               s.setUserAgentString(s.getUserAgentString()+" ArielMoviesAndroid/5.0");
@@ -149,7 +150,7 @@ jobs:
               },CastSession.class);
               if(b==null)web.loadUrl(HOME); else web.restoreState(b); handleAuth(getIntent());
             }
-            private void startCast(String url,String title,String mime){try{pendingCastUrl=url;pendingCastTitle=title;pendingCastMime=mime;CastSession cs=CastContext.getSharedInstance(this).getSessionManager().getCurrentCastSession();if(cs!=null&&cs.isConnected()){sendPendingCast(cs);return;}MediaRouteSelector selector=new MediaRouteSelector.Builder().addControlCategory(CastMediaControlIntent.categoryForCast(CastMediaControlIntent.DEFAULT_MEDIA_RECEIVER_APPLICATION_ID)).build();MediaRouteChooserDialog d=new MediaRouteChooserDialog(this);d.setRouteSelector(selector);d.show();}catch(Exception e){Toast.makeText(this,"לא נמצאו מכשירי Cast",Toast.LENGTH_SHORT).show();}}
+            private void startCast(String url,String title,String mime){try{pendingCastUrl=url;pendingCastTitle=title;pendingCastMime=mime;CastSession cs=CastContext.getSharedInstance(this).getSessionManager().getCurrentCastSession();if(cs!=null&&cs.isConnected()){sendPendingCast(cs);return;}castRouteButton.performClick();}catch(Exception e){Toast.makeText(this,"לא נמצאו מכשירי Cast",Toast.LENGTH_SHORT).show();}}
             private void sendPendingCast(CastSession cs){if(pendingCastUrl==null||cs==null||!cs.isConnected())return;MediaMetadata md=new MediaMetadata(MediaMetadata.MEDIA_TYPE_MOVIE);md.putString(MediaMetadata.KEY_TITLE,pendingCastTitle);MediaInfo info=new MediaInfo.Builder(pendingCastUrl).setStreamType(MediaInfo.STREAM_TYPE_BUFFERED).setContentType(pendingCastMime==null||pendingCastMime.isEmpty()?"video/mp4":pendingCastMime).setMetadata(md).build();cs.getRemoteMediaClient().load(new MediaLoadRequestData.Builder().setMediaInfo(info).setAutoplay(true).build());pendingCastUrl=null;}
             private boolean videoPlaying(){ final boolean[] playing={false}; try { android.webkit.WebView.HitTestResult h=web.getHitTestResult(); web.evaluateJavascript("(()=>{const v=document.querySelector('#player:not(.hidden) video');return !!(v&&!v.paused&&!v.ended&&v.readyState>2)})()",r->playing[0]="true".equals(r)); return playing[0]; } catch(Exception e){return false;} }
             private void updatePipParams(){if(Build.VERSION.SDK_INT>=26){try{PictureInPictureParams.Builder b=new PictureInPictureParams.Builder().setAspectRatio(new Rational(16,9));if(Build.VERSION.SDK_INT>=31)b.setAutoEnterEnabled(mediaPlaying);setPictureInPictureParams(b.build());}catch(Exception ignored){}}}
