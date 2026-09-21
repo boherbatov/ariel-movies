@@ -91,6 +91,7 @@ jobs:
           package com.zovex.flow;
           import android.content.Context;
           import com.google.android.gms.cast.framework.*;
+          import com.google.android.gms.cast.CastMediaControlIntent;
           import java.util.*;
           public class CastOptionsProvider implements OptionsProvider {
             public CastOptions getCastOptions(Context c){return new CastOptions.Builder().setReceiverApplicationId(CastMediaControlIntent.DEFAULT_MEDIA_RECEIVER_APPLICATION_ID).build();}
