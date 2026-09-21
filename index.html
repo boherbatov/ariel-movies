@@ -99,4 +99,4 @@ function applySettings(){let t=state.settings.theme;if(t==='system')t=matchMedia
 $('#playerClose').onclick=closePlayer;$('#more').onclick=()=>{limit+=60;render()};$('#searchForm').onsubmit=e=>{e.preventDefault();limit=60;apply();$('#search').blur()};$('#search').onkeydown=e=>{if(e.key==='Enter'){$('#searchForm').requestSubmit()}};document.addEventListener('keydown',e=>{if(e.key==='Escape'){if(!$('#player').classList.contains('hidden'))closePlayer();else closeDetail()}});load();
 
 </script>
-</body></html>
+<footer style="padding:28px 18px;text-align:center;color:var(--muted);font-size:12px"><a href="https://www.themoviedb.org" target="_blank" rel="noopener" style="color:var(--teal)">TMDB</a> · This product uses the TMDB API but is not endorsed or certified by TMDB.</footer></body></html>
