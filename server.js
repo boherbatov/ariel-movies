@@ -40,6 +40,7 @@ const server=http.createServer(async(req,res)=>{try{let u=new URL(req.url,'http:
  if(p==='/api/contact'&&req.method==='POST'){let d=await body(req);if(!d.body||String(d.body).length>4000)return json(res,400,{error:'invalid'});overrides.contacts=overrides.contacts||[];overrides.contacts.unshift({id:crypto.randomUUID(),email:String(d.email||''),subject:String(d.subject||''),body:String(d.body),created_at:new Date().toISOString()});overrides.contacts=overrides.contacts.slice(0,200);await saveOverrides();return json(res,200,{ok:true})}
  if(p==='/api/admin/contacts'){if(!auth(req))return json(res,401,{error:'unauthorized'});return json(res,200,{contacts:overrides.contacts||[]})}
  if(p==='/api/catalog')return json(res,200,merged());
+ if(['/favorites','/continue','/history'].includes(p))return file(res,path.join(ROOT,'index.html'),req.headers['accept-encoding']);
  if(p==='/admin'||p==='/admin/')return file(res,path.join(ROOT,'admin.html'),req.headers['accept-encoding']);
  if(p==='/app'||p==='/app/')return file(res,path.join(ROOT,'app.html'),req.headers['accept-encoding']);
  if(p==='/auth-mobile'||p==='/auth-mobile/')return file(res,path.join(ROOT,'auth-mobile.html'),req.headers['accept-encoding']);
