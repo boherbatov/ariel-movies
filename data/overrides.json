@@ -17168,6 +17168,381 @@
         }
       ],
       "_enriched": true
+    },
+    "7c178eca-d661-4974-896e-6ca13acd0033": {
+      "title": "משחקי הרעב: עורבני חקיין - חלק 2",
+      "year": 2015,
+      "category": "סרטים",
+      "description": "כשפאנם מצויה במלחמה, קטניס עומדת מול הנשיא סנואו בעימות האחרון. מלווה בחבריה הטובים לצוות הכוללים את גייל, פיניק ופיטה - קטניס יוצאת למשימה עם יחידה ממחוז 13. תוך סיכון חייהם במטרה לשחרר את האזרחים של פאנם, ולשרוד את ניסיונות ההתנקשות בחייה על ידי הנשיא סנואו, אשר הפך להיות אובססיבי לחיסולה. מלכודות",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11277?exp=1790182350&sig=e44075617a6c8e05d15b5dc71ca82dca",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11277?exp=1790182350&sig=e44075617a6c8e05d15b5dc71ca82dca",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/zfLogt2eqCVVnCKiIDqg2FFa48R.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "7c178eca-d661-4974-896e-6ca13acd0033",
+      "created_date": "2026-09-17T20:07:58.292Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qVgLMRVNB5bHU0inmRa0ueShacN.jpg",
+      "tmdb_id": 131634,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.9,
+      "genres": [
+        "פעולה",
+        "הרפתקאות",
+        "מדע בדיוני"
+      ],
+      "en_title": "The Hunger Games: Mockingjay - Part 2",
+      "trailer": "8UZvqQhkoJI",
+      "cast": [
+        "ג'ניפר לורנס",
+        "ג'וש האצ'רסון",
+        "ליאם המסוורת'",
+        "וודי הרלסון",
+        "אליזבת בנקס",
+        "ג'וליאן מור",
+        "פיליפ סימור הופמן",
+        "ג'פרי רייט",
+        "סטנלי טוצ'י",
+        "דונלד סאת'רלנד",
+        "וילו שילדס",
+        "סם קלאפלין",
+        "ג'נה מאלון",
+        "מהרשלה עלי",
+        "נטלי דורמר"
+      ],
+      "duration_seconds": 8220,
+      "imdb_id": "tt1951266",
+      "imdb_rating": "6.6",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Mockingjay.Part.2.2015.PROPER.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Mockingjay.Part.2.2015.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-RARBG"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The Hunger Games_ Mockingjay - Part 2 (2015) WEBRip"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Mockingjay.Part.2.2015.2160p 4K BluRay x265 RARBG.en"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Mockingjay.-.Part.2.2015.1080p.BluRay.x264-[YTS.AG]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Mockingjay.Part.2.2015.WEB-DL.TUBI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Mockingjay.Part.2.2015.WEBRip.Netflix"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Mockingjay.Part.2.2015.720p.BluRay.x264-Pahe.in"
+        }
+      ],
+      "_enriched": true
+    },
+    "9e8079ed-8c86-4ab2-a314-49b236d39aae": {
+      "title": "משחקי הרעב: עורבני חקיין - חלק 1",
+      "year": 2014,
+      "category": "סרטים",
+      "description": "בחלק הראשון של הסרט שיחתום את הטרילוגיה המצליחה, קטניס אוורדין מוצאת את עצמה במחוז 13, לאחר שהשמידה את המשחקים האכזריים לנצח. תחת הנהגתה של הנשיאה קוין ותמיכתם של חבריה, קטניס פורשת כנפיים ונלחמת כדי להציל את חברה פיטה והופכת לפנים ולסמל המהפכה נגד שלטון הקפיטול.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11274?exp=1790182350&sig=d0f72935af25b0a3b3a81af99aaa804d",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11274?exp=1790182350&sig=d0f72935af25b0a3b3a81af99aaa804d",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/pTVwnPDAG7QeZG36Ld1w8Img34e.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "9e8079ed-8c86-4ab2-a314-49b236d39aae",
+      "created_date": "2026-09-17T20:06:35.699Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/lV1P1Q5gLDXVG1ZYCxZHStkcQC3.jpg",
+      "tmdb_id": 131631,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.8,
+      "genres": [
+        "מדע בדיוני",
+        "הרפתקאות",
+        "מותחן"
+      ],
+      "en_title": "The Hunger Games: Mockingjay - Part 1",
+      "trailer": "a44QKp_Oq8k",
+      "cast": [
+        "ג'ניפר לורנס",
+        "ג'וש האצ'רסון",
+        "ליאם המסוורת'",
+        "וודי הרלסון",
+        "אליזבת בנקס",
+        "ג'וליאן מור",
+        "פיליפ סימור הופמן",
+        "ג'פרי רייט",
+        "סטנלי טוצ'י",
+        "דונלד סאת'רלנד",
+        "וילו שילדס",
+        "סם קלאפלין",
+        "ג'נה מאלון",
+        "מהרשלה עלי",
+        "נטלי דורמר"
+      ],
+      "duration_seconds": 7380,
+      "imdb_id": "tt1951265",
+      "imdb_rating": "6.6",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Mockingjay.Part.1.2014.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-RARBG"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "TheHungerGamesMockingjay-Part120142160pUHDBlu-rayRemuxHEVCDVTrueHD7.1-HDT"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The Hunger Games_ Mockingjay - Part 1 (2014) WEBRip"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Mockingjay...Part.1.2014.1080p.BluRay.x264.YIFY"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Mockingjay.Part.1.2014.WEB-DL.TUBI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Mockingjay.Part.1.2014.WEBRip.Netflix"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Mockingjay.Part.1.2014.720p.BrRip.2CH.HEVC.x265-PSA"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Mockingjay.Part.1.2014.1080p.BluRay.H264.AAC-RARBG"
+        }
+      ],
+      "_enriched": true
+    },
+    "c98769c5-7d9f-4aba-a13e-5ec2abb186b8": {
+      "title": "משחקי הרעב: התלקחות",
+      "year": 2013,
+      "category": "סרטים",
+      "description": "הסיפור מתחיל כשקטניס אוורדין חוזרת הביתה בבטחה לאחר שזכתה במשחקי הרעב השנתיים, ה-74 במספר, עם חברה לשבט פיטה מלארק. משמעות ניצחונם היא שעליהם לעזוב את משפחתם ואת חבריהם הקרובים ולצאת ל\"מסע ניצחון\" במחוזות השונים. לאורך הדרך קטניס חשה שמתקומם מרד, אבל הקפיטול עדיין בשליטה כשהנשיא סנואו מתכונן לתחרות",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11273?exp=1790182350&sig=18172a41bda97fde4a2ee53bd5b0231c",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11273?exp=1790182350&sig=18172a41bda97fde4a2ee53bd5b0231c",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/5CKLK6lMQWzfnGNDkFApF8qqdP4.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "c98769c5-7d9f-4aba-a13e-5ec2abb186b8",
+      "created_date": "2026-09-17T20:06:05.493Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg",
+      "tmdb_id": 101299,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.4,
+      "genres": [
+        "הרפתקאות",
+        "פעולה",
+        "מדע בדיוני"
+      ],
+      "en_title": "The Hunger Games: Catching Fire",
+      "trailer": "FdRzNcTdlH4",
+      "cast": [
+        "ג'ניפר לורנס",
+        "ג'וש האצ'רסון",
+        "ליאם המסוורת'",
+        "וודי הרלסון",
+        "אליזבת בנקס",
+        "דונלד סאת'רלנד",
+        "לני קרביץ",
+        "פיליפ סימור הופמן",
+        "ג'פרי רייט",
+        "סטנלי טוצ'י",
+        "טובי ג'ונס",
+        "וילו שילדס",
+        "סם קלאפלין",
+        "Lynn Cohen",
+        "ג'נה מאלון"
+      ],
+      "duration_seconds": 8760,
+      "imdb_id": "tt1951264",
+      "imdb_rating": "7.5",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Catching.Fire.2013.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-RARBG"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The Hunger Games_ Catching Fire (2013) WEBRip"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Hunger Games Catching Fire, The.2013.Bluray-1080p Proper-AMIABLE.en"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Catching.Fire.2013.1080p.BluRay.x264.YIFY"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Catching.Fire.2013.WEB-DL.TUBI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Catching.Fire.2013.WEBRip.Netflix"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Catching.Fire.2013.IMAX.BluRay.x264.DTS-FGT"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.Catching.Fire.2013.720p.BluRay.x264-Pahe.in"
+        }
+      ],
+      "_enriched": true
+    },
+    "14895d43-95d5-48cd-bcdc-1aa80f33d8ce": {
+      "title": "משחקי הרעב: בלדה לנחשים וציפורי שיר",
+      "year": 2023,
+      "category": "סרטים",
+      "description": "כשמשחקי הרעב חוגגים עשור לקיומם, סנו הצעיר נרתע תחילה כשנודע לו כי הוא נבחר להדריך את לוסי גריי ביירד, המתמודדת הנבחרת של מחוז 12 העני והמרוד. אך כעת, סנו חושב שאולי הוא מצא שותפה כדי להפוך את הסיכויים להישרדות לטובתם. שניהם משתמשים בכישוריהם הטבעיים למופעי ראווה, לצד ידע פוליטי נרכש, כדי לשרוד כנגד",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11276?exp=1790182350&sig=abd23fbc4b4ce7898773f32bb4c86785",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11276?exp=1790182350&sig=abd23fbc4b4ce7898773f32bb4c86785",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/jkRkv2OTFQhhk0dt6uToxt5GylK.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "14895d43-95d5-48cd-bcdc-1aa80f33d8ce",
+      "created_date": "2026-09-17T20:06:53.640Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bk1TitfD4YIGrM6AvljonMCtfnl.jpg",
+      "tmdb_id": 695721,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7,
+      "genres": [
+        "מדע בדיוני",
+        "פעולה"
+      ],
+      "en_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "trailer": "1MH9CUxlDwQ",
+      "cast": [
+        "Tom Blyth",
+        "רייצ'ל זגלר",
+        "פיטר דינקלג'",
+        "ג'ייסון שוורצמן",
+        "האנטר שפר",
+        "ג'וש אנדרס ריברה",
+        "ויולה דייוויס",
+        "פינולה פלנגן",
+        "Burn Gorman",
+        "Dexter Sol Ansell",
+        "Rosa Gotzler",
+        "Clemens Schick",
+        "Ashley Liao",
+        "Athena Strates",
+        "Joshua Kantara"
+      ],
+      "duration_seconds": 7800,
+      "imdb_id": "tt10545296",
+      "imdb_rating": "6.6",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.The.Ballad.of.Songbirds.and.Snakes.2023.HDTS.c1nem4.x264-SUNSCREEN"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.The.Ballad.of.Songbirds.and.Snakes.2023.1080p.TeleSync.x264.ENG.YG"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "BluRay - الترجمة الأصلية"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "TheHungerGames:TheBalladofSongbirds&amp;Snakes(2023)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The Hunger Games： The Ballad of Songbirds & Snakes English"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Hunger Games The Ballad of Songbirds & Snakes, The.2023.Bluray-1080p-eXterminator.en.hi"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.720p.WEBRip.x264.AAC-[YTS.MX]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Hunger.Games.The.Ballad.of.Songbirds.and.Snakes.2023.WEBRip.Amazon"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
