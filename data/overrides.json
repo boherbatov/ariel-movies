@@ -17543,6 +17543,362 @@
         }
       ],
       "_enriched": true
+    },
+    "0b382ca3-0359-49c3-9c90-111bf26f27fc": {
+      "title": "משחקי הרעב",
+      "year": 2012,
+      "category": "סרטים",
+      "description": "בהריסות של מה שהיה מוכר לנו כצפון אמריקה נמצאת פנם, בירה נוצצת שמוקפת ב-12 מחוזות. הבירה היא מקום נוקשה ואכזר. כל שנה הבירה מכריחה לשלוח נער ונערה מכל מחוז כדי להשתתף בתחרות עד המוות של \"משחקי רעב\" שמשודרת בטלוויזיה. נערה בת שש-עשר בשם קטניס מתייחסת לתחרות כאל עונש מוות, היא נכנסת לתחרות במקום אחותה",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11272?exp=1790182350&sig=3b96849fca822c2c4d125ff2f0719cf0",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11272?exp=1790182350&sig=3b96849fca822c2c4d125ff2f0719cf0",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/jSiSj1HsmUPH8GtFI1rTJZsUJSN.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "0b382ca3-0359-49c3-9c90-111bf26f27fc",
+      "created_date": "2026-09-17T20:05:41.773Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3sndNmvdF0R8AeyCmVoNv8LKtNy.jpg",
+      "tmdb_id": 70160,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.2,
+      "genres": [
+        "מדע בדיוני",
+        "הרפתקאות",
+        "פעולה",
+        "מותחן"
+      ],
+      "en_title": "The Hunger Games",
+      "trailer": "B28pMh2OMnk",
+      "cast": [
+        "ג'ניפר לורנס",
+        "ג'וש האצ'רסון",
+        "ליאם המסוורת'",
+        "וודי הרלסון",
+        "אליזבת בנקס",
+        "לני קרביץ",
+        "סטנלי טוצ'י",
+        "דונלד סאת'רלנד",
+        "Wes Bentley",
+        "טובי ג'ונס",
+        "אלכסנדר לודוויג",
+        "Isabelle Fuhrman",
+        "אמנדלה סטנברג",
+        "וילו שילדס",
+        "Sandra Ellis Lafferty"
+      ],
+      "duration_seconds": 8520,
+      "imdb_id": "tt1392170",
+      "imdb_rating": "7.2",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "* תרגום אולפנים * The.Hunger.Games.2012.720p.BluRay.H264.AAC-RARBG"
+        },
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "* תרגום אולפנים * The.Hunger.Games.2012.1080p.BluRay.DD+7.1.x264-playHD"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The Hunger Games 2012 PROPER BRRip 720p x264 AAC - KiNGDOM"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The Hunger Games (2012).720p.BluRay x264-MgB"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The.Hunger.Games.1080p.BluRay.x264.YIFY"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The Hunger Games 2012 2160p Piex"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Hunger.Games.2012.MULTi.1080p.BluRay.x264–LOST"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Hunger.Games.2012.Bluray.1080p.720p"
+        }
+      ],
+      "_enriched": true
+    },
+    "2f21824c-1f5e-42da-9ac5-460ff55b17df": {
+      "id": "2f21824c-1f5e-42da-9ac5-460ff55b17df",
+      "created_date": "2026-09-17T17:24:23.511Z",
+      "title": "the vampire diaries",
+      "year": 2009,
+      "category": "סדרות",
+      "description": "דיימון וסטפן סלבטורה, צמד אחים ערפדים והפכים מושלמים, שבים לעיירת מולדתם - העיירה הקטנה מיסטיק פולס שבווירג'יניה, שרדופה מאז הקמתה על-ידי ישויות על-טבעיות. הם מתאהבים באלנה גילברט והופכים כפייתיים כלפיה, עם ובלי קשר לדמיונה הפיזי וקשרה המשפחתי לקתרין פירס, הערפדית חסרת הרחמים שהאחים הכירו ואהבו ב-18",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11081?exp=1790182350&sig=a1a8e4b2833cc31674f8349c0cc103ad",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11081?exp=1790182350&sig=a1a8e4b2833cc31674f8349c0cc103ad",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/55nuZQjzpZqHP0UYJviOELxyoUf.jpg",
+      "custom_slug": null,
+      "series_name": "the vampire diaries",
+      "season_number": 3,
+      "episode_number": 14,
+      "episode_title": "",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+      "tmdb_id": 18165,
+      "tmdb_kind": "tv",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 8.3,
+      "genres": [
+        "דרמה",
+        "מדע בדיוני ופנטזיה",
+        "רומנטיקה",
+        "Supernatural"
+      ],
+      "en_title": "The Vampire Diaries",
+      "trailer": "RO3Qp_XdR0w",
+      "cast": [
+        "פול ווסלי",
+        "איאן סומרהולדר",
+        "קאט גרהאם",
+        "קנדיס קינג",
+        "זאק רוריג",
+        "Michael Malarkey",
+        "מתיו דייוויס"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt1405406",
+      "imdb_rating": "7.7",
+      "network": "The CW",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Vampire Diaries"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "9-Cold As Ice"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8-Hold Me,Thrill Me,Kiss Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "7-Mommie Dearest"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "6-Best Served Cold"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "4-I Carry Your Heart With Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "5-Live Through This"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "3-Age Of Innocence"
+        }
+      ],
+      "_enriched": true
+    },
+    "d1ff9c63-fb8f-486e-b36a-93c824352544": {
+      "id": "d1ff9c63-fb8f-486e-b36a-93c824352544",
+      "created_date": "2026-09-17T17:24:23.511Z",
+      "title": "the vampire diaries",
+      "year": 2009,
+      "category": "סדרות",
+      "description": "דיימון וסטפן סלבטורה, צמד אחים ערפדים והפכים מושלמים, שבים לעיירת מולדתם - העיירה הקטנה מיסטיק פולס שבווירג'יניה, שרדופה מאז הקמתה על-ידי ישויות על-טבעיות. הם מתאהבים באלנה גילברט והופכים כפייתיים כלפיה, עם ובלי קשר לדמיונה הפיזי וקשרה המשפחתי לקתרין פירס, הערפדית חסרת הרחמים שהאחים הכירו ואהבו ב-18",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11080?exp=1790182350&sig=ad5f54638ae16cbbd663c7180e22283d",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11080?exp=1790182350&sig=ad5f54638ae16cbbd663c7180e22283d",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/55nuZQjzpZqHP0UYJviOELxyoUf.jpg",
+      "custom_slug": null,
+      "series_name": "the vampire diaries",
+      "season_number": 3,
+      "episode_number": 13,
+      "episode_title": "",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+      "tmdb_id": 18165,
+      "tmdb_kind": "tv",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 8.3,
+      "genres": [
+        "דרמה",
+        "מדע בדיוני ופנטזיה",
+        "רומנטיקה",
+        "Supernatural"
+      ],
+      "en_title": "The Vampire Diaries",
+      "trailer": "RO3Qp_XdR0w",
+      "cast": [
+        "פול ווסלי",
+        "איאן סומרהולדר",
+        "קאט גרהאם",
+        "קנדיס קינג",
+        "זאק רוריג",
+        "Michael Malarkey",
+        "מתיו דייוויס"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt1405406",
+      "imdb_rating": "7.7",
+      "network": "The CW",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Vampire Diaries"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "9-Cold As Ice"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8-Hold Me,Thrill Me,Kiss Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "7-Mommie Dearest"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "6-Best Served Cold"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "4-I Carry Your Heart With Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "5-Live Through This"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "3-Age Of Innocence"
+        }
+      ],
+      "_enriched": true
+    },
+    "069f31e9-178c-4c58-b297-d2ac6e1489c2": {
+      "id": "069f31e9-178c-4c58-b297-d2ac6e1489c2",
+      "created_date": "2026-09-17T17:24:23.511Z",
+      "title": "the vampire diaries",
+      "year": 2009,
+      "category": "סדרות",
+      "description": "דיימון וסטפן סלבטורה, צמד אחים ערפדים והפכים מושלמים, שבים לעיירת מולדתם - העיירה הקטנה מיסטיק פולס שבווירג'יניה, שרדופה מאז הקמתה על-ידי ישויות על-טבעיות. הם מתאהבים באלנה גילברט והופכים כפייתיים כלפיה, עם ובלי קשר לדמיונה הפיזי וקשרה המשפחתי לקתרין פירס, הערפדית חסרת הרחמים שהאחים הכירו ואהבו ב-18",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11082?exp=1790182350&sig=ef295ebc11e0f9523141739937436049",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11082?exp=1790182350&sig=ef295ebc11e0f9523141739937436049",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/55nuZQjzpZqHP0UYJviOELxyoUf.jpg",
+      "custom_slug": null,
+      "series_name": "the vampire diaries",
+      "season_number": 3,
+      "episode_number": 15,
+      "episode_title": "",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+      "tmdb_id": 18165,
+      "tmdb_kind": "tv",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 8.3,
+      "genres": [
+        "דרמה",
+        "מדע בדיוני ופנטזיה",
+        "רומנטיקה",
+        "Supernatural"
+      ],
+      "en_title": "The Vampire Diaries",
+      "trailer": "RO3Qp_XdR0w",
+      "cast": [
+        "פול ווסלי",
+        "איאן סומרהולדר",
+        "קאט גרהאם",
+        "קנדיס קינג",
+        "זאק רוריג",
+        "Michael Malarkey",
+        "מתיו דייוויס"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt1405406",
+      "imdb_rating": "7.7",
+      "network": "The CW",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Vampire Diaries"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "9-Cold As Ice"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8-Hold Me,Thrill Me,Kiss Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "7-Mommie Dearest"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "6-Best Served Cold"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "4-I Carry Your Heart With Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "5-Live Through This"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "3-Age Of Innocence"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
