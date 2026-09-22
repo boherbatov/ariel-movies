@@ -24202,6 +24202,80 @@
         }
       ],
       "_enriched": true
+    },
+    "d8f1c937-8488-4588-8280-dea332e0c0d3": {
+      "title": "קופה ראשית | ספיישל וידויים מהקופה",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/e28CIGgNlfxUO2b6dq6wHZY3XRm.jpg",
+      "type": "youtube",
+      "youtube_id": "7lsWf4zhLyI",
+      "video_url": "https://www.youtube.com/watch?v=7lsWf4zhLyI",
+      "source": "admin-smart-import",
+      "year": 2018,
+      "id": "d8f1c937-8488-4588-8280-dea332e0c0d3",
+      "category": "קומדיה",
+      "detected_kind": "series",
+      "_sources": {
+        "tmdb_id": "TMDB",
+        "tmdb_rating": "TMDB",
+        "year": "TMDB",
+        "category": "TMDB",
+        "thumbnail_url": "TMDB",
+        "backdrop_url": "TMDB",
+        "description": "TMDB עברית",
+        "trailer": "TMDB",
+        "cast": "TMDB",
+        "duration_seconds": "TMDB",
+        "imdb_id": "TMDB",
+        "imdb_rating": "OMDb",
+        "en_title": "AI",
+        "ar_title": "AI",
+        "series_name": "AI"
+      },
+      "_uncertain": [
+        "tmdb_id",
+        "tmdb_id",
+        "en_title",
+        "ar_title",
+        "series_name"
+      ],
+      "_enriched": true,
+      "tmdb_id": 97177,
+      "tmdb_kind": "tv",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": "7.2",
+      "genres": [
+        "קומדיה"
+      ],
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jrUhKORA13PslES38kJRRncqzlH.jpg",
+      "description": "סדרה מוקומנטרית המתרחשת בסניף של רשת סופרמרקטים קטנה אי שם במרכז הארץ. הדמויות הן דמויות שנשלפו היישר מהסופר הישראלי, כולן מעוררי הזדהות שאנו נתקלים בהם לפחות פעם בשבוע. התכנית מצולמת, מבויימת וערוכה בסגנון דוקו והסיפורים מסופרים דרך עדויות של הדמויות המשולבות בתוך החומר המצולם ב\"דוקו\". הסדרה היתה מועמדת לפרס האמי הבינלאומי לתוכנית הקומית הטובה ביותר.",
+      "trailer": "U1r5ZPMMwms",
+      "cast": [
+        "קרן מור",
+        "יניב סוויסה",
+        "אמיר שורוש",
+        "אביבה נגוסה",
+        "דניאל סטיופין",
+        "נועה קולר",
+        "דורית לב ארי",
+        "דב נבון",
+        "יגאל עדיקא",
+        "יענקל'ה בודו",
+        "אושיק לוי",
+        "רודי סעדה",
+        "Anat Barzilai",
+        "רות פרחי"
+      ],
+      "duration_seconds": 1500,
+      "imdb_id": "tt8796226",
+      "imdb_rating": "8.7",
+      "network": "Kan 11",
+      "series_status": "Running",
+      "_warnings": [
+        "ההתאמה ב-TMDB נמצאה דרך הצעת AI (\"Kupa Rashit\") - נא לוודא שהיא נכונה"
+      ],
+      "en_title": "Kupa Rashit | Confessions Special",
+      "ar_title": " | اعترافات من الصندوق",
+      "suggested_title": "קופה ראשית"
     }
   },
   "deleted": [
