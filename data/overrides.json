@@ -11757,6 +11757,373 @@
         }
       ],
       "_enriched": true
+    },
+    "e2352b5d-9c02-4bef-afef-7e3ce6692938": {
+      "title": "ונום 2",
+      "year": 2021,
+      "category": "מארוול",
+      "description": "אדי ברוק וונום עוד לא למדו לחיות בשלום זה עם זה. האם יצליחו להתמודד עם הרוצח הסדרתי קליטוס קסאדי ועם סימביוט חייזרי חדש ומאיים?",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12142?exp=1790182350&sig=58607d0cfdcbca5f5b078588330808c6",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12142?exp=1790182350&sig=58607d0cfdcbca5f5b078588330808c6",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/gAn7VTT5q4caTXOON3ijCLfJUh4.jpg",
+      "trailer_url": "https://youtu.be/TLda5-GEHUc?si=7Ki5PRb5C4UKfIGi",
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "e2352b5d-9c02-4bef-afef-7e3ce6692938",
+      "created_date": "2026-09-18T11:07:56.669Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/eENEf62tMXbhyVvdcXlnQz2wcuT.jpg",
+      "tmdb_id": 580489,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.729,
+      "genres": [
+        "מדע בדיוני",
+        "פעולה",
+        "הרפתקאות"
+      ],
+      "en_title": "Venom: Let There Be Carnage",
+      "trailer": "TLda5-GEHUc",
+      "cast": [
+        "טום הארדי",
+        "וודי הרלסון",
+        "מישל וויליאמס",
+        "נעמי האריס",
+        "ריד סקוט",
+        "סטיבן גראהם",
+        "פגי לו",
+        "Sian Webber",
+        "Michelle Greenidge",
+        "Rob Bowen",
+        "Laurence Spellman",
+        "Little Simz",
+        "Jack Bandeira",
+        "Olumide Olorunfemi",
+        "Scroobius Pip"
+      ],
+      "duration_seconds": 5820,
+      "imdb_id": "tt7097896",
+      "imdb_rating": "5.9",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Venom.Let.There.be.Carnage.2021.720p.BluRay.HEVC.x265-RMTeam"
+        },
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Venom.Let.There.be.Carnage.2021.720p.BDRip.x264-BiPolar"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Venom.Let.There.Be.Carnage.2021.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Venom.Let.There.be.Carnage.2021.720p.BluRay.HEVC.x265-RMTeam"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Venom.Let.There.be.Carnage.2021.720p.BDRip.x264-BiPolar"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Venom: Let There Be Carnage 2021"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Venom.Let.There.be.Carnage.2021.720p.BluRay.HEVC.x265-RMTeam"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Venom：Let There Be Carnage (BluRay)"
+        }
+      ],
+      "_enriched": true
+    },
+    "838ac03a-765d-41df-a71e-7b2e6febbc91": {
+      "title": "ונום",
+      "year": 2018,
+      "category": "מארוול",
+      "description": "במשך שנים ניסה העיתונאי ברוק להפיל את המדען הנודע לשמצה קרלטון דרייק - אובססיה שהרסה את הקריירה של אדי ואת מערכת היחסים שלו עם חברתו אן. כשונום, אחד מניסוייו של דרייק מתמזג עם גופו של אדי, הוא זוכה לפתע בכוחות על אדירים, וההזדמנות לעשות מה שהוא רוצה. מעוות, אפל, בלתי צפוי ומלא זעם, ונום מקשה על אדי",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12143?exp=1790182350&sig=b9a845fbff4bfdc9973e2000da646c40",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12143?exp=1790182350&sig=b9a845fbff4bfdc9973e2000da646c40",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/kcsqQTTJGAchG4tuDxtxvCqofWQ.jpg",
+      "trailer_url": "https://youtu.be/ISZ2fVSclic?si=5vRKgEwObLRKafnf",
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "838ac03a-765d-41df-a71e-7b2e6febbc91",
+      "created_date": "2026-09-18T11:07:45.651Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+      "tmdb_id": 335983,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.823,
+      "genres": [
+        "מדע בדיוני",
+        "פעולה"
+      ],
+      "en_title": "Venom",
+      "trailer": "LTvynkiYi4k",
+      "cast": [
+        "טום הארדי",
+        "מישל וויליאמס",
+        "ריז אחמד",
+        "Scott Haze",
+        "ריד סקוט",
+        "ג'ני סלייט",
+        "Melora Walters",
+        "וודי הרלסון",
+        "פגי לו",
+        "Malcolm C. Murray",
+        "Sope Aluko",
+        "Wayne Péré",
+        "Michelle Lee",
+        "Kurt Yue",
+        "Chris O'Hara"
+      ],
+      "duration_seconds": 6720,
+      "imdb_id": "tt1270797",
+      "imdb_rating": "6.6",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Venom.2018.WEBRip.Netflix"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Venom.2018.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Venom.2018.HDTC"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Venom.2018"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "(الرجاءالتقييموشكرا)ترجمةأمزونالأصلية.ترجمةخامغيرمعدلة"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Venom.2018.WEBRip.Netflix"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Venom.2018.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-RARBG.en"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Venom.2018.1080p.BluRay.x264-[YTS.AM]"
+        }
+      ],
+      "_enriched": true
+    },
+    "7ab5ed1b-e8ec-44cf-9b4a-b7108d95ca3b": {
+      "title": "השטן לובשת פראדה 2",
+      "year": 2026,
+      "category": "סרטים",
+      "description": "מאבקה של מירנדה פריסלי בעוזרת שלה לשעבר שהפכה לאויבת מושבעת, אמילי צ'רלטון. השתיים מתחרות על אותו תקציב הפרסום, כשברקע המדיה המודפסת נמצאת בדעיכה ומירנדה עצמה מתקרבת לגמלאות.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11945?exp=1790182350&sig=e299adc0189330fd24a6c0a8d4bb1e3b",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11945?exp=1790182350&sig=e299adc0189330fd24a6c0a8d4bb1e3b",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/j8b3Jxbl55439xGEY8QC5uSM3yX.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "7ab5ed1b-e8ec-44cf-9b4a-b7108d95ca3b",
+      "created_date": "2026-09-18T09:47:27.408Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+      "tmdb_id": 1314481,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.049,
+      "genres": [
+        "קומדיה",
+        "דרמה"
+      ],
+      "en_title": "The Devil Wears Prada 2",
+      "trailer": "jjSiMRgb5Cw",
+      "cast": [
+        "אן האת'וויי",
+        "מריל סטריפ",
+        "אמילי בלאנט",
+        "סטנלי טוצ'י",
+        "קנת בראנה",
+        "ג'סטין ת'רו",
+        "לוסי לו",
+        "טרייסי תומאס",
+        "Tibor Feldman",
+        "בי ג'יי נובאק",
+        "Patrick Brammall",
+        "סימון אשלי",
+        "Caleb Hearon",
+        "Helen J. Shen",
+        "רייצ'ל בלום"
+      ],
+      "duration_seconds": 7140,
+      "imdb_id": "tt33612209",
+      "imdb_rating": "6.4",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Devil.Wears.Prada.2.2026.BLURAY.1080p.BluRay.x264.AAC5.1-[YTS.GG - YTS.BZ]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Devil.Wears.Prada.2.2026.BLURAY.1080p.BluRay.x264.AAC5.1-[YTS.GG - YTS.BZ]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Michael.2026.1080p.TS.x264-GP-M-Eng-en"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Devil.Wears.Prada.2.2026.1080p.BluRay.x265-YAWNTiC_eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Devil.Wears.Prada.2.2026.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "[𝗖𝗼𝗳𝗳𝗲𝗲𝗣𝗿𝗶𝘀𝗼𝗻] 𝗧𝗛𝗘 𝗗𝗘𝗩𝗜𝗟 𝗪𝗘𝗔𝗥𝗦 𝗣𝗥𝗔𝗗𝗔 𝟮 (𝟮𝟬𝟮𝟲) 𝗗𝗦𝗡+ 𝗪𝗘𝗕 "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "[𝗖𝗼𝗳𝗳𝗲𝗲𝗣𝗿𝗶𝘀𝗼𝗻] 𝗧𝗛𝗘 𝗗𝗘𝗩𝗜𝗟 𝗪𝗘𝗔𝗥𝗦 𝗣𝗥𝗔𝗗𝗔 𝟮 (𝟮𝟬𝟮𝟲) 𝗗𝗦𝗡+ 𝗪𝗘𝗕 (𝗛𝗜)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Devil.Wears.Prada.2.2026.Hybrid.2160p.UHD.Blu-ray.Remux.HEVC.DV.HDR10P.TrueHD.7.1.Atmos-ArteLabo"
+        }
+      ],
+      "_enriched": true
+    },
+    "14d5503a-e4cc-4bd1-9b98-c9d9c505819b": {
+      "title": "שנינו נגד העולם",
+      "year": 2026,
+      "category": "סרטים",
+      "description": "אלמה לנקסטר, בחורה צעירה ממשפחה טובה, הקצתה לעצמה שנה, בלי ידיעת הוריה שחושבים שהיא לומדת משפטים, לנסות להגשים את חלומה ליצור סרטים. כשהמרצה מאלץ אותה לעבוד עם ואדים ארקדי, בחור צעיר בלי משפחה או חברים כמעט, משיכה מחשמלת ניצתת בין השניים. אך מאחורי הקלעים אורבת סכנה בלתי נראית שמאיימת להפריד ביניהם",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11946?exp=1790182350&sig=0f0bb797eb7f1330fa94f4581552cad6",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11946?exp=1790182350&sig=0f0bb797eb7f1330fa94f4581552cad6",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/hKKkE9uwr9eQMEtaSF5MNVRmmM8.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "14d5503a-e4cc-4bd1-9b98-c9d9c505819b",
+      "created_date": "2026-09-18T10:45:57.874Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+      "tmdb_id": 1641629,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.6,
+      "genres": [
+        "רומנטיקה",
+        "דרמה"
+      ],
+      "en_title": "Toi+Moi - Seuls contre tous",
+      "trailer": "z2Bw_nTXjG4",
+      "cast": [
+        "Vittoria Di Savoia",
+        "Lucas Barski",
+        "Zoé Garcia",
+        "Léo Legrand",
+        "Jean-Yves Berteloot",
+        "Suliane Brahim",
+        "Aymeric Fougeron",
+        "Gabrielle Taittinger",
+        "Bryan Trésor",
+        "Aboubacar Bidanessy",
+        "Sami Nasri",
+        "Adam Abdo",
+        "Alex Descas",
+        "Maï Anh Le",
+        "Carla Souary"
+      ],
+      "duration_seconds": 5640,
+      "imdb_id": "tt43617372",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "You.Plus.Me.Against.the.World.2026.FRENCH.AMZN.WEB.H264-9Minus5in"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "[𝐂𝐨𝐟𝐟𝐞𝐞𝐏𝐫𝐢𝐬𝐨𝐧] 𝐘𝐎𝐔+𝐌𝐄 – 𝐀𝐠𝐚𝐢𝐧𝐬𝐭 𝐭𝐡𝐞 𝐖𝐨𝐫𝐥𝐝 (𝟐𝟎𝟐𝟔) 𝐏𝐑𝐈𝐌𝐄 𝐀𝐌𝐙𝐍 𝐖𝐄𝐁"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "You.Plus.Me.Against.the.World.2026.FRENCH.AMZN.WEB.H264-9Minus5in"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "you.plus.me.against.the.world.2026.1080p.web.h264-9minus5in_[eng]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "[𝐂𝐨𝐟𝐟𝐞𝐞𝐏𝐫𝐢𝐬𝐨𝐧] 𝐘𝐎𝐔+𝐌𝐄 – 𝐀𝐠𝐚𝐢𝐧𝐬𝐭 𝐭𝐡𝐞 𝐖𝐨𝐫𝐥𝐝 (𝟐𝟎𝟐𝟔) 𝐏𝐑𝐈𝐌𝐄 𝐀𝐌𝐙𝐍 𝐖𝐄𝐁"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "You.Plus.Me.Against.the.World.2026.FRENCH.AMZN.WEB.H264-9Minus5in"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "you.plus.me.against.the.world.2026.1080p.web.h264-9minus5in_[eng]"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
