@@ -1097,6 +1097,379 @@
         }
       ],
       "_enriched": true
+    },
+    "a9656f63-066a-400f-b60b-fdc764f6fac0": {
+      "id": "a9656f63-066a-400f-b60b-fdc764f6fac0",
+      "created_date": "2026-09-17T20:35:58.867Z",
+      "title": "בו, ביץ'!",
+      "year": 2022,
+      "category": "סדרות",
+      "description": "שתי חברות טובות תלמידות י\"ב עושות ניסיון נואש אחרון להיות מקובלות בחברה. כשאחת מהן הופכת לרוח רפאים, היא מבינה שכדאי לה למצות כל רגע בחיים – כל עוד זה אפשרי.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11281?exp=1790169737&sig=52a83eb42cfe227042972daf8c450976",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11281?exp=1790169737&sig=52a83eb42cfe227042972daf8c450976",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/4rPGSDnuTCX5XWmS1fuZPXlgDEE.jpg",
+      "custom_slug": null,
+      "series_name": "בו, ביץ'!",
+      "season_number": 1,
+      "episode_number": 7,
+      "episode_title": "",
+      "tmdb_id": 132188,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ttmsbW7t6CPrx85mOUFppWKu9hR.jpg",
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.3,
+      "genres": [
+        "קומדיה",
+        "מדע בדיוני ופנטזיה",
+        "הרפתקאות",
+        "Supernatural"
+      ],
+      "en_title": "Boo, Bitch",
+      "trailer": "nlO3dXL6clc",
+      "cast": [
+        "לאנה קונדור",
+        "Zoe Colletti",
+        "Mason Versaw",
+        "Aparna Brielle",
+        "Tenzing Norgay Trainor",
+        "Jami Alix"
+      ],
+      "duration_seconds": 1500,
+      "imdb_id": "tt14097144",
+      "imdb_rating": "6.0",
+      "network": "Netflix",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x264-ION10.18_Hebrew"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo,.Bitch.S01.WEBRip.Netflix.en[cc]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        }
+      ],
+      "_enriched": true
+    },
+    "c352ccc0-34d0-40f5-b155-8f9198cb2bb1": {
+      "id": "c352ccc0-34d0-40f5-b155-8f9198cb2bb1",
+      "created_date": "2026-09-17T20:35:58.867Z",
+      "title": "בו, ביץ'!",
+      "year": 2022,
+      "category": "סדרות",
+      "description": "שתי חברות טובות תלמידות י\"ב עושות ניסיון נואש אחרון להיות מקובלות בחברה. כשאחת מהן הופכת לרוח רפאים, היא מבינה שכדאי לה למצות כל רגע בחיים – כל עוד זה אפשרי.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11282?exp=1790169737&sig=4a8d5b059b585f506854c90234cb4d40",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11282?exp=1790169737&sig=4a8d5b059b585f506854c90234cb4d40",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/4rPGSDnuTCX5XWmS1fuZPXlgDEE.jpg",
+      "custom_slug": null,
+      "series_name": "בו, ביץ'!",
+      "season_number": 1,
+      "episode_number": 2,
+      "episode_title": "",
+      "tmdb_id": 132188,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ttmsbW7t6CPrx85mOUFppWKu9hR.jpg",
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.3,
+      "genres": [
+        "קומדיה",
+        "מדע בדיוני ופנטזיה",
+        "הרפתקאות",
+        "Supernatural"
+      ],
+      "en_title": "Boo, Bitch",
+      "trailer": "nlO3dXL6clc",
+      "cast": [
+        "לאנה קונדור",
+        "Zoe Colletti",
+        "Mason Versaw",
+        "Aparna Brielle",
+        "Tenzing Norgay Trainor",
+        "Jami Alix"
+      ],
+      "duration_seconds": 1500,
+      "imdb_id": "tt14097144",
+      "imdb_rating": "6.0",
+      "network": "Netflix",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x264-ION10.18_Hebrew"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo,.Bitch.S01.WEBRip.Netflix.en[cc]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        }
+      ],
+      "_enriched": true
+    },
+    "3a17c475-2543-4248-b387-d77fdbed12f4": {
+      "id": "3a17c475-2543-4248-b387-d77fdbed12f4",
+      "created_date": "2026-09-17T20:35:58.867Z",
+      "title": "בו, ביץ'!",
+      "year": 2022,
+      "category": "סדרות",
+      "description": "שתי חברות טובות תלמידות י\"ב עושות ניסיון נואש אחרון להיות מקובלות בחברה. כשאחת מהן הופכת לרוח רפאים, היא מבינה שכדאי לה למצות כל רגע בחיים – כל עוד זה אפשרי.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11283?exp=1790169737&sig=dbab4a76c2a7156adb82e5a9162e8526",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11283?exp=1790169737&sig=dbab4a76c2a7156adb82e5a9162e8526",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/4rPGSDnuTCX5XWmS1fuZPXlgDEE.jpg",
+      "custom_slug": null,
+      "series_name": "בו, ביץ'!",
+      "season_number": 1,
+      "episode_number": 8,
+      "episode_title": "",
+      "tmdb_id": 132188,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ttmsbW7t6CPrx85mOUFppWKu9hR.jpg",
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.3,
+      "genres": [
+        "קומדיה",
+        "מדע בדיוני ופנטזיה",
+        "הרפתקאות",
+        "Supernatural"
+      ],
+      "en_title": "Boo, Bitch",
+      "trailer": "nlO3dXL6clc",
+      "cast": [
+        "לאנה קונדור",
+        "Zoe Colletti",
+        "Mason Versaw",
+        "Aparna Brielle",
+        "Tenzing Norgay Trainor",
+        "Jami Alix"
+      ],
+      "duration_seconds": 1500,
+      "imdb_id": "tt14097144",
+      "imdb_rating": "6.0",
+      "network": "Netflix",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x264-ION10.18_Hebrew"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo,.Bitch.S01.WEBRip.Netflix.en[cc]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        }
+      ],
+      "_enriched": true
+    },
+    "b0e25f3b-bc44-4138-9f3d-02ca860e7c16": {
+      "id": "b0e25f3b-bc44-4138-9f3d-02ca860e7c16",
+      "created_date": "2026-09-17T20:35:58.867Z",
+      "title": "בו, ביץ'!",
+      "year": 2022,
+      "category": "סדרות",
+      "description": "שתי חברות טובות תלמידות י\"ב עושות ניסיון נואש אחרון להיות מקובלות בחברה. כשאחת מהן הופכת לרוח רפאים, היא מבינה שכדאי לה למצות כל רגע בחיים – כל עוד זה אפשרי.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11285?exp=1790169737&sig=9a58ea1ac0c84e077c1a19b8681b011a",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11285?exp=1790169737&sig=9a58ea1ac0c84e077c1a19b8681b011a",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/4rPGSDnuTCX5XWmS1fuZPXlgDEE.jpg",
+      "custom_slug": null,
+      "series_name": "בו, ביץ'!",
+      "season_number": 1,
+      "episode_number": 4,
+      "episode_title": "",
+      "tmdb_id": 132188,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ttmsbW7t6CPrx85mOUFppWKu9hR.jpg",
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.3,
+      "genres": [
+        "קומדיה",
+        "מדע בדיוני ופנטזיה",
+        "הרפתקאות",
+        "Supernatural"
+      ],
+      "en_title": "Boo, Bitch",
+      "trailer": "nlO3dXL6clc",
+      "cast": [
+        "לאנה קונדור",
+        "Zoe Colletti",
+        "Mason Versaw",
+        "Aparna Brielle",
+        "Tenzing Norgay Trainor",
+        "Jami Alix"
+      ],
+      "duration_seconds": 1500,
+      "imdb_id": "tt14097144",
+      "imdb_rating": "6.0",
+      "network": "Netflix",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x264-ION10.18_Hebrew"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo,.Bitch.S01.WEBRip.Netflix.en[cc]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        }
+      ],
+      "_enriched": true
+    },
+    "ebdf4229-e6d8-4b62-9b3a-8f8d84f4ed9d": {
+      "id": "ebdf4229-e6d8-4b62-9b3a-8f8d84f4ed9d",
+      "created_date": "2026-09-17T17:24:23.509Z",
+      "title": "the vampire diaries",
+      "year": 2009,
+      "category": "סדרות",
+      "description": "דיימון וסטפן סלבטורה, צמד אחים ערפדים והפכים מושלמים, שבים לעיירת מולדתם - העיירה הקטנה מיסטיק פולס שבווירג'יניה, שרדופה מאז הקמתה על-ידי ישויות על-טבעיות. הם מתאהבים באלנה גילברט והופכים כפייתיים כלפיה, עם ובלי קשר לדמיונה הפיזי וקשרה המשפחתי לקתרין פירס, הערפדית חסרת הרחמים שהאחים הכירו ואהבו ב-18",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11012?exp=1790169737&sig=fdbca85f4fe7c5e9be0d4d95c21e319d",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11012?exp=1790169737&sig=fdbca85f4fe7c5e9be0d4d95c21e319d",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/55nuZQjzpZqHP0UYJviOELxyoUf.jpg",
+      "custom_slug": null,
+      "series_name": "the vampire diaries",
+      "season_number": 1,
+      "episode_number": 1,
+      "episode_title": "",
+      "trailer_url": null,
+      "episode_number_end": null,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+      "tmdb_id": 18165,
+      "tmdb_kind": "tv",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 8.3,
+      "genres": [
+        "דרמה",
+        "מדע בדיוני ופנטזיה",
+        "רומנטיקה",
+        "Supernatural"
+      ],
+      "en_title": "The Vampire Diaries",
+      "trailer": "RO3Qp_XdR0w",
+      "cast": [
+        "פול ווסלי",
+        "איאן סומרהולדר",
+        "קאט גרהאם",
+        "קנדיס קינג",
+        "זאק רוריג",
+        "Michael Malarkey",
+        "מתיו דייוויס"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt1405406",
+      "imdb_rating": "7.7",
+      "network": "The CW",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Vampire Diaries"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "9-Cold As Ice"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8-Hold Me,Thrill Me,Kiss Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "7-Mommie Dearest"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "6-Best Served Cold"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "4-I Carry Your Heart With Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "5-Live Through This"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "3-Age Of Innocence"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
