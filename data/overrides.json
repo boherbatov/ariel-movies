@@ -22807,6 +22807,354 @@
         }
       ],
       "_enriched": true
+    },
+    "1a486c1b-f550-4c1e-8d46-85ac52e82365": {
+      "id": "1a486c1b-f550-4c1e-8d46-85ac52e82365",
+      "created_date": "2026-09-17T17:24:23.513Z",
+      "title": "the vampire diaries",
+      "year": 2009,
+      "category": "סדרות",
+      "description": "דיימון וסטפן סלבטורה, צמד אחים ערפדים והפכים מושלמים, שבים לעיירת מולדתם - העיירה הקטנה מיסטיק פולס שבווירג'יניה, שרדופה מאז הקמתה על-ידי ישויות על-טבעיות. הם מתאהבים באלנה גילברט והופכים כפייתיים כלפיה, עם ובלי קשר לדמיונה הפיזי וקשרה המשפחתי לקתרין פירס, הערפדית חסרת הרחמים שהאחים הכירו ואהבו ב-18",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11139?exp=1790182350&sig=5856338b6be6b3341a55c34f6eb66bd9",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11139?exp=1790182350&sig=5856338b6be6b3341a55c34f6eb66bd9",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/55nuZQjzpZqHP0UYJviOELxyoUf.jpg",
+      "custom_slug": null,
+      "series_name": "the vampire diaries",
+      "season_number": 6,
+      "episode_number": 5,
+      "episode_title": "",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+      "tmdb_id": 18165,
+      "tmdb_kind": "tv",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 8.3,
+      "genres": [
+        "דרמה",
+        "מדע בדיוני ופנטזיה",
+        "רומנטיקה",
+        "Supernatural"
+      ],
+      "en_title": "The Vampire Diaries",
+      "trailer": "RO3Qp_XdR0w",
+      "cast": [
+        "פול ווסלי",
+        "איאן סומרהולדר",
+        "קאט גרהאם",
+        "קנדיס קינג",
+        "זאק רוריג",
+        "Michael Malarkey",
+        "מתיו דייוויס"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt1405406",
+      "imdb_rating": "7.7",
+      "network": "The CW",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Vampire Diaries"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "9-Cold As Ice"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8-Hold Me,Thrill Me,Kiss Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "7-Mommie Dearest"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "6-Best Served Cold"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "4-I Carry Your Heart With Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "5-Live Through This"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "3-Age Of Innocence"
+        }
+      ],
+      "_enriched": true
+    },
+    "7bac2047-a730-4ea6-9e1e-269232b6ae56": {
+      "id": "7bac2047-a730-4ea6-9e1e-269232b6ae56",
+      "created_date": "2026-09-17T17:24:23.513Z",
+      "title": "the vampire diaries",
+      "year": 2009,
+      "category": "סדרות",
+      "description": "דיימון וסטפן סלבטורה, צמד אחים ערפדים והפכים מושלמים, שבים לעיירת מולדתם - העיירה הקטנה מיסטיק פולס שבווירג'יניה, שרדופה מאז הקמתה על-ידי ישויות על-טבעיות. הם מתאהבים באלנה גילברט והופכים כפייתיים כלפיה, עם ובלי קשר לדמיונה הפיזי וקשרה המשפחתי לקתרין פירס, הערפדית חסרת הרחמים שהאחים הכירו ואהבו ב-18",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11141?exp=1790182350&sig=af5c6c810c4db5f450e1b6c91b95918b",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11141?exp=1790182350&sig=af5c6c810c4db5f450e1b6c91b95918b",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/55nuZQjzpZqHP0UYJviOELxyoUf.jpg",
+      "custom_slug": null,
+      "series_name": "the vampire diaries",
+      "season_number": 6,
+      "episode_number": 7,
+      "episode_title": "",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+      "tmdb_id": 18165,
+      "tmdb_kind": "tv",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 8.3,
+      "genres": [
+        "דרמה",
+        "מדע בדיוני ופנטזיה",
+        "רומנטיקה",
+        "Supernatural"
+      ],
+      "en_title": "The Vampire Diaries",
+      "trailer": "RO3Qp_XdR0w",
+      "cast": [
+        "פול ווסלי",
+        "איאן סומרהולדר",
+        "קאט גרהאם",
+        "קנדיס קינג",
+        "זאק רוריג",
+        "Michael Malarkey",
+        "מתיו דייוויס"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt1405406",
+      "imdb_rating": "7.7",
+      "network": "The CW",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Vampire Diaries"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "9-Cold As Ice"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8-Hold Me,Thrill Me,Kiss Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "7-Mommie Dearest"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "6-Best Served Cold"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "4-I Carry Your Heart With Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "5-Live Through This"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "3-Age Of Innocence"
+        }
+      ],
+      "_enriched": true
+    },
+    "b4e445b7-4ce6-41c3-819b-a7154d52327b": {
+      "id": "b4e445b7-4ce6-41c3-819b-a7154d52327b",
+      "created_date": "2026-09-17T17:24:23.513Z",
+      "title": "the vampire diaries",
+      "year": 2009,
+      "category": "סדרות",
+      "description": "דיימון וסטפן סלבטורה, צמד אחים ערפדים והפכים מושלמים, שבים לעיירת מולדתם - העיירה הקטנה מיסטיק פולס שבווירג'יניה, שרדופה מאז הקמתה על-ידי ישויות על-טבעיות. הם מתאהבים באלנה גילברט והופכים כפייתיים כלפיה, עם ובלי קשר לדמיונה הפיזי וקשרה המשפחתי לקתרין פירס, הערפדית חסרת הרחמים שהאחים הכירו ואהבו ב-18",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11142?exp=1790182350&sig=6b95c99b6b9221e296986af45e9936e6",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11142?exp=1790182350&sig=6b95c99b6b9221e296986af45e9936e6",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/55nuZQjzpZqHP0UYJviOELxyoUf.jpg",
+      "custom_slug": null,
+      "series_name": "the vampire diaries",
+      "season_number": 6,
+      "episode_number": 8,
+      "episode_title": "",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+      "tmdb_id": 18165,
+      "tmdb_kind": "tv",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 8.3,
+      "genres": [
+        "דרמה",
+        "מדע בדיוני ופנטזיה",
+        "רומנטיקה",
+        "Supernatural"
+      ],
+      "en_title": "The Vampire Diaries",
+      "trailer": "RO3Qp_XdR0w",
+      "cast": [
+        "פול ווסלי",
+        "איאן סומרהולדר",
+        "קאט גרהאם",
+        "קנדיס קינג",
+        "זאק רוריג",
+        "Michael Malarkey",
+        "מתיו דייוויס"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt1405406",
+      "imdb_rating": "7.7",
+      "network": "The CW",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Vampire Diaries"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "9-Cold As Ice"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8-Hold Me,Thrill Me,Kiss Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "7-Mommie Dearest"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "6-Best Served Cold"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "4-I Carry Your Heart With Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "5-Live Through This"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "3-Age Of Innocence"
+        }
+      ],
+      "_enriched": true
+    },
+    "0acfe5b6-5f57-4c0d-a3c2-c42b7d1e2196": {
+      "id": "0acfe5b6-5f57-4c0d-a3c2-c42b7d1e2196",
+      "created_date": "2026-09-17T17:24:23.513Z",
+      "title": "the vampire diaries",
+      "year": 2009,
+      "category": "סדרות",
+      "description": "דיימון וסטפן סלבטורה, צמד אחים ערפדים והפכים מושלמים, שבים לעיירת מולדתם - העיירה הקטנה מיסטיק פולס שבווירג'יניה, שרדופה מאז הקמתה על-ידי ישויות על-טבעיות. הם מתאהבים באלנה גילברט והופכים כפייתיים כלפיה, עם ובלי קשר לדמיונה הפיזי וקשרה המשפחתי לקתרין פירס, הערפדית חסרת הרחמים שהאחים הכירו ואהבו ב-18",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11140?exp=1790182350&sig=1da159803db54879a08afa23f6ac9264",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11140?exp=1790182350&sig=1da159803db54879a08afa23f6ac9264",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/55nuZQjzpZqHP0UYJviOELxyoUf.jpg",
+      "custom_slug": null,
+      "series_name": "the vampire diaries",
+      "season_number": 6,
+      "episode_number": 6,
+      "episode_title": "",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+      "tmdb_id": 18165,
+      "tmdb_kind": "tv",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 8.3,
+      "genres": [
+        "דרמה",
+        "מדע בדיוני ופנטזיה",
+        "רומנטיקה",
+        "Supernatural"
+      ],
+      "en_title": "The Vampire Diaries",
+      "trailer": "RO3Qp_XdR0w",
+      "cast": [
+        "פול ווסלי",
+        "איאן סומרהולדר",
+        "קאט גרהאם",
+        "קנדיס קינג",
+        "זאק רוריג",
+        "Michael Malarkey",
+        "מתיו דייוויס"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt1405406",
+      "imdb_rating": "7.7",
+      "network": "The CW",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Vampire Diaries"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "9-Cold As Ice"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8-Hold Me,Thrill Me,Kiss Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "7-Mommie Dearest"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "6-Best Served Cold"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "4-I Carry Your Heart With Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "5-Live Through This"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "3-Age Of Innocence"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
