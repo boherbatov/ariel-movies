@@ -11383,6 +11383,380 @@
         }
       ],
       "_enriched": true
+    },
+    "5b1da550-1eb8-433c-94da-a16fa8f03c9e": {
+      "title": "אושן 12",
+      "year": 2004,
+      "category": "סרטים",
+      "description": "שלוש שנים חלפו ודני אושן מחליט לקבץ את כל החברים בניו-יורק ויחדיו לטוס לאירופה לבצע את השוד המורכב והמסובך ביותר בתולדות האנושות - מה שיהפוך את דני וחבריו לגנבים הטובים ביותר בהיסטוריה של המין האנושי. השוד מתבצע בשלושה לוקיישנים: אמסטרדם, רומא ופריס. מלבד ההכנות לשוד וביצועו הקבוצה צריכה להתמודד עם",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12147?exp=1790182350&sig=e2f6e33857fd78a082c2dced9e6a6ace",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12147?exp=1790182350&sig=e2f6e33857fd78a082c2dced9e6a6ace",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/rUU8kkfV9UX71cmkhFamEdHww92.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "5b1da550-1eb8-433c-94da-a16fa8f03c9e",
+      "created_date": "2026-09-18T13:02:40.701Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5b5HrewiViLWEdMR4dmbd7ajQ8Q.jpg",
+      "tmdb_id": 163,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.565,
+      "genres": [
+        "מותחן",
+        "פשע"
+      ],
+      "en_title": "Ocean's Twelve",
+      "trailer": "ATHwwFhB-UQ",
+      "cast": [
+        "ג'ורג' קלוני",
+        "ג'וליה רוברטס",
+        "בראד פיט",
+        "מאט דיימון",
+        "קתרין זיטה ג'ונס",
+        "אנדי גרסיה",
+        "קייסי אפלק",
+        "דון צ'ידל",
+        "ברני מאק",
+        "סקוט קאן",
+        "ונסן קאסל",
+        "Eddie Jemison",
+        "Carl Reiner",
+        "Elliott Gould",
+        "Shaobo Qin"
+      ],
+      "duration_seconds": 7500,
+      "imdb_id": "tt0349903",
+      "imdb_rating": "6.5",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Oceans.Twelve.2004.1080p.WEBRip.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Oceans.Twelve.2004.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Ocean's.Twelve.2004.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Oceans Twelve (2004) DVD.US.Retail"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Ocean's.Twelve.ALL.BluRay"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Ocean's.Twelve.2004.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Oceans.Twelve.2004.1080p.BluRay.H264.AAC-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Ocean's.Twelve.2004.BluRay HI"
+        }
+      ],
+      "_enriched": true
+    },
+    "697e32d1-ecc5-4f8a-b5d5-8fec1ec06382": {
+      "title": "ונום: הריקוד האחרון",
+      "year": 2024,
+      "category": "מארוול",
+      "description": "טום הארדי חוזר בתפקיד ונום, אחת הדמויות הגדולות והמורכבות ביותר של מארוול, לסרט האחרון בטרילוגיה – \"ונום: הריקוד האחרון\".  ונום ואדי במנוסה. הם נרדפים על ידי שני העולמות שלהם ועם הרשת שמתהדקת סביבם, הצמד נאלץ לקבל החלטה הרסנית שתסיים את הריקוד האחרון של ונום ואדי.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12144?exp=1790182350&sig=fff47020a724bb9c44d291f1602c5824",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12144?exp=1790182350&sig=fff47020a724bb9c44d291f1602c5824",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/7ZnhtVD950Ky5cguJGc3SjdsRLK.jpg",
+      "trailer_url": "https://youtu.be/yWvuPgeUrZ0?si=8Udzdnqm0I6tMJqj",
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "697e32d1-ecc5-4f8a-b5d5-8fec1ec06382",
+      "created_date": "2026-09-18T11:08:08.437Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+      "tmdb_id": 912649,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.671,
+      "genres": [
+        "מדע בדיוני",
+        "פעולה",
+        "הרפתקאות"
+      ],
+      "en_title": "Venom: The Last Dance",
+      "trailer": "5773vheyP6o",
+      "cast": [
+        "טום הארדי",
+        "צ'ואיטל אג'יופור",
+        "ג'ונו טמפל",
+        "ריס איוואנס",
+        "סטיבן גראהם",
+        "פגי לו",
+        "Clark Backo",
+        "אלאנה אובאך",
+        "כריסטו פרננדז",
+        "Jared Abrahamson",
+        "Hala Finley",
+        "דאש מקלאוד",
+        "אנדי סירקיס",
+        "ריד סקוט",
+        "Jack Brady"
+      ],
+      "duration_seconds": 6540,
+      "imdb_id": "tt16366836",
+      "imdb_rating": "6.0",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Venom.The.Last.Dance.2024.UHD.BLURAY.720p.BluRay.x264.AAC5.1-[YTS.MX]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Venom.The.Last.Dance.2024.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Venom.The.Last.Dance.2024.2160p.UHD.Bluray.REMUX.HEVC.TrueHD.7.1"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Venom.The.Last.Dance.2024.2160p.MA.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Venom_The_Last_Dance_2024_1080p_AMZN_WEB_DL_DDP5_1_H_264_VENOM_ar"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Venom.The.Last.Dance.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-VENOM"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Venom: The Last Dance - US 4k - English - Hearing Impaired - UPC 043396637382"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Venom: The Last Dance - US 4k - English - UPC 043396637382"
+        }
+      ],
+      "_enriched": true
+    },
+    "9d91537b-dd28-4324-b685-e37682da877e": {
+      "title": "קרואלה",
+      "year": 2021,
+      "category": "סרטים",
+      "description": "במהלך שנות ה-70 בלונדון, בעיצומה של מהפכת הפאנק רוק, נוכלת צעירה ויצירתית בשם אסטלה נחושה לקנות לעצמה תהילת עולם באמצעות עיצובי האופנה שלה. אסטלה מתיידדת עם זוג גנבים צעירים, ויחד, השלושה בונים לעצמם חיים ברחובות לונדון. יום אחד, כשרונה של אסטלה לאופנה תופס את תשומת ליבה של הברונית פון הלמן, אגדת או",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12145?exp=1790182350&sig=ceda0bc355609877aebd93121f3112cc",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12145?exp=1790182350&sig=ceda0bc355609877aebd93121f3112cc",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/sUogUb0jbrewMcQ2KkvvE0ZFM2m.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "9d91537b-dd28-4324-b685-e37682da877e",
+      "created_date": "2026-09-18T12:23:30.791Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+      "tmdb_id": 337404,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.964,
+      "genres": [
+        "קומדיה",
+        "פשע",
+        "סרטים לילדים (מתאים גם למשפחה)"
+      ],
+      "en_title": "Cruella",
+      "trailer": "YTjVRVSl47Q",
+      "cast": [
+        "אמה סטון",
+        "אמה תומפסון",
+        "Joel Fry",
+        "פול וולטר האוזר",
+        "John McCrea",
+        "Emily Beecham",
+        "מארק סטרונג",
+        "קייוון נובאק",
+        "קירבי האוול-בפטיסט",
+        "ג'יימי דמטריו",
+        "Niamh Lynch",
+        "Andrew Leung",
+        "Ed Birch",
+        "Dylan Lowe",
+        "Paul Bazely"
+      ],
+      "duration_seconds": 8040,
+      "imdb_id": "tt3228774",
+      "imdb_rating": "7.3",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Cruella.2021.BDRip.AAC2.0.x264-MANBEARPIG"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "BluRay - الترجمة الأصلية"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Cruella.2021.720p+1080p.BluRay.x264-GalaxyRG"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Cruella.2021.BRRip.XviD.AC3-EVO"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Cruella.2021.BRRip.XviD.MP3-XVID"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Disney's Cruella - Official Trailer"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Cruella 2021 1080p EUR Blu-ray AVC DTS-HD MA 7.1-ESiR"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Cruella.2021.1080p.BluRay.H264.AAC-RARBG"
+        }
+      ],
+      "_enriched": true
+    },
+    "6ad11b87-384c-4dd8-90ef-ad8b167636a0": {
+      "title": "אושן 13",
+      "year": 2007,
+      "category": "סרטים",
+      "description": "דני אושן שב ואוסף את \"החבר'ה\" בפעם השלישית למכה נוספת. רק שהפעם זה אישי: ווילי בנק, בעל הקזינו הגדול ביותר בלאס וגאס, מרמה את אחד מאחד עשר החברים המקוריים, ראובן טישקוף. דני מחליט ללכת על משימה כמעט בלתי אפשרית. לא רק שהם ירוששו את הקזינו של בנק לגמרי הם גם ידאגו להרוס לו את הדבר שהכי היקר לו - המונ",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12146?exp=1790182350&sig=9935f4ddd451b1865fe95186ff0a01f4",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12146?exp=1790182350&sig=9935f4ddd451b1865fe95186ff0a01f4",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/csmQBfpKq9YLqibx3fWrsKHW1R0.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "6ad11b87-384c-4dd8-90ef-ad8b167636a0",
+      "created_date": "2026-09-18T13:02:17.362Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uS18gs16EXfFJhjA11cXj4WWPMb.jpg",
+      "tmdb_id": 298,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.731,
+      "genres": [
+        "פשע",
+        "מותחן"
+      ],
+      "en_title": "Ocean's Thirteen",
+      "trailer": "sbzwtsMiVQY",
+      "cast": [
+        "ג'ורג' קלוני",
+        "בראד פיט",
+        "אל פאצ'ינו",
+        "מאט דיימון",
+        "דון צ'ידל",
+        "ברני מאק",
+        "Ellen Barkin",
+        "קייסי אפלק",
+        "סקוט קאן",
+        "Carl Reiner",
+        "אנדי גרסיה",
+        "Bob Einstein",
+        "Eddie Jemison",
+        "Elliott Gould",
+        "Shaobo Qin"
+      ],
+      "duration_seconds": 7320,
+      "imdb_id": "tt0496806",
+      "imdb_rating": "6.9",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Ocean's.13[2007]DvDrip-aXXo"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Oceans.Thirteen.2007.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Ocean's.Thirteen.2007.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Ocean's Thirteen WEBRip"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Oceans.Thirteen.2007.ALL.BluRay"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Ocean's.Thirteen.2007.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Ocean's Thirteen (2007) 1080p BluRay"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Oceans.Thirteen.2007.1080p.BluRay.H264.AAC-RARBG"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
