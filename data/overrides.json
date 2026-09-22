@@ -23503,6 +23503,357 @@
         }
       ],
       "_enriched": true
+    },
+    "2a4d7310-fb3b-4a17-bf53-75100fac8266": {
+      "id": "2a4d7310-fb3b-4a17-bf53-75100fac8266",
+      "created_date": "2026-09-17T17:24:23.513Z",
+      "title": "the vampire diaries",
+      "year": 2009,
+      "category": "סדרות",
+      "description": "דיימון וסטפן סלבטורה, צמד אחים ערפדים והפכים מושלמים, שבים לעיירת מולדתם - העיירה הקטנה מיסטיק פולס שבווירג'יניה, שרדופה מאז הקמתה על-ידי ישויות על-טבעיות. הם מתאהבים באלנה גילברט והופכים כפייתיים כלפיה, עם ובלי קשר לדמיונה הפיזי וקשרה המשפחתי לקתרין פירס, הערפדית חסרת הרחמים שהאחים הכירו ואהבו ב-18",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11147?exp=1790193527&sig=8585f248f33eb1ea4969059a4eea19dd",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11147?exp=1790193527&sig=8585f248f33eb1ea4969059a4eea19dd",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/55nuZQjzpZqHP0UYJviOELxyoUf.jpg",
+      "custom_slug": null,
+      "series_name": "the vampire diaries",
+      "season_number": 6,
+      "episode_number": 13,
+      "episode_title": "",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+      "tmdb_id": 18165,
+      "tmdb_kind": "tv",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 8.3,
+      "genres": [
+        "דרמה",
+        "מדע בדיוני ופנטזיה",
+        "רומנטיקה",
+        "Supernatural"
+      ],
+      "en_title": "The Vampire Diaries",
+      "ar_title": "يوميات مصاص دماء",
+      "suggested_title": "יומני הערפד והילדים הקטנים",
+      "trailer": "RO3Qp_XdR0w",
+      "cast": [
+        "פול ווסלי",
+        "איאן סומרהולדר",
+        "קאט גרהאם",
+        "קנדיס קינג",
+        "זאק רוריג",
+        "Michael Malarkey",
+        "מתיו דייוויס"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt1405406",
+      "imdb_rating": "7.7",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%9E%D7%A0%D7%99%20%D7%94%D7%A2%D7%A8%D7%A4%D7%93",
+      "network": "The CW",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Vampire Diaries"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "9-Cold As Ice"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8-Hold Me,Thrill Me,Kiss Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "7-Mommie Dearest"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "6-Best Served Cold"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "4-I Carry Your Heart With Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "5-Live Through This"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "3-Age Of Innocence"
+        }
+      ],
+      "_enriched": true
+    },
+    "e68dd127-215a-449a-8655-095d0943fd60": {
+      "id": "e68dd127-215a-449a-8655-095d0943fd60",
+      "created_date": "2026-09-17T17:24:23.513Z",
+      "title": "the vampire diaries",
+      "year": 2009,
+      "category": "סדרות",
+      "description": "דיימון וסטפן סלבטורה, צמד אחים ערפדים והפכים מושלמים, שבים לעיירת מולדתם - העיירה הקטנה מיסטיק פולס שבווירג'יניה, שרדופה מאז הקמתה על-ידי ישויות על-טבעיות. הם מתאהבים באלנה גילברט והופכים כפייתיים כלפיה, עם ובלי קשר לדמיונה הפיזי וקשרה המשפחתי לקתרין פירס, הערפדית חסרת הרחמים שהאחים הכירו ואהבו ב-18",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11148?exp=1790193527&sig=29d0c079fbf2af0f9fa301e85dbb8a16",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11148?exp=1790193527&sig=29d0c079fbf2af0f9fa301e85dbb8a16",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/55nuZQjzpZqHP0UYJviOELxyoUf.jpg",
+      "custom_slug": null,
+      "series_name": "the vampire diaries",
+      "season_number": 6,
+      "episode_number": 14,
+      "episode_title": "",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+      "tmdb_id": 18165,
+      "tmdb_kind": "tv",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 8.3,
+      "genres": [
+        "דרמה",
+        "מדע בדיוני ופנטזיה",
+        "רומנטיקה",
+        "Supernatural"
+      ],
+      "en_title": "The Vampire Diaries",
+      "trailer": "RO3Qp_XdR0w",
+      "cast": [
+        "פול ווסלי",
+        "איאן סומרהולדר",
+        "קאט גרהאם",
+        "קנדיס קינג",
+        "זאק רוריג",
+        "Michael Malarkey",
+        "מתיו דייוויס"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt1405406",
+      "imdb_rating": "7.7",
+      "network": "The CW",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Vampire Diaries"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "9-Cold As Ice"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8-Hold Me,Thrill Me,Kiss Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "7-Mommie Dearest"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "6-Best Served Cold"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "4-I Carry Your Heart With Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "5-Live Through This"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "3-Age Of Innocence"
+        }
+      ],
+      "_enriched": true
+    },
+    "8b87a705-41c2-4953-9030-49fc454ff297": {
+      "id": "8b87a705-41c2-4953-9030-49fc454ff297",
+      "created_date": "2026-09-17T17:24:23.513Z",
+      "title": "the vampire diaries",
+      "year": 2009,
+      "category": "סדרות",
+      "description": "דיימון וסטפן סלבטורה, צמד אחים ערפדים והפכים מושלמים, שבים לעיירת מולדתם - העיירה הקטנה מיסטיק פולס שבווירג'יניה, שרדופה מאז הקמתה על-ידי ישויות על-טבעיות. הם מתאהבים באלנה גילברט והופכים כפייתיים כלפיה, עם ובלי קשר לדמיונה הפיזי וקשרה המשפחתי לקתרין פירס, הערפדית חסרת הרחמים שהאחים הכירו ואהבו ב-18",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11150?exp=1790193527&sig=821dbe0fc2b6af8f204a0e62dba3eaac",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11150?exp=1790193527&sig=821dbe0fc2b6af8f204a0e62dba3eaac",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/55nuZQjzpZqHP0UYJviOELxyoUf.jpg",
+      "custom_slug": null,
+      "series_name": "the vampire diaries",
+      "season_number": 6,
+      "episode_number": 17,
+      "episode_title": "",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+      "tmdb_id": 18165,
+      "tmdb_kind": "tv",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 8.3,
+      "genres": [
+        "דרמה",
+        "מדע בדיוני ופנטזיה",
+        "רומנטיקה",
+        "Supernatural"
+      ],
+      "en_title": "The Vampire Diaries",
+      "trailer": "RO3Qp_XdR0w",
+      "cast": [
+        "פול ווסלי",
+        "איאן סומרהולדר",
+        "קאט גרהאם",
+        "קנדיס קינג",
+        "זאק רוריג",
+        "Michael Malarkey",
+        "מתיו דייוויס"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt1405406",
+      "imdb_rating": "7.7",
+      "network": "The CW",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Vampire Diaries"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "9-Cold As Ice"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8-Hold Me,Thrill Me,Kiss Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "7-Mommie Dearest"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "6-Best Served Cold"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "4-I Carry Your Heart With Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "5-Live Through This"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "3-Age Of Innocence"
+        }
+      ],
+      "_enriched": true
+    },
+    "b924d89a-4a87-451e-86c6-e0b4d4162657": {
+      "id": "b924d89a-4a87-451e-86c6-e0b4d4162657",
+      "created_date": "2026-09-17T17:24:23.513Z",
+      "title": "the vampire diaries",
+      "year": 2009,
+      "category": "סדרות",
+      "description": "דיימון וסטפן סלבטורה, צמד אחים ערפדים והפכים מושלמים, שבים לעיירת מולדתם - העיירה הקטנה מיסטיק פולס שבווירג'יניה, שרדופה מאז הקמתה על-ידי ישויות על-טבעיות. הם מתאהבים באלנה גילברט והופכים כפייתיים כלפיה, עם ובלי קשר לדמיונה הפיזי וקשרה המשפחתי לקתרין פירס, הערפדית חסרת הרחמים שהאחים הכירו ואהבו ב-18",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11149?exp=1790193527&sig=ed638ef5fe4acea1eec30d9ce5ed07fa",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11149?exp=1790193527&sig=ed638ef5fe4acea1eec30d9ce5ed07fa",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/55nuZQjzpZqHP0UYJviOELxyoUf.jpg",
+      "custom_slug": null,
+      "series_name": "the vampire diaries",
+      "season_number": 6,
+      "episode_number": 16,
+      "episode_title": "",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+      "tmdb_id": 18165,
+      "tmdb_kind": "tv",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 8.3,
+      "genres": [
+        "דרמה",
+        "מדע בדיוני ופנטזיה",
+        "רומנטיקה",
+        "Supernatural"
+      ],
+      "en_title": "The Vampire Diaries",
+      "trailer": "RO3Qp_XdR0w",
+      "cast": [
+        "פול ווסלי",
+        "איאן סומרהולדר",
+        "קאט גרהאם",
+        "קנדיס קינג",
+        "זאק רוריג",
+        "Michael Malarkey",
+        "מתיו דייוויס"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt1405406",
+      "imdb_rating": "7.7",
+      "network": "The CW",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Vampire Diaries"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "9-Cold As Ice"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8-Hold Me,Thrill Me,Kiss Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "7-Mommie Dearest"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "6-Best Served Cold"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "4-I Carry Your Heart With Me"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "5-Live Through This"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "3-Age Of Innocence"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
@@ -312333,6 +312684,686 @@
     },
     "kan-official-dRrU09aZBco:ar": {
       "title": "الراتب المورّد",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-z43TsQ7iQJc:ar": {
+      "title": "المندوب السامي",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-5Mf1vTajL2M:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-k6aNTdzG0a8:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-28aHfT9fxmE:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-EJgMnuWUDvg:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-MihsyM4AB24:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-n8pG0MfqU7A:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-nweY4q8pmdo:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-mnCA-Enjw8o:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-cglLBrD9Djw:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-xK7SwrQnnZU:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-vTLgTjajQM0:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-ZcL784awfsw:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-dYaoTF35A8M:ar": {
+      "title": "أخبار الأسبوع",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-Br5Y3pPuDm0:ar": {
+      "title": "أخبار الأسبوع",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-zjnaBZlNzWk:ar": {
+      "title": "أخبار الأسبوع",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-xyzqWujhOTc:ar": {
+      "title": "أخبار الأسبوع",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-YlwjUWS1qcM:ar": {
+      "title": "أخبار الأسبوع",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-XLWL_a6G2jI:ar": {
+      "title": "أخبار الأسبوع",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-CA21avASjBk:ar": {
+      "title": "أخبار الأسبوع",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-XbKTx1fOtU8:ar": {
+      "title": "أخبار الأسبوع",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-t9XB0QJwu6k:ar": {
+      "title": "أخبار الأسبوع",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-ondSu3FcclI:ar": {
+      "title": "أخبار الأسبوع",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-nqjj70_gc4s:ar": {
+      "title": "أخبار الأسبوع",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-tg9PogUw4Us:ar": {
+      "title": "أخبار الجمعة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-obeSb3SYcBo:ar": {
+      "title": "أخبار الجمعة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-XVbqRSaSnRI:ar": {
+      "title": "أخبار الجمعة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-pOWJxX3da-4:ar": {
+      "title": "أخبار الجمعة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-RWktbtTYkzw:ar": {
+      "title": "أخبار الجمعة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-JJxnP7zzHcA:ar": {
+      "title": "أخبار الجمعة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-KuVn0bCQi-Q:ar": {
+      "title": "أخبار الجمعة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-fpO5kIo6z9w:ar": {
+      "title": "أخبار الجمعة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-SEqYoOe5rXA:ar": {
+      "title": "خامسة أصلي",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-oZrsQDnFOas:ar": {
+      "title": "نشرة الخامسة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-zJchBhoUNpg:ar": {
+      "title": "نشرة الخامسة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-2YpPxlyVsAc:ar": {
+      "title": "نشرة الخامسة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-Uhyw4a5Qt_A:ar": {
+      "title": "نشرة الخامسة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-h_0cLEFUFq4:ar": {
+      "title": "من الطرف الآخر مع غاي زوهار",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-tX-ODExwrlE:ar": {
+      "title": "نادي الثقافة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-FTklSikDWs8:ar": {
+      "title": "موعد ثقافي",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-VW6CTOUSgpg:ar": {
+      "title": "عميل ثقافي",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-FeXidb-GKeA:ar": {
+      "title": "عميل ثقافي",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-9BDRgdl9ANQ:ar": {
+      "title": "عميل ثقافي",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-V8chQRyTc68:ar": {
+      "title": "عميل ثقافة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-Y_IDbgCNj_A:ar": {
+      "title": "عميل ثقافة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-KkdBMoRcHvU:ar": {
+      "title": "عميل ثقافة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-hXmcTVHeVzk:ar": {
+      "title": "عميل ثقافة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-7DqpRMUzdsM:ar": {
+      "title": "عميل ثقافة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-LYOXlSS7cqk:ar": {
+      "title": "صوت القافلة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-PoqnboUQvGQ:ar": {
+      "title": "קלמן וסג\"ל",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-WLAZYkLLG7w:ar": {
+      "title": "صوت الحمام",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-fjAao1Yak5Q:ar": {
+      "title": "קלמן וסגל",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-ENCKUzAGSmc:ar": {
+      "title": "קלמן וסגל",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-Hx5tYhzegGE:ar": {
+      "title": "קלמן וסגל",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-k8IFIwuRNXI:ar": {
+      "title": "קלמן וסגל",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-qNWM-gHe0wo:ar": {
+      "title": "קלמן וסגל",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-yVzV1lJLgpo:ar": {
+      "title": "קלמן וסגל",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-KXYAg1mtBnM:ar": {
+      "title": "קלמן וסגל",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-Z9S0keWmsy4:ar": {
+      "title": "קלמן וסגל",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-SQ-_ehBrqSc:ar": {
+      "title": "קלמן וסגל",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-gJnkghlcYYo:ar": {
+      "title": "קלמן וסגל",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-Tfccd18j2SI:ar": {
+      "title": "קלמן וסגל",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-0SpvyEUoKW8:ar": {
+      "title": "سؤال وجواب",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-E69NjQxY0UI:ar": {
+      "title": "سيفين أكتوالي",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-XqMw1okjHTA:ar": {
+      "title": "سيفين أكتوالي",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-_ItQwBgAnPQ:ar": {
+      "title": "سيفين أكتوالي",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-H33vwXD3ILo:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-ZrkDtmZGLz4:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-7mSkSehiDJY:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-4ZO7Wk-vXd4:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-9FCtbLumtf8:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-5mpdq7DXjrQ:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-EC-I_tMN8B8:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-cCqFMbsbxFo:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-S7JWI8LNUWc:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-rMUVSyjgQqI:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-MsA-FdXcJUo:ar": {
+      "title": "أخبار الليل",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-d_fz0qKQGQM:ar": {
+      "title": "أخبار الأسبوع",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-NVQXjT7PTbg:ar": {
+      "title": "أخبار الجمعة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-C2illIzp6_E:ar": {
+      "title": "أخبار الجمعة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-90msGdWnY3s:ar": {
+      "title": "أخبار الأسبوع",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-YcwBruhk1zE:ar": {
+      "title": "أخبار الجمعة",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-A6WfTiZbvMI:ar": {
+      "title": "صوت الحمام",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-voj2SL-8ifU:ar": {
+      "title": "صوت الحمام",
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "ar",
+      "matched": true,
+      "via": "ai"
+    },
+    "kan-official-7kqPrv1s4E8:ar": {
+      "title": "صوت الحمام",
       "overview": null,
       "tmdb_id": null,
       "lang": "ar",
