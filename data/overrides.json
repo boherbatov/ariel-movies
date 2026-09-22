@@ -15018,6 +15018,362 @@
         }
       ],
       "_enriched": true
+    },
+    "2eda939c-81d7-49a3-86be-b67fd85534d0": {
+      "title": "רק לא אתה",
+      "year": 2023,
+      "category": "סרטים",
+      "description": "בי ובן נראים כמו הזוג המושלם, אך לאחר דייט ראשון מדהים, משהו קורה, והופך את המשיכה הלוהטת ביניהם, לקרה כקרח - עד לרגע שבו הם מוצאים את עצמם דחוסים יחד באופן בלתי צפוי, בחתונה רומנטית באוסטרליה. לכן, הם עושים מה ששני אנשים בוגרים אמורים לעשות: להעמיד פנים שהם זוג לכל דבר.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11455?exp=1790182350&sig=ce476bce50f9455174b56a9124e13492",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11455?exp=1790182350&sig=ce476bce50f9455174b56a9124e13492",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/5Y67BwlrsWidP8w9TBJdzUeCwI2.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "2eda939c-81d7-49a3-86be-b67fd85534d0",
+      "created_date": "2026-09-18T06:29:41.767Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/j9eOeLlTGoHoM8BNUJVNyWmIvCi.jpg",
+      "tmdb_id": 1072790,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.751,
+      "genres": [
+        "רומנטיקה",
+        "קומדיה"
+      ],
+      "en_title": "Anyone but You",
+      "ar_title": "أي شخص إلا أنت",
+      "trailer": "bBNS9MRWIew",
+      "cast": [
+        "סידני סוויני",
+        "גלן פאוול",
+        "Mia Artemis",
+        "Nat Buchanan",
+        "GaTa",
+        "אלכסנדרה שיפ",
+        "הדלי רובינסון",
+        "דרמוט מלרוני",
+        "Rachel Griffiths",
+        "Deborah Faye Lee",
+        "Lance Kerfuffle",
+        "Taryn Gluck",
+        "Alexandra Gluck",
+        "Summer Tian",
+        "Dan Liu"
+      ],
+      "duration_seconds": 6180,
+      "imdb_id": "tt26047818",
+      "imdb_rating": "6.1",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%A8%D7%A7%20%D7%9C%D7%90%20%D7%90%D7%AA%D7%94",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Anyone.But.You.2023.1080p.WEB-DL.Atmos.H.264-FLUX"
+        },
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Anyone.But.You.2023.BDRip.x264-PiGNUS"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Anyone.But.You.2023.720p.WEBRip.800MB.x264-GalaxyRG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Anyone.But.You.2023.1080p.BluRay.x265-YAWNTiC_eng.srt"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Anyone.But.You.2023.1080p.BluRay.x265-YAWNTiC_eng SDH.srt"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Anyone.But.You.2023.1080p.BluRay.x265-YAWNTiC_eng Force.srt"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Anyone.But.You.2023.1080p.10bit.BluRay.6CH.x265.HEVC-PSA_forced_only"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Anyone.But.You.2023.1080p.10bit.BluRay.6CH.x265.HEVC-PSA_NON_HI"
+        }
+      ],
+      "_enriched": true
+    },
+    "392d5230-d4b8-4fe9-bf64-61a8a59fce7b": {
+      "title": "האקדח מת מצחוק 33.3: העלבון האחרון",
+      "year": 1994,
+      "category": "סרטים",
+      "description": "החלק השלישי בסדרה הטפשית אודות איש המשטרה הקשוח והמטומטם פרנק דרבין. פרנק נכנס תחת זהות בדויה לבית הסוהר, ומגלה את תכניתו של הטרוריסט רוקו, שאותה הוא מתכוון ליישם ברגע שיברח מן הכלא. נידנודיה של אישתו ג'יין, שרוצה תינוק כתוספת לתא המשפחתי הרעוע שלהם, אינו עוזר.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11333?exp=1790182350&sig=df5633464f444bfd35853ff245f1420c",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11333?exp=1790182350&sig=df5633464f444bfd35853ff245f1420c",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/cz1caD4WlX9PKOzXpoCgCouMWDZ.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "392d5230-d4b8-4fe9-bf64-61a8a59fce7b",
+      "created_date": "2026-09-17T22:12:43.062Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/rZBc0S32bVNYOGJ5sKYsHhOwIT5.jpg",
+      "tmdb_id": 36593,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.516,
+      "genres": [
+        "קומדיה",
+        "פשע"
+      ],
+      "en_title": "Naked Gun 33⅓: The Final Insult",
+      "trailer": "Cstx7RLWE2o",
+      "cast": [
+        "Leslie Nielsen",
+        "פריסילה פרסלי",
+        "George Kennedy",
+        "או. ג'יי. סימפסון",
+        "Fred Ward",
+        "קת'לין פרימן",
+        "Anna Nicole Smith",
+        "אלן גרין",
+        "Ed Williams",
+        "Raye Birk",
+        "Matt Roe",
+        "Wylie Small",
+        "Sharon Cornell",
+        "Earl Boen",
+        "Jeff Wright"
+      ],
+      "duration_seconds": 4980,
+      "imdb_id": "tt0110622",
+      "imdb_rating": "6.5",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "* תרגום אולפנים * naked.gun.33.1.3.the.final.insult.1994.hdr.2160p.web.h265-slot"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The Naked Gun 3 (1994) [1080p] x264 - Jalucian"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Naked.Gun.33.1.3.The.Final.Insult.1994.1080p.bluray.mora.25r.srt"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Naked Gun 33⅓ The Final Insult (1994) {imdb-tt0110622} - [AMZN][WEBDL-1080p][EAC3 5.1][h264]-PiRaTeS.en"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Naked Gun 33⅓ - The Final Insult (1994).commentary"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Naked Gun 33 ⅓ - The Final Insult (1994).DVD.NonHI.pcc.en.PRMNT"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Naked Gun 33 ⅓ - The Final Insult (1994).DVD.HI.pcc.en.PRMNT"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Naked Gun 33⅓꞉ The Final Insult (1994) - UHD 2160p"
+        }
+      ],
+      "_enriched": true
+    },
+    "2a9bab3f-de89-4a23-932b-4006171bc64b": {
+      "title": "האקדח מת מצחוק  2.5 ריחו של הפחד",
+      "year": 1991,
+      "category": "סרטים",
+      "description": "הפעם חוקר פרנק את היעלמותו המסתורית של מדען מבריק, הד\"ר מנהיימר, שהמציא שיטת אנרגיה סלולארית בלתי מתכלה, נחטף על ידי בעלי חברות הנפט והחשמל, ומוחלף במתחזה. הבעיות צצות כאשר מתגלה לפרנק שמזכירתו של הדוקטור היא אהובתו הישנה ג'יין ספנסר.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11328?exp=1790182350&sig=f9384b272faa2bb4655e723e758fb386",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11328?exp=1790182350&sig=f9384b272faa2bb4655e723e758fb386",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/dPEG5B3CmaJcVWbyJy3v4SB1q2L.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "2a9bab3f-de89-4a23-932b-4006171bc64b",
+      "created_date": "2026-09-17T22:12:30.732Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kCW0C3Bv5IsasICx3StdNEejfB5.jpg",
+      "tmdb_id": 37137,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.819,
+      "genres": [
+        "קומדיה",
+        "פשע"
+      ],
+      "en_title": "The Naked Gun 2½: The Smell of Fear",
+      "trailer": "WvY-X4P5y7Y",
+      "cast": [
+        "Leslie Nielsen",
+        "פריסילה פרסלי",
+        "George Kennedy",
+        "או. ג'יי. סימפסון",
+        "Robert Goulet",
+        "Richard Griffiths",
+        "Jacqueline Brookes",
+        "Anthony James",
+        "Lloyd Bochner",
+        "Tim O'Connor",
+        "Peter Mark Richman",
+        "Ed Williams",
+        "John Roarke",
+        "Margery Jane Ross",
+        "Peter Van Norden"
+      ],
+      "duration_seconds": 5100,
+      "imdb_id": "tt0102510",
+      "imdb_rating": "6.9",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "Star.Trek.The.Next.Generation.S05E06.1080p.BluRay.DDP.7.1.x265-edge2020"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Star Trek The Next Generation Season 5 Episode 06 - The Game"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The Naked Gun 2 (1991) [1080p] x264 - Jalucian"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The.Naked.Gun.II.1991.DVDRip.XviD.AC3-WAF"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Naked Gun 2½ The Smell of Fear (1991) {imdb-tt0102510} - [Bluray-1080p][AAC 2.0][x265]-V3SP4EV3R"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Naked Gun 2½ - The Smell of Fear (1991).commentary"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Naked Gun 2½ - The Smell of Fear (1991).DVD.NonHI.pcc.en.PRMNT"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Naked Gun 2½ - The Smell of Fear (1991).DVD.HI.pcc.en.PRMNT"
+        }
+      ],
+      "_enriched": true
+    },
+    "e8624fdf-36b0-4fa0-98c0-9728bbee14b1": {
+      "title": "הרוע שבפנים: מחוץ למעבר",
+      "year": 2026,
+      "category": "סרטים",
+      "description": "ג'מה, אם צעירה המגדלת את בתה בבית שבו גדלה בעצמה, מגלה שהיא מסוגלת לעבור אל \"המעבר\" - ממד ביניים אפל, מעין כור היתוך של נשמות אבודות, העומד במרכז היקום של סדרת \"הרוע שבפנים\".  כאשר כוח מרושע מתחיל לרדוף אחריה, ג'מה מגלה יכולת שמשנה הכול: היא לא רק יכולה להיכנס אל \"המעבר\", אלא גם להחזיר אל העולם האמי",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11384?exp=1790182350&sig=c96816ff5cf8f098111d3e083a1840a6",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11384?exp=1790182350&sig=c96816ff5cf8f098111d3e083a1840a6",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/cKLCsKCRarmDoowOkAyHKPFny57.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "e8624fdf-36b0-4fa0-98c0-9728bbee14b1",
+      "created_date": "2026-09-18T01:08:39.006Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+      "tmdb_id": 1291595,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.491,
+      "genres": [
+        "אימה",
+        "מותחן"
+      ],
+      "en_title": "Insidious: Out of the Further",
+      "ar_title": "غدار: الخروج من العالم الآخر",
+      "trailer": "wGOEf7X5ujU",
+      "cast": [
+        "Amelia Eve",
+        "Island Austin",
+        "Brandon Perea",
+        "לין שיי",
+        "Maisie Richardson-Sellers",
+        "סם ספרואל",
+        "Joseph Lopez",
+        "Robina Beard",
+        "Susan Gray",
+        "Laura Gordon",
+        "Charli Penton",
+        "Zahra Newman",
+        "Andy McPhee",
+        "Julie Nihill",
+        "Ben Keller"
+      ],
+      "duration_seconds": 6360,
+      "imdb_id": "tt32393988",
+      "imdb_rating": "6.2",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%94%D7%A8%D7%95%D7%A2%20%D7%A9%D7%91%D7%A4%D7%A0%D7%99%D7%9D%3A%20%D7%9E%D7%97%D7%95%D7%A5%20%D7%9C%D7%9E%D7%A2%D7%91%D7%A8",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Insidious.Out.Of.The.Further.2026.1080p.VOSTFR.HDTS.x264-FS.Arabic"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Insidious.Out.of.the.Further.2026.1080p.MA.WEB-DL.DDP5.1.Atmos.H.264"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Insidious.Out.of.the.Further.2026.1080p.MA.WEB-DL.DDP5.1.Atmos.H.264"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Insidious.Out.Of.The.Further.2026.1080p.VOSTFR.HDTS.x264-FS-en"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
