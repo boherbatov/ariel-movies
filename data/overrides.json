@@ -16080,6 +16080,365 @@
         }
       ],
       "_enriched": true
+    },
+    "bfaa292d-ba7b-452c-8390-02f3f0799fcf": {
+      "id": "bfaa292d-ba7b-452c-8390-02f3f0799fcf",
+      "created_date": "2026-09-17T21:28:44.239Z",
+      "title": "פרסי ג'קסון והאולימפיים",
+      "year": 2023,
+      "category": "סדרות",
+      "description": "פרסי ג’קסון יוצא למסע חיפושים מסוכן. בשעה שהוא נמלט ממפלצות ומערים על אלים, עליו לחצות את אמריקה כדי להחזיר את הברק הראשון של זאוס ולמנוע מלחמה כוללת. בעזרת חבריו למסע החיפושים, אנבת’ וגרובר, המסע של פרסי יקרב אותו לתשובות שהוא מחפש: כיצד להשתלב בעולם שאליו הוא לא מרגיש שייך, האם הוא יראה את אימו שו",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11370?exp=1790182350&sig=db7304e983660cb41c43f3db96a6e28f",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11370?exp=1790182350&sig=db7304e983660cb41c43f3db96a6e28f",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/qsgPkvg25MP2C0zNIRvlbs0FTey.jpg",
+      "custom_slug": null,
+      "series_name": "פרסי ג'קסון והאולימפיים",
+      "season_number": 1,
+      "episode_number": 4,
+      "episode_title": "",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sAxx25ijwYQ8xsT56wu2IzvIRss.jpg",
+      "tmdb_id": 103540,
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.248,
+      "genres": [
+        "פעולה והרפתקאות",
+        "מדע בדיוני ופנטזיה",
+        "דרמה",
+        "סרטים לילדים (מתאים גם למשפחה)",
+        "הרפתקאות",
+        "פנטזיה",
+        "Supernatural"
+      ],
+      "en_title": "Percy Jackson and the Olympians",
+      "trailer": "yT1ng2tiwLA",
+      "cast": [
+        "Walker Scobell",
+        "Leah Sava Jeffries",
+        "Aryan Simhadri"
+      ],
+      "duration_seconds": 2400,
+      "imdb_id": "tt12324366",
+      "imdb_rating": "7.0",
+      "network": "Disney+",
+      "series_status": "Running",
+      "subtitles_found": [
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy.Jackson.And.The.Olympians.S02.DSNP.WEB.H264-ETHEL"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "[𝐂𝐨𝐟𝐟𝐞𝐞𝐏𝐫𝐢𝐬𝐨𝐧] 𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟖 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏  "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "[𝐂𝐨𝐟𝐟𝐞𝐞𝐏𝐫𝐢𝐬𝐨𝐧] 𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟕 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏  "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy Jackson and the Olympians. (2023) S02E06 - Nobody Gets the Fleece.en.forced"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟔 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏 "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy Jackson and the Olympians (2023). S02E05 - We Check In to C.C.'s Spa & Resort.en.forced"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟓 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏 "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟒 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏 "
+        }
+      ],
+      "_enriched": true
+    },
+    "751483af-3373-4ccb-8cd0-a3cffe48b375": {
+      "id": "751483af-3373-4ccb-8cd0-a3cffe48b375",
+      "created_date": "2026-09-17T21:28:44.239Z",
+      "title": "פרסי ג'קסון והאולימפיים",
+      "year": 2023,
+      "category": "סדרות",
+      "description": "פרסי ג’קסון יוצא למסע חיפושים מסוכן. בשעה שהוא נמלט ממפלצות ומערים על אלים, עליו לחצות את אמריקה כדי להחזיר את הברק הראשון של זאוס ולמנוע מלחמה כוללת. בעזרת חבריו למסע החיפושים, אנבת’ וגרובר, המסע של פרסי יקרב אותו לתשובות שהוא מחפש: כיצד להשתלב בעולם שאליו הוא לא מרגיש שייך, האם הוא יראה את אימו שו",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11371?exp=1790182350&sig=7316fb66bdbaf41c288b89094d6d9c3d",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11371?exp=1790182350&sig=7316fb66bdbaf41c288b89094d6d9c3d",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/qsgPkvg25MP2C0zNIRvlbs0FTey.jpg",
+      "custom_slug": null,
+      "series_name": "פרסי ג'קסון והאולימפיים",
+      "season_number": 1,
+      "episode_number": 7,
+      "episode_title": "",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sAxx25ijwYQ8xsT56wu2IzvIRss.jpg",
+      "tmdb_id": 103540,
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.248,
+      "genres": [
+        "פעולה והרפתקאות",
+        "מדע בדיוני ופנטזיה",
+        "דרמה",
+        "סרטים לילדים (מתאים גם למשפחה)",
+        "הרפתקאות",
+        "פנטזיה",
+        "Supernatural"
+      ],
+      "en_title": "Percy Jackson and the Olympians",
+      "trailer": "yT1ng2tiwLA",
+      "cast": [
+        "Walker Scobell",
+        "Leah Sava Jeffries",
+        "Aryan Simhadri"
+      ],
+      "duration_seconds": 2400,
+      "imdb_id": "tt12324366",
+      "imdb_rating": "7.0",
+      "network": "Disney+",
+      "series_status": "Running",
+      "subtitles_found": [
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy.Jackson.And.The.Olympians.S02.DSNP.WEB.H264-ETHEL"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "[𝐂𝐨𝐟𝐟𝐞𝐞𝐏𝐫𝐢𝐬𝐨𝐧] 𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟖 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏  "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "[𝐂𝐨𝐟𝐟𝐞𝐞𝐏𝐫𝐢𝐬𝐨𝐧] 𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟕 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏  "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy Jackson and the Olympians. (2023) S02E06 - Nobody Gets the Fleece.en.forced"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟔 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏 "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy Jackson and the Olympians (2023). S02E05 - We Check In to C.C.'s Spa & Resort.en.forced"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟓 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏 "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟒 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏 "
+        }
+      ],
+      "_enriched": true
+    },
+    "db7cf85c-cd82-42bf-8abe-9acc38c00fd1": {
+      "title": "מפוצלים",
+      "year": 2014,
+      "category": "סרטים",
+      "description": "בעולם בו מחולקים האנשים לקבוצות על פי סגולות דומיננטיות באישיותם, מגלה נערה צעירה בשם טריס שהיא \"מפוצלת\" ולכן לעולם לא תתאים לאחת מהקבוצות. כשמתברר לה שמנהיגתה של אחת הקבוצות מתכננת להשמיד את כל ה\"מפוצלים\", היא נאלצת לתת את אמונה בבחור מסתורי בשם פור וביחד הם צריכים לגלות מה גורם למפוצלים להיות כל כ",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11362?exp=1790182350&sig=c01d25f4d2f7db568a777bdb27361ef2",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11362?exp=1790182350&sig=c01d25f4d2f7db568a777bdb27361ef2",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/fpo5hmKJkFjTdHynKFeYzvvxc8c.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "db7cf85c-cd82-42bf-8abe-9acc38c00fd1",
+      "created_date": "2026-09-17T21:23:48.654Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bgkFOoXEQMRjKkCvgoj7smdGbuh.jpg",
+      "tmdb_id": 157350,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.9,
+      "genres": [
+        "פעולה",
+        "הרפתקאות",
+        "מדע בדיוני"
+      ],
+      "en_title": "Divergent",
+      "trailer": "bSQUtAxyBPI",
+      "cast": [
+        "שיילין וודלי",
+        "תיאו ג'יימס",
+        "אשלי ג'אד",
+        "ג'יי קורטני",
+        "ריי סטיבנסון",
+        "זואי קרביץ",
+        "מיילס טלר",
+        "טוני גולדווין",
+        "Ansel Elgort",
+        "מגי קיו",
+        "מקאי פייפר",
+        "קייט וינסלט",
+        "Ben Lloyd-Hughes",
+        "Christian Madsen",
+        "Amy Newbold"
+      ],
+      "duration_seconds": 8400,
+      "imdb_id": "tt1840309",
+      "imdb_rating": "6.6",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Divergent.2014.BluRay.Remux.1080p.AVC.DTS-HD.MA.7.1-HiFi"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Divergent(2014)WEBRip"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Divergent.2014.WEBRip.iTunes"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Divergent.2014.WEB-DL.TUBI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Divergent.2014.WEBRip.Amazon"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Divergent.(2014)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Divergent.2014.WEB-DL.XviD.MP3-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Divergent.2014.BluRay.720p.x264-Ganool"
+        }
+      ],
+      "_enriched": true
+    },
+    "81313d79-544b-4734-8c04-0929dffceaca": {
+      "title": "טיטניק",
+      "year": 1997,
+      "category": "סרטים",
+      "description": "סיפור אהבה בין מעמדי בין צעירה אריסטוקרטית לצייר נווד על סיפונה של אוניית הפאר טיטניק. שיחזור מדויק ועתיר אפקטים של המפגש הטראגי עם הקרחון, שהוביל למותם של 1500 בני אדם וניפוץ האשליות בדבר יכולתם של בני האדם לייצר אונייה חסינה בפני טביעה. ברקע לסיפור האהבה הרומנטי בוחר קמרון להדגיש את המימד החברתי ש",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11343?exp=1790182350&sig=136adfdef884b33c29d4668479bce8f7",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11343?exp=1790182350&sig=136adfdef884b33c29d4668479bce8f7",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/ob0CMseAea7cHPBJbTxT6V0kMt8.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "81313d79-544b-4734-8c04-0929dffceaca",
+      "created_date": "2026-09-17T21:12:53.075Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg",
+      "tmdb_id": 597,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.9,
+      "genres": [
+        "דרמה",
+        "רומנטיקה"
+      ],
+      "en_title": "Titanic",
+      "trailer": "wO44qBPBG4c",
+      "cast": [
+        "לאונרדו דיקפריו",
+        "קייט וינסלט",
+        "בילי זיין",
+        "קתי בייטס",
+        "פרנסיס פישר",
+        "גלוריה סטיוארט",
+        "ביל פקסטון",
+        "ברנרד היל",
+        "דייוויד וורנר",
+        "Victor Garber",
+        "ג'ונתן הייד",
+        "Suzy Amis",
+        "Lewis Abernathy",
+        "Nicholas Cascone",
+        "Anatoly M. Sagalevitch"
+      ],
+      "duration_seconds": 11640,
+      "imdb_id": "tt0120338",
+      "imdb_rating": "8.0",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "* תרגום אולפנים * Titanic.1997.2160p.PMTP.WEB-DL.DDPA.5.1.DV.HDR.H.265-PiRaTeS"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Titanic.1997.DSNP.WEB-DL-POWER"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Titanic"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Titanic.1997.2160p.HDR.ENG.And.ESP.LATINO.DTS-HD.MA.5.1.x265.MKV-BEN.THE.MEN.mkv"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Titanic.1997.UHDRip.2160p.HDR-DV.Eng-Forced"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Titanic.1997.Open.Matte.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Titanic.1997.Open.Matte.1080p.BluRay.x265-YAWNTiC_eng"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Titanic.1997.3D.Anaglyph.RCd.720p.BRRip.AVC.DD5.1-Asmo"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
