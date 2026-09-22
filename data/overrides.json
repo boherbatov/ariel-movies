@@ -8863,6 +8863,338 @@
         }
       ],
       "_enriched": true
+    },
+    "50f79c3a-2286-4183-bdaa-977ecffe7174": {
+      "title": "“אנקת גבהים”",
+      "year": 2026,
+      "category": "סרטים",
+      "description": "\"אנקת גבהים\" נחשב עד היום לסיפור האהבה המרגש והמפורסם ביותר בספרות האנגלית.  במרכזו ילד נטוש שאומץ על ידי בעליה של אחוזה בשם \"אנקת גבהים\" כאשר במשך שנותיו באחוזה הוא היה קורבן להתעללות ולהשפלה. בבגרותו נוצר קשר אישי ואינטימי בינו לבין קתרין, בתו של בעל הבית, ואהבתם פרחה בלב הערפילים של אדמת אנגליה.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12319?exp=1790182350&sig=326e0ee308fffc353935c6929bc23019",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12319?exp=1790182350&sig=326e0ee308fffc353935c6929bc23019",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/1Fl56FDfI97tJr6XHhYXchsRzLp.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "50f79c3a-2286-4183-bdaa-977ecffe7174",
+      "created_date": "2026-09-19T18:17:42.240Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uw0vhJi2xPaHJfq4dB1wPCY3KZV.jpg",
+      "tmdb_id": 145745,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.042,
+      "genres": [
+        "מסתורין",
+        "דרמה",
+        "רומנטיקה"
+      ],
+      "en_title": "Hurlevent",
+      "cast": [
+        "Fabienne Babe",
+        "Lucas Belvaux",
+        "Sandra Montaigu",
+        "Alice de Poncheville",
+        "Olivier Cruveiller",
+        "Philippe Morier-Genoud",
+        "Olivier Torres",
+        "Marie-Jaoul de Poncheville",
+        "Louis de Menthon",
+        "Jacques Deleuze",
+        "Joseph Schilinger"
+      ],
+      "duration_seconds": 7560,
+      "imdb_id": "tt0089312",
+      "imdb_rating": "6.5",
+      "subtitles_found": [
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "kg version (thks to kontrola@kg)"
+        }
+      ],
+      "_enriched": true
+    },
+    "e31777ca-9b9c-4b32-9fe0-098c38d2213e": {
+      "title": "משחק ילדים 2",
+      "year": 1990,
+      "category": "אימה",
+      "description": "צ'אקי חוזר! הבובה הרצחנית הידועה לשמצה, עם החיוך הנבזי חוזרת לחיים בסרט חדש המתאר את המאבק בין אנדי בארקלי הצעיר (אלכס וינסנט) והבובה השטנית המנסה לכבוש את נפשו. למרות שבהרפתקה הקודמת הוא נצלה, צ'אקי עולה מן האפר, לאחר שנבנה מחדש במפעל לצעצועים כדי להסיר את התדמית השלילית שנוצרה לבובה. בריא ושלם, עו",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12298?exp=1790182350&sig=716d9920a4b615a3d75f2b61773a55cc",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12298?exp=1790182350&sig=716d9920a4b615a3d75f2b61773a55cc",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/2tPQbPQeHEYAGoXFSW61IWNmoce.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "e31777ca-9b9c-4b32-9fe0-098c38d2213e",
+      "created_date": "2026-09-19T18:02:37.367Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fNkt4S5iXgBD4ea5bP9MZRHO8su.jpg",
+      "tmdb_id": 11186,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.376,
+      "genres": [
+        "אימה"
+      ],
+      "en_title": "Child's Play 2",
+      "trailer": "A1LRR3jLNBs",
+      "cast": [
+        "Alex Vincent",
+        "בראד דוריף",
+        "Christine Elise",
+        "Jenny Agutter",
+        "Gerrit Graham",
+        "גרייס זבריצקי",
+        "Peter Haskell",
+        "Beth Grant",
+        "Greg Germann",
+        "Raymond Singer",
+        "Stuart Mabray",
+        "Matt Roe",
+        "Don Pugsley",
+        "Ed Krieger",
+        "Vince Melocchi"
+      ],
+      "duration_seconds": 5040,
+      "imdb_id": "tt0099253",
+      "imdb_rating": "6.0",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Childs.Play.2.1990.Bluray.1080p.DTS-HD-2.0.x264-Grym"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Childs.Play.2.1990.REMASTERED.1080p.BluRay.AVC.TrueHD.7.1.Atmos-MiXER"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Child&#39;s.Play.2.1990.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Child's.Play.2.1990.720p.BluRay.x264-[YTS.AG]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Childs.Play.2.1990.2160p.UHD.BluRay.REMUX.DV.HDR.HEVC.Atmos-TRiToN"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Childs.Play.2.1990.ALL.Remastered.Bluray"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "childs.play.2.1990.1080p.bluray.x264-psychd"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Child&#39;s Play 2 (1990) RM4K (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)"
+        }
+      ],
+      "_enriched": true
+    },
+    "4910edaf-b0d3-4bc6-9d05-8cbd6bd41e88": {
+      "title": "היורש של צ'אקי",
+      "year": 2004,
+      "category": "אימה",
+      "description": "צ'אקי, כוכב סדרת סרטי האימה הקומיים שהפכו לפולחן, \"משחק ילדים\", חוזר עם אשתו טיפאני וצאצאו הרך לכבוש ולהרוס את הוליווד. מתברר שהתפוח נופל קרוב מאד לעץ.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12301?exp=1790182350&sig=f3bc66a878d5ce7199f9c8cbd77861bd",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12301?exp=1790182350&sig=f3bc66a878d5ce7199f9c8cbd77861bd",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/vd9K93gQ9whMKjXzADZanxWpIXM.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "4910edaf-b0d3-4bc6-9d05-8cbd6bd41e88",
+      "created_date": "2026-09-19T18:08:39.929Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/eZOt0qAmxwCXyJHLgEIEKdjQVM8.jpg",
+      "tmdb_id": 11249,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.509,
+      "genres": [
+        "אימה",
+        "קומדיה"
+      ],
+      "en_title": "Seed of Chucky",
+      "trailer": "U18RvBCCGEg",
+      "cast": [
+        "בראד דוריף",
+        "ג'ניפר טילי",
+        "בילי בויד",
+        "Redman",
+        "Hannah Spearritt",
+        "ג'ון ווטרס",
+        "Keith-Lee Castle",
+        "Steve West",
+        "Tony Gardner",
+        "ג'ייסון פלמינג",
+        "ניקולס רואו",
+        "Stephanie Chambers",
+        "Simon James Morgan",
+        "Betty Denville",
+        "Rebecca Santos"
+      ],
+      "duration_seconds": 5160,
+      "imdb_id": "tt0387575",
+      "imdb_rating": "4.9",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Seed.of.Chucky.2004.UHD.2160p.HDR10.DV.P7.DTS-HD.TrueHD.5.1.DDP.H265-4k"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Seed.Of.Chucky.2004.BluRay.[NETFLIX-SRT]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Seed Of Chucky 720 Bluray - YIFY"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "the pest sub for your eyes"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Seed.Of.Chucky.2004.720p.BluRay.H264.AAC-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Seed.of.Chucky.2004.2160p.UHD.Blu-ray.Remux.HEVC.DV.DTS-HD.MA.5.1-HDT_eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Seed.Of.Chucky.2004.BluRay.x264-LCHD(notunratedversion)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "SEED OF CHUCKYUnrated [2004-Eng-DVDrip]-haSak"
+        }
+      ],
+      "_enriched": true
+    },
+    "3a1efc9e-50f7-4536-860c-63ed32ad51ee": {
+      "title": "הכלה של צ'אקי",
+      "year": 1998,
+      "category": "אימה",
+      "description": "הפרק הרביעי הסדרה של צ'אקי, והפעם בסרט הזה אנו פוגשים את אהובתו של צ'אקיכאשר היה פעם בן אדם, וכעת היא חוברת אליו גם כן כבובה רצחנית.שניהם יוצאים למסע אחר הקמע שנקבר ביחד עם גופתו של צ'ארלס לי ריי (צ'אקי)שרק בעזרת הקמע הזה הם יוכלו לצאת מן בובות הפלסטיק.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12300?exp=1790182350&sig=5cf4c34c5002f84a31318a6f84eb091a",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12300?exp=1790182350&sig=5cf4c34c5002f84a31318a6f84eb091a",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/yaIPNOcC7ZRuwH3maNwP9qzIo5G.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "3a1efc9e-50f7-4536-860c-63ed32ad51ee",
+      "created_date": "2026-09-19T18:02:56.996Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fLTd0VxpijUt6Hm1QM2ehLpWPeu.jpg",
+      "tmdb_id": 11932,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.139,
+      "genres": [
+        "אימה",
+        "קומדיה"
+      ],
+      "en_title": "Bride of Chucky",
+      "trailer": "VNpqr8GfNRg",
+      "cast": [
+        "בראד דוריף",
+        "ג'ניפר טילי",
+        "קתרין הייגל",
+        "Nick Stabile",
+        "Alexis Arquette",
+        "Gordon Michael Woolvett",
+        "John Ritter",
+        "Lawrence Dane",
+        "Michael Louis Johnson",
+        "James Gallanders",
+        "Janet Kidder",
+        "Vince Corazza",
+        "קאתי נג'ימי",
+        "Park Bench",
+        "Emily Weedon"
+      ],
+      "duration_seconds": 5340,
+      "imdb_id": "tt0144120",
+      "imdb_rating": "5.6",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Bride.of.Chucky.1998.UNCUT.UHD.2160p.HDR10.DV.P7.DTS-HD.TrueHD.5.1.H265-4k"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "BRIDE OF CHUCKY [1998-Eng-DVDrip]-haSak"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "[ www.UsaBit.com ] - Bride of Chucky (1998) BluRay 720p 600MB Ganool"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Childs.Play.4.Bride.Of.Chucky.dvdrip.xvid.mp3-SuperD"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "BrideofChucky(1998)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "BRIDE OF CHUCKY [1998-Eng-DVDrip]-haSak"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Bride of Chucky 1998 1080p Blu-ray VC-1 DTS-HD MA 5.1"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Bride of Chucky 23.976 FPS DVD"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
