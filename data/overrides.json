@@ -10670,6 +10670,342 @@
         }
       ],
       "_enriched": true
+    },
+    "577ac4a5-a522-45d7-b622-96102b49fb52": {
+      "title": "מלכת השחמט",
+      "year": 2026,
+      "category": "סרטים",
+      "description": "אגדת השחמט יהודית פולגאר מנצחת את הספקות, את הסקסיזם ואת האלוף גארי קספרוב, ותופסת את מקומה לצד כוכבי השחמט הגדולים של כל הזמנים. סרט תיעודי.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12155?exp=1790182350&sig=51455ddfcd95559100a09c6db8bb1fe5",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12155?exp=1790182350&sig=51455ddfcd95559100a09c6db8bb1fe5",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/zvlm0otoNBmflkTqNZPP66wq2Vn.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "577ac4a5-a522-45d7-b622-96102b49fb52",
+      "created_date": "2026-09-18T13:17:50.966Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/y5haKgSz1hCDatwIOMuqZ1CFKPW.jpg",
+      "tmdb_id": 1596291,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.526,
+      "genres": [
+        "דוקומנטרי"
+      ],
+      "en_title": "Queen of Chess",
+      "trailer": "8pmJgtLKBXg",
+      "cast": [
+        "Judit Polgár",
+        "Гарри Каспаров",
+        "Laszlo Polgar",
+        "Sofia Polgar",
+        "Klara Polgar",
+        "Gustáv Font",
+        "Anna Rudolf",
+        "Jovanka Houska",
+        "Maurice Ashley",
+        "William Hartston",
+        "Dirk Jan ten Geuzendam",
+        "Bobby Fischer"
+      ],
+      "duration_seconds": 5580,
+      "imdb_id": "tt39162904",
+      "imdb_rating": "7.7",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Queen.of.Chess.2026.1080p.NF.WEB-DL.DDP5.1.H.264-FLUX"
+        }
+      ],
+      "_enriched": true
+    },
+    "159cc346-99df-4a41-a6de-addadb09a315": {
+      "title": "חוטאים",
+      "year": 2025,
+      "category": "סרטים",
+      "description": "\"כשאתה ממשיך לרקוד עם השטן, יום אחד הוא יעקוב אחריך הביתה\". בניסיון להשאיר את חייהם הבעייתיים מאחור, האחים התאומים חוזרים לעיר הולדתם כדי להתחיל מחדש, רק ששם הם מגלים שרוע גדול עוד יותר מחכה לקבל אותם בחזרה.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12152?exp=1790182350&sig=9b073f2247bd068af10f607bcd36230e",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12152?exp=1790182350&sig=9b073f2247bd068af10f607bcd36230e",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/a7t9YIfRxWYKyOxaTo1LWcqIG3Q.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "159cc346-99df-4a41-a6de-addadb09a315",
+      "created_date": "2026-09-18T13:07:11.249Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+      "tmdb_id": 1233413,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.5,
+      "genres": [
+        "אימה",
+        "פעולה",
+        "מותחן"
+      ],
+      "en_title": "Sinners",
+      "trailer": "ao2xAYw0qkg",
+      "cast": [
+        "מייקל בי ג'ורדן",
+        "היילי סטיינפלד",
+        "Miles Caton",
+        "ג'ק אוקונל",
+        "וונמי מוסקו",
+        "ג'יימי לוסון",
+        "עומאר בנסון מילר",
+        "דלרוי לינדו",
+        "לי ג'ון לי",
+        "Yao",
+        "Lola Kirke",
+        "Peter Dreimanis",
+        "באדי גאי",
+        "Saul Williams",
+        "אנדרן וורד-האמונד"
+      ],
+      "duration_seconds": 8280,
+      "imdb_id": "tt31193180",
+      "imdb_rating": "7.5",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Sinners.2025.1080p.10bit.BluRay.8CH.x265.HEVC-PSA"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Sinners 2025 1080p & 720p \"WEB\""
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Sinners.2025.WEB.H264-RBB"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Sinners.2025.COMPLETE.BLURAY-D3US"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Sinners.2025.1080p.BluRay.x265-YAWNTiC_eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Sinners.2025.1080p.BluRay.x265-YAWNTiC_eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Sinners.2025.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Sinners.2025.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        }
+      ],
+      "_enriched": true
+    },
+    "1b5d81e7-62cc-475a-ae72-46d45816a857": {
+      "title": "לפגוש את ג'ו בלאק",
+      "year": 1998,
+      "category": "סרטים",
+      "description": "על דלתו של ויליאם פאריש מתדפק המוות בכבודו ובעצמו, שהגיע מרחוק לקחת אותו אל סוף הדרך. אך איתרא מזלו של פאריש שהמוות - ג'ו בלאק - רוצה קודם ללוות וללמוד מדרך חייו של פאריש, ובינתיים מתאהב בסוזאן בתו החיה מאוד. ג'ו וסוזאן מפתחים רומן אמיתי ואנושי ומכניסים את כל המשפחה למצב קצת לא נעים כשהמוות, צריך לל",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12154?exp=1790182350&sig=39a822e4720ec68486e2f4707d97cae0",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12154?exp=1790182350&sig=39a822e4720ec68486e2f4707d97cae0",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/1zKN5zA5SZzAF5sMrUTZW7K5OdI.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "1b5d81e7-62cc-475a-ae72-46d45816a857",
+      "created_date": "2026-09-18T13:15:08.713Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uMBByiSDpgFwWVegAtwwnuzvogJ.jpg",
+      "tmdb_id": 297,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.37,
+      "genres": [
+        "פנטזיה",
+        "דרמה",
+        "רומנטיקה"
+      ],
+      "en_title": "Meet Joe Black",
+      "trailer": "_zIOjl93WrU",
+      "cast": [
+        "בראד פיט",
+        "אנתוני הופקינס",
+        "קלייר פורלני",
+        "ג'ייק ובר",
+        "מרשה גיי הארדן",
+        "ג'פרי טמבור",
+        "David S. Howard",
+        "Lois Kelly-Miller",
+        "Jahnni St. John",
+        "Richard Clarke",
+        "Marylouise Burke",
+        "Diane Kagan",
+        "ג'ון סקוויב",
+        "Gene Canfield",
+        "Suzanne Hevner"
+      ],
+      "duration_seconds": 10680,
+      "imdb_id": "tt0119643",
+      "imdb_rating": "7.2",
+      "subtitles_found": [
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Meet.Joe.Black.1998.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Meet.Joe.Black.1998.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Meet.Joe.Black.1998.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Meet.Joe.Black.1998.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Meet.Joe.Black.1998.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Meet.Joe.Black.1998.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Meet.Joe.Black.1998.1080p.BluRay.x265-YAWNTiC_eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Meet.Joe.Black.1998.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        }
+      ],
+      "_enriched": true
+    },
+    "ca7dde5b-1645-4f57-9a58-86cec7e5dd0d": {
+      "title": "סודות בים הכחול 2: השונית",
+      "year": 2009,
+      "category": "סרטים",
+      "description": "תפסו את הגל בהרפתקת אקסטרים \"סודות הים הכחול: השונית\" המביא את סיפורם של הצוללנים סבסטיאן ודני. הזוג הסקסי הופך ללא ידיעתם להרפתקנים כאשר מבטיחים להם הרבה כסף תמורת ליווי צלילות לאורך השונית של האי. ההרפתקה התת ימית מסבכת אתהזוג ללא הכנה מוקדמת. בעזרתם של לקוחותיהם החדשים, הזוג הצעיר מושלך הישר אל ה",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12151?exp=1790182350&sig=a288fb9bb6762102a978fbd9191220d4",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12151?exp=1790182350&sig=a288fb9bb6762102a978fbd9191220d4",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/qLWOHSfrwWYrm7yic0ACFKGRLAq.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "ca7dde5b-1645-4f57-9a58-86cec7e5dd0d",
+      "created_date": "2026-09-18T13:06:06.026Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hvTLEVHcn3ZC1uZErMHamxkBI1T.jpg",
+      "tmdb_id": 16931,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.1,
+      "genres": [
+        "פעולה",
+        "הרפתקאות",
+        "מותחן"
+      ],
+      "en_title": "Into the Blue 2: The Reef",
+      "trailer": "TPDTw1KLYmA",
+      "cast": [
+        "Chris Carmack",
+        "לורה ונדרוורט",
+        "David Anders",
+        "מרשה תומאסון",
+        "מירצ'ה מונרו",
+        "Michael Graziadei",
+        "Mark Kubr",
+        "Audrina Patridge",
+        "Theo Coumbis",
+        "Amanda Kimmel",
+        "Parvati Shallow",
+        "Rand Holdren",
+        "Timothy D. Lechner",
+        "Michelle Vawer",
+        "Geoff Heise"
+      ],
+      "duration_seconds": 5520,
+      "imdb_id": "tt0865907",
+      "imdb_rating": "4.7",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "Into.The.Blue.2.The.Reef.2009.720p.HDTV.DD5.1.x264-DON"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Into.The.Blue.2.The.Reef.2009.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Into.the.Blue.2.The.Reef.2009.WEBRip.x264-RARBG"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Into.The.Blue.2;The.Reef.2009.NL-subs.xvid.(DutchReleaseTeam)"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "HDTV"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Heathers.1988.720p.BluRay.x264.YIFY"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "WEBRip"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "WEBRip"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
