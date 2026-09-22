@@ -7,14 +7,15 @@
   "analytics": {
     "days": {
       "2026-09-22": {
-        "views": 8,
-        "plays": 4,
+        "views": 10,
+        "plays": 8,
         "searches": 5,
         "visitors": [
           "4XK1u6P8H-KKinZn",
           "h2d2jjpwq8XPOGjg",
           "NmcKg1fBEkP6R5Iu",
-          "2Ze8YUOUI4kVKW-T"
+          "2Ze8YUOUI4kVKW-T",
+          "gYJK5-9_-HgiFoOE"
         ]
       }
     },
@@ -30,6 +31,14 @@
       "pynys-vprb-ep-s1e1-8632": {
         "plays": 2,
         "title": "פיניאס ופרב"
+      },
+      "kan11-WU0LT-v7MaM": {
+        "plays": 1,
+        "title": "שום פלפל ושמן זית החדשה"
+      },
+      "kan11-1AsDJQJv4fw": {
+        "plays": 3,
+        "title": "פגישה עם רוני קובן"
       }
     },
     "zeroSearch": {
@@ -2183,6 +2192,20 @@
       "title": "Rejoice and be Happy",
       "overview": "The story of Nahumi, a sensitive young man who dreamt of being the lead singer of the military rabbinate choir. Unfortunately, his dream was cut short when he was replaced by Dudi, the ultra-Orthodox YouTube star. Everything is about to change when Brigadier General Elhanan (an Israeli hero with two bionic hands) is appointed as the new Chief Military Rabbi, especially when he has big plans, that include Nahumi as well.",
       "tmdb_id": 205374,
+      "lang": "en",
+      "matched": true
+    },
+    "kan11--ozJYJ8u-8E:en": {
+      "title": "Manayek",
+      "overview": "Izzy Bachar, a police internal affairs investigator, discovers just before retirement that his long time friend Barak, a senior police officer, is accused to be corrupt. Life as he knows it breaks into pieces.",
+      "tmdb_id": 107013,
+      "lang": "en",
+      "matched": true
+    },
+    "kan11-bKd7dnnuNLo:en": {
+      "title": "Screwball: The Ted Whitfield Story",
+      "overview": "Story takes place during the MLB strike of 1994 when the nation turned its eyes to the sport of wiffleball. We follow the the pursuit of Ted Whitfield as he tries to break the homerun and his subsequent battles with substance abuse.",
+      "tmdb_id": 97177,
       "lang": "en",
       "matched": true
     }
