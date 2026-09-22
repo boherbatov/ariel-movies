@@ -1,5 +1,795 @@
 {
-  "upserts": {},
+  "upserts": {
+    "017d55e7-c206-4ba4-9011-bf876336f194": {
+      "title": "Sacrifice",
+      "year": 2026,
+      "category": "סרטים",
+      "description": "Sacrifice follows Daniella Hernandez, a highly sought-after entertainment lawyer, as she navigates the nefarious lives of her rich and famous clients.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/13477?exp=1790169445&sig=6de4d455d8bec69652a6d3b3988f2176",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/13477?exp=1790169445&sig=6de4d455d8bec69652a6d3b3988f2176",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "017d55e7-c206-4ba4-9011-bf876336f194",
+      "created_date": "2026-09-20T02:53:18.760Z",
+      "tmdb_id": 1284186,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1mImp4LczEYMx7c6LZUlUyAilJu.jpg",
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.474,
+      "genres": [
+        "הרפתקאות",
+        "קומדיה",
+        "פעולה",
+        "דרמה",
+        "מותחן",
+        "Legal"
+      ],
+      "en_title": "Sacrifice",
+      "trailer": "u5qW1gMMSVI",
+      "cast": [
+        "כריס אוונס",
+        "אניה טיילור-ג'וי",
+        "ונסן קאסל",
+        "סלמה הייק פינו",
+        "ג׳ון מלקוביץ׳",
+        "צ'ארלי XCX",
+        "יאנג לין",
+        "סם ריצ'רדסון",
+        "Jade Croot",
+        "Ambika Mod",
+        "Bebe Massey",
+        "Jeremy O. Harris",
+        "Miriam Silverman",
+        "Δέσποινα Χαριάτη",
+        "Jennie Lattou"
+      ],
+      "duration_seconds": 6180,
+      "imdb_id": "tt32268992",
+      "imdb_rating": "5.7",
+      "network": "Paramount+",
+      "series_status": "Running",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Sacrifice 2026 arabic sub gemini"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Sacrifice.2025.Okko.1080p.WEB-DL.x264.en"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Sacrifice.2025 720p.CAM.H264-CinemaCity_en"
+        }
+      ],
+      "_enriched": true
+    },
+    "f0499a25-ab5d-4d53-b7c9-23b28215945e": {
+      "title": "He's Watching You",
+      "year": 2026,
+      "category": "סרטים",
+      "description": "",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/13215?exp=1790169445&sig=610187ef90347b04526947de7e0916b7",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/13215?exp=1790169445&sig=610187ef90347b04526947de7e0916b7",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/lGrxMTGzoO120uuHuYxwbv5Ypcw.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "f0499a25-ab5d-4d53-b7c9-23b28215945e",
+      "created_date": "2026-09-19T21:04:19.603Z",
+      "tmdb_id": 1370424,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/j4NdsFyYxPYAZl7ZYTD9wq1Tis2.jpg",
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.923,
+      "genres": [
+        "אימה",
+        "מותחן"
+      ],
+      "en_title": "He's Watching You",
+      "trailer": "XkjpCmcKp78",
+      "cast": [
+        "Gianni DeCenzo",
+        "Jan Luis Castellanos",
+        "Elizabeth Yu",
+        "Vanessa Rubio",
+        "Nicole Elizabeth Berger",
+        "Kevin Porter",
+        "Kaya Rosenthal",
+        "Tiana Le",
+        "Tyler Burke",
+        "Casey Mills",
+        "Brandon Melo",
+        "Gilbert Owuor",
+        "Gavin J. Konop",
+        "Maetrix Fitten",
+        "Kiana Tavasti"
+      ],
+      "duration_seconds": 6120,
+      "imdb_id": "tt26315134",
+      "imdb_rating": "4.7",
+      "subtitles_found": [
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "We.Bare.Bears.S03E07.Coffee.Cave.AAC2.0.1080p.WEBRip.x265-PoF"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "we.bare.bears.s03e07.professor.lampwick.480p.web.dl.x264.rmteam"
+        }
+      ],
+      "_enriched": true
+    },
+    "e236cb4d-1da2-488e-8520-593c4e6aa4d8": {
+      "title": "אומהה",
+      "year": 2025,
+      "category": "סרטים",
+      "description": "",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/13412?exp=1790169445&sig=efbd2ab9a9f2fe93095a9be65a9126d4",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/13412?exp=1790169445&sig=efbd2ab9a9f2fe93095a9be65a9126d4",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/s1SNVyTWWmvpWK439bOrRF9xywS.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "e236cb4d-1da2-488e-8520-593c4e6aa4d8",
+      "created_date": "2026-09-19T22:16:45.806Z",
+      "tmdb_id": 1233655,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/zqZoK4Uh2e4NiDTkvsUa3Uhk0rY.jpg",
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.9,
+      "genres": [
+        "דרמה"
+      ],
+      "en_title": "Omaha",
+      "trailer": "M2OTVoxpetU",
+      "cast": [
+        "John Magaro",
+        "Molly Belle Wright",
+        "Wyatt Solis",
+        "Talia Balsam",
+        "Rachel Alig",
+        "Max Carpenter",
+        "Lisa Carswell",
+        "Janelle Fore",
+        "Ally Wright",
+        "Ketrick \"Jazz\" Copeland",
+        "Daniel Edward Mora",
+        "Christina Cooper",
+        "Emma Keifer",
+        "Teo Santos"
+      ],
+      "duration_seconds": 4980,
+      "imdb_id": "tt29253299",
+      "imdb_rating": "7.3",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Omaha.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Omaha.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264 (SDH)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Omaha.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264"
+        }
+      ],
+      "_enriched": true
+    },
+    "e9b06cc3-bfc8-4a4a-9ac2-a252a179ca4d": {
+      "title": "משחק ילדים 2019",
+      "year": 2019,
+      "category": "אימה",
+      "description": "\"משחק ילדים\" הוא חידוש עכשווי לקלאסיקת האימה משנת 1988, ועוקב אחרי קארן (אוברי פלאזה), אם חד הורית אשר מעניקה לבנה אנדי בובה מסוג \"באדי\" מבלי להיות מודעת לטבעה המרושע.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12295?exp=1790169445&sig=daf75c9dc873a2d4f908255f0b3c9060",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12295?exp=1790169445&sig=daf75c9dc873a2d4f908255f0b3c9060",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/mr27lK6IpAHK3VpBSMlv0l7ztMN.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "e9b06cc3-bfc8-4a4a-9ac2-a252a179ca4d",
+      "created_date": "2026-09-19T17:56:39.110Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vHse4QK31Vc3X7BKKU5GOQhYxv6.jpg",
+      "tmdb_id": 533642,
+      "tmdb_kind": "movie",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 5.965,
+      "genres": [
+        "אימה"
+      ],
+      "en_title": "Child's Play",
+      "suggested_title": "משחק ילדים",
+      "trailer": "PeHNLikDiVw",
+      "cast": [
+        "Gabriel Bateman",
+        "אוברי פלזה",
+        "מארק המיל",
+        "בריאן טיירי הנרי",
+        "Tim Matheson",
+        "Beatrice Kitsos",
+        "Ty Consiglio",
+        "Marlon Kazadi",
+        "David James Lewis",
+        "Carlease Burke",
+        "Nicole Anthony",
+        "Trent Redekop",
+        "Amro Majzoub",
+        "Phoenix Ly",
+        "Kristin York"
+      ],
+      "duration_seconds": 5400,
+      "imdb_id": "tt8663516",
+      "imdb_rating": "5.7",
+      "subtitles_found": [
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Child's.Play.2019.720p.BluRay.x264-[YTS.LT]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Child's.Play.2019.720p.BluRay.x264-[YTS.LT]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Child's.Play.2019.720p.BluRay.x264-[YTS.LT]hi"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Child'sPlay(2019)720p.BluRay.x264[TRiNiTY]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Child's Play (2019) 720p.BluRay.x264 [TRiNiTY]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Childs.Play.2019.1080p.BluRay.H264.AAC-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Childs.Play.2019.1080p.BluRay.x264.DTS-FGT"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Childs.Play.2019.720p.BluRay.x264.DTS-FGT"
+        }
+      ],
+      "_enriched": true
+    },
+    "54a43c03-eb54-4203-bdec-0ba1c6001cd0": {
+      "title": "הכירו את ביל/ Meet Bill",
+      "year": 2007,
+      "category": "סרטים",
+      "description": "ביל (אהרון אקהרט) הוא עובד בנק בכיר אשר התייאש מחייו, הוא מרגיש כי לא הצליח להגשים את ציפיותיו מעצמו, עבודתו משעממת אותו, הוא מזדקן, ובנוסף לכל אלו, הוא מגלה כי אשתו (אליזבת' בנקס) מנהלת רומן סוער עם מנחה טלוויזיה מקומי (טימותי אוליפנט). בשלב זה בו מאבד ביל כמעט את שפיותו, נחלץ לעזרתו אחד הנערים שאי",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12153?exp=1790169445&sig=fcdfb347d668648e16ed02ec925ed710",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12153?exp=1790169445&sig=fcdfb347d668648e16ed02ec925ed710",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/u5EqwPmzc40qIyUUSMvoaWVsSMc.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "54a43c03-eb54-4203-bdec-0ba1c6001cd0",
+      "created_date": "2026-09-18T13:11:30.160Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tQeYoSH2z0vqiBff3wUHOUqyZA7.jpg",
+      "tmdb_id": 13243,
+      "tmdb_kind": "movie",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 6.055,
+      "genres": [
+        "קומדיה",
+        "דרמה",
+        "רומנטיקה"
+      ],
+      "en_title": "Meet Bill",
+      "suggested_title": "הכירו את ביל",
+      "trailer": "FK159S6cz8Y",
+      "cast": [
+        "ארון אקהרט",
+        "ג'סיקה אלבה",
+        "אליזבת בנקס",
+        "לוגאן לרמן",
+        "קריסטן ויג",
+        "טימותי אוליפנט",
+        "Holmes Osborne",
+        "ריד דיאמונד",
+        "ג'ייסון סודייקיס",
+        "Todd Louiso",
+        "Marisa Coughlan",
+        "Constance Barron",
+        "Joseph Moynihan",
+        "גבריאל באסו",
+        "Craig Bierko"
+      ],
+      "duration_seconds": 5580,
+      "imdb_id": "tt0790623",
+      "imdb_rating": "6.1",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "Meet.Bill.2007.1080p.BluRay.x264.AAC5.1-[YTS.MX]"
+        },
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "Meet Bill"
+        },
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "Bill.LiMiTED"
+        },
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "Meet.Bill.2007.BluRay.720P.DTS.x264-CHD"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Meet.Bill.2007.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Meet Bill"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Meet.Bill.2007.DvDRip-FxM"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "bill-2015-dvdrip-x264-ac3-zeus"
+        }
+      ],
+      "_enriched": true
+    },
+    "005d4882-7111-4eb3-a4e8-023fe2e82d53": {
+      "title": "קללתו של צ׳אקי",
+      "year": 2013,
+      "category": "אימה",
+      "description": "ניקה (פיונה דוריף) מתאבלת על התאבדותה המזוויעה של אמא שלה בעוד שאחותה הגדולה והשתלטנית בארב (דניאל ביסוטי) מגיעה עם משפחתה כדי לעזור להסדיר את ענייניה של אימם. בעוד שאחותה מנסה לעזור כדי שיהיה לבארב עתיד טוב יותר, בתה הקטנה מנחמת את עצמה עם בובה ג'ינג'ית מדברת בשם צ'אקי שהגיעה לאחרונה באופן מיסתורי",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12299?exp=1790169445&sig=2f85a7f060ac3adee059a0958ec65e37",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12299?exp=1790169445&sig=2f85a7f060ac3adee059a0958ec65e37",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/x9DzkDWp8O82Wzxk6otuD9bce9a.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "005d4882-7111-4eb3-a4e8-023fe2e82d53",
+      "created_date": "2026-09-19T18:01:03.360Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jAZ0hMGVgb5beOXy20iU49Cr3RQ.jpg",
+      "tmdb_id": 167032,
+      "tmdb_kind": "movie",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 5.964,
+      "genres": [
+        "אימה",
+        "מותחן"
+      ],
+      "en_title": "Curse of Chucky",
+      "trailer": "nsHCp5SqVWc",
+      "cast": [
+        "פיונה דוריף",
+        "בראד דוריף",
+        "Danielle Bisutti",
+        "Summer H. Howell",
+        "Brennan Elliott",
+        "Maitland McConnell",
+        "A Martinez",
+        "Chantal Quesnel",
+        "Adam Hurtig",
+        "Kally Berard",
+        "Kyle Nobess",
+        "Kevin Anderson",
+        "Ali Tataryn",
+        "Will Woytowich",
+        "Candace Smith"
+      ],
+      "duration_seconds": 5820,
+      "imdb_id": "tt2230358",
+      "imdb_rating": "5.6",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Curse of Chucky (2013) WEBRip.iTunes.ar"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Curse.Of.Chucky.2013.UNRATED.DVDRip.XviD-EVO"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Curse.Of.Chucky.2013.WEBRip.XViD.juggs"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Curse of Chucky (2013)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Curse.Of.Chucky.2013.UNRATED.720p.WEB-DL.H264-PublicHD"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Curse of Chucky 2013 WEBRip XViD juggs"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Curse.Of.Chucky.2013.UNRATED.720p.WEB-DL.H264-PublicHD"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Curse.Of.Chucky.2013.UNRATED.1080p.BluRay.x264-ROVERS"
+        }
+      ],
+      "_enriched": true
+    },
+    "da658dae-352f-4a8b-ad0b-edc453fddf39": {
+      "title": "יש לו את זה",
+      "year": 2021,
+      "category": "סרטים",
+      "description": "עיבוד מחודש לסיפור העלילה של \"יש לה את זה\", סרט הנעורים הקלאסי מ‑1999. רק שהפעם בחילופי מגדר: משפיענית צעירה שמתמחה במייקאוברים מתערבת עם חברותיה שתצליח להפוך את התלמיד הלא פופולרי למלך הנשף.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11923?exp=1790169445&sig=8c675ad8cd5625734226930b098357df",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11923?exp=1790169445&sig=8c675ad8cd5625734226930b098357df",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/clVa02lUYwA1SbGX0mUc4nn6die.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "da658dae-352f-4a8b-ad0b-edc453fddf39",
+      "created_date": "2026-09-18T08:00:33.398Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/eW9vrzXW0r8glKx6p27i1iQblsr.jpg",
+      "tmdb_id": 9469,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.755,
+      "genres": [
+        "דרמה"
+      ],
+      "en_title": "He Got Game",
+      "trailer": "LnN4t7xJd_s",
+      "cast": [
+        "דנזל וושינגטון",
+        "Ray Allen",
+        "רוזריו דוסון",
+        "מילה יובוביץ'",
+        "היל הארפר",
+        "נד ביטי",
+        "Jim Brown",
+        "Joseph Lyle Taylor",
+        "Bill Nunn",
+        "Michele Shay",
+        "ג'ון טורטורו",
+        "שאקיל אוניל",
+        "Charles Barkley",
+        "מייקל ג'ורדן",
+        "Jill Kelly"
+      ],
+      "duration_seconds": 8160,
+      "imdb_id": "tt0124718",
+      "imdb_rating": "6.9",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "He.Got.Game.1998.1080p.BluRay.H264.AAC-RARBG"
+        },
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "He.Got.Game.1998.1080p.BluRay.x265-RARBG"
+        },
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "He Got Game(1998).BluRay.1080p.x264.SNR.heb"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "He.Got.Game.1998.1080p.BluRay.x265-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "He.Got.Game.1998.WEB-DL.DSNP"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "He.Got.Game.1998.WEB-DL.DSNP"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "He Got Game (1998) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "He Got Game 1998"
+        }
+      ],
+      "_enriched": true
+    },
+    "e83244de-1628-47c3-a69a-3735f95fb3b2": {
+      "title": "Sultana",
+      "year": 2026,
+      "category": "סרטים",
+      "description": "The story of Kosem, one of the most powerful women the East has ever seen, who dictated the politics of the Ottoman Empire.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11383?exp=1790169445&sig=a1713ccfad9d167b948a75fc6549e865",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11383?exp=1790169445&sig=a1713ccfad9d167b948a75fc6549e865",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/wDebpR4NplIM8EteAGfd51Zdisu.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "e83244de-1628-47c3-a69a-3735f95fb3b2",
+      "created_date": "2026-09-18T01:08:30.750Z",
+      "tmdb_id": 1656489,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/lDHfyYkTIWCWWdbHkLZwRXQx3Ul.jpg",
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6,
+      "genres": [
+        "דרמה",
+        "מוזיקה"
+      ],
+      "en_title": "Sultana",
+      "cast": [
+        "Tuba Büyüküstün",
+        "Derya Pınar Ak",
+        "Seray Kaya",
+        "Begüm Akkaya",
+        "Rojbin Erden",
+        "Şirin Sultan Saldamlı",
+        "Itır Esen",
+        "Taro Emir Tekin",
+        "האקאן קורטאש",
+        "Nur Sürer",
+        "Çağlar Çorumlu",
+        "Melike Güner",
+        "Cem Zeynel Kılıç",
+        "Abdullah Cersel"
+      ],
+      "duration_seconds": 7200,
+      "imdb_id": "tt41228546",
+      "imdb_rating": "7.7",
+      "network": "Telemundo",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "SULTANA.2026.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.265-YELLO.ar"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Sultana 2026 1080p AMZN WEB-DL x264 EAC3 5 1 - HdT"
+        }
+      ],
+      "_enriched": true
+    },
+    "93da6caa-cf0f-4664-968d-4bea65c2869f": {
+      "title": "Lion Fist",
+      "year": 2026,
+      "category": "סרטים",
+      "description": "Anna Lin has never told anyone how she really feels. On the surface, she lives a successful life as a TV presenter with lots of friends and a full calendar. But inside, Anna struggles with feelings of anxiety and loneliness. Therefore, she starts therapy for the first time in her life. The goal is to eventually confront her closest friends and tell them how she really feels.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11382?exp=1790169445&sig=e297c3f47342227d455cfcda83237079",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11382?exp=1790169445&sig=e297c3f47342227d455cfcda83237079",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "93da6caa-cf0f-4664-968d-4bea65c2869f",
+      "created_date": "2026-09-17T22:12:19.592Z",
+      "tmdb_id": 1340102,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mfevSm3elJX1IqCjBxC7bGl07s2.jpg",
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.889,
+      "genres": [
+        "פעולה"
+      ],
+      "en_title": "Lion Fist",
+      "trailer": "9JLxOm9VmGI",
+      "cast": [
+        "Mathis Landwehr",
+        "Li Yanlong",
+        "Kurt McKinney",
+        "Keith Cooke",
+        "Brice Akuesson",
+        "David Yeung",
+        "Gary Daniels"
+      ],
+      "duration_seconds": 5460,
+      "imdb_id": "tt38953026",
+      "network": "DR TV",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Lion Fist (2026).Retail-en.Arabic"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Lion Fist (2026).Retail-en"
+        }
+      ],
+      "_enriched": true
+    },
+    "bef389e5-aead-49e6-b0a7-ba9ea60ddbc6": {
+      "title": "מפוצלים 3: נאמנים",
+      "year": 2016,
+      "category": "סרטים",
+      "description": "גם לאחר שלחמה בהצלחה בג'נין ובחייליה, טריס לא מוצאת מנוחה. ביחד עם טוביאס וחבריה הם מחליטים לפרוץ אל העולם שמעבר לגדר בתקווה למצוא חיים טובים יותר, אבל המציאות החדשה מאיימת אפילו יותר מזו שהשאירו מאחוריהם ובנוסף לאמיתות חדשות איתן הם צריכים להתמודד, עליהם גם להימלט מסוכנות חדשה המעוניינת לעצור אותם.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11363?exp=1790169445&sig=8bb252bfb169e3ad378f143394e3e682",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11363?exp=1790169445&sig=8bb252bfb169e3ad378f143394e3e682",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/oFHvTowRCe8JzNgbASDwvsuiQQ7.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "bef389e5-aead-49e6-b0a7-ba9ea60ddbc6",
+      "created_date": "2026-09-17T21:24:58.925Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qSP072apfe2EEcd5Qg9vGYy2OLw.jpg",
+      "tmdb_id": 262504,
+      "tmdb_kind": "movie",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 6.104,
+      "genres": [
+        "הרפתקאות",
+        "מדע בדיוני",
+        "פעולה",
+        "מסתורין"
+      ],
+      "en_title": "Allegiant",
+      "trailer": "AmMYYs5fdk0",
+      "cast": [
+        "שיילין וודלי",
+        "תיאו ג'יימס",
+        "מיילס טלר",
+        "זואי קרביץ",
+        "נעמי ווטס",
+        "ג'ף דניאלס",
+        "Ansel Elgort",
+        "אוקטביה ספנסר",
+        "Keiynan Lonsdale",
+        "דניאל דיי קים",
+        "מגי קיו",
+        "ביל סקארסגארד",
+        "Jonny Weston",
+        "Nadia Hilker",
+        "Andy Bean"
+      ],
+      "duration_seconds": 7200,
+      "imdb_id": "tt3410834",
+      "imdb_rating": "5.7",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Allegiant.2016.UHD.BluRay.2160p.TrueHD.Atmos.7.1.HEVC.REMUX-FraMeSToR"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The Divergent Series_ Allegiant (2016) WEBRip"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Divergent.Series.Allegiant.Part.1.2016.WEBRip.Netflix"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Allegiant.2016.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1.Atmos-LAMA"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Allegiant.2016.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1.Atmos-LAMA"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Allegiant.2016.720p.BluRay.x264-[YTS.AG]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Allegiant.2016.720p.BluRay.x264-[YTS.AG]hi"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Divergent.Series.Allegiant.2016.WEB-DL.TUBI"
+        }
+      ],
+      "_enriched": true
+    }
+  },
   "deleted": [
     "persistence-test-1789932122"
   ],
