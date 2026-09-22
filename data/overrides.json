@@ -6706,6 +6706,480 @@
         }
       ],
       "_enriched": true
+    },
+    "91e9a6e4-866a-484a-ad60-4106b807b8f6": {
+      "title": "שליחות קטלנית: גורל אפל",
+      "year": 2019,
+      "category": "סרטים",
+      "description": "מעל שני עשורים עברו מאז שרה קונור מנעה את יום הדין, שינתה את העתיד וכתבה מחדש את גורל המין האנושי. דאני רמוס חיה חיים פשוטים במקסיקו סיטי עם אחיה ואביה כאשר מחסל מסוג חדש וקטלני – Rev-9 – חוזר בזמן על מנת לצוד ולהרוג אותה. הישרדותה של דאני תלויה באיחוד כוחות עם שתי לוחמות: גרייס, חיילת-על משודרגת מה",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/14078?exp=1790182350&sig=9c5fa85382efc834372b054c4bbf109b",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/14078?exp=1790182350&sig=9c5fa85382efc834372b054c4bbf109b",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/ewCd38mbA3j3Buc2cGMR8nDIyY0.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "91e9a6e4-866a-484a-ad60-4106b807b8f6",
+      "created_date": "2026-09-20T11:38:57.553Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/a6cDxdwaQIFjSkXf7uskg78ZyTq.jpg",
+      "tmdb_id": 290859,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.421,
+      "genres": [
+        "מדע בדיוני",
+        "פעולה",
+        "הרפתקאות",
+        "מותחן"
+      ],
+      "en_title": "Terminator: Dark Fate",
+      "trailer": "UqxnFHoKwzE",
+      "cast": [
+        "לינדה המילטון",
+        "ארנולד שוורצנגר",
+        "מקנזי דייוויס",
+        "Natalia Reyes",
+        "גבריאל לונה",
+        "Diego Boneta",
+        "Ferran Fernández",
+        "Tristán Ulloa",
+        "Stephanie Gil",
+        "Tomás Álvarez",
+        "טום הופר",
+        "Alicia Borrachero",
+        "Enrique Arce",
+        "Manuel Pacific",
+        "Fraser James"
+      ],
+      "duration_seconds": 7680,
+      "imdb_id": "tt6450804",
+      "imdb_rating": "6.2",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Terminator.Dark.Fate.2019.UHD.2160p..HDR10.DV.DTS-HD.TrueHD.7.1.ATMOS.H265-4k"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Terminator.Dark.Fate.2019.720p.BluRay.x264-[YTS.LT]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Terminator.Dark.Fate.2019.WEBRip.x264-ION10"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Terminator.Dark.Fate.2019.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.Dark.Fate.2019.1080p.BluRay.x265-YAWNTiC_eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.Dark.Fate.2019.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.Dark.Fate.2019.WEB-DL.DSNP"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator Dark Fate 2019 NEW HDTS x264-ETRG"
+        }
+      ],
+      "_enriched": true
+    },
+    "f3423a5f-2932-4ae8-9ae7-dd12297abcec": {
+      "title": "שליחות קטלנית: ג'נסיס",
+      "year": 2015,
+      "category": "סרטים",
+      "description": "ג'ון קונור, מנהיג המרד בתוכנת המחשב שחיסלה את רוב בני האנוש, שולח את סמל קייל ריס בחזרה לשנת 1984, במטרה להגן על שרה קונור ולהבטיח את עתידה. בעקבותיה דולק המחסל, שנשלח לאתר ולהרוג את אמו העתידית. שרשרת אירועים בלתי צפויים יוצרת ציר זמן שבור שבו העבר השתנה, כשמחסל נוסף נשלח להגן על חיי שרה הילדה. כעת",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/14077?exp=1790182350&sig=08853e86862a04bc070c87df622b09b5",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/14077?exp=1790182350&sig=08853e86862a04bc070c87df622b09b5",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/kpkBRDvp6K8tRkZkVU1lu1udTBK.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "f3423a5f-2932-4ae8-9ae7-dd12297abcec",
+      "created_date": "2026-09-20T11:39:31.564Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
+      "tmdb_id": 87101,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.96,
+      "genres": [
+        "מדע בדיוני",
+        "פעולה",
+        "מותחן"
+      ],
+      "en_title": "Terminator Genisys",
+      "trailer": "cwqmICvq0kQ",
+      "cast": [
+        "ארנולד שוורצנגר",
+        "ג'ייסון קלארק",
+        "אמיליה קלארק",
+        "ג'יי קורטני",
+        "ג'יי-קיי סימונס",
+        "דאיו אוקניי",
+        "מאט סמית",
+        "קורטני ואנס",
+        "לי ביונג-הון",
+        "Michael Gladis",
+        "Sandrine Holt",
+        "Wayne Bastrup",
+        "Gregory Alan Williams",
+        "Otto Sanchez",
+        "Matty Ferraro"
+      ],
+      "duration_seconds": 7560,
+      "imdb_id": "tt1340138",
+      "imdb_rating": "6.3",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Terminator.Genisys.2015.UHD.2160p.HDR10.DV.DTS-HD.TrueHD.7.1.ATMOS.H265-4k"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.Genisys.2015.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.Genisys.2015.1080p.BluRay.x265-YAWNTiC_eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.Genisys.2015.1080p.BluRay.H264.AAC-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.Genisys.2015.WEBRip.Amazon"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.Genisys.2015.2160p.UHD.BluRay.X265-IAMABLE"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.Genisys.2015.BDRip.x264-SPARKS"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.Genisys.2015.m720p.BluRay.x264-FreeHD"
+        }
+      ],
+      "_enriched": true
+    },
+    "70c890e6-8ba1-4fbc-ab8e-f58697abba1c": {
+      "title": "שליחות קטלנית 3: עלייתן של המכונות",
+      "year": 2003,
+      "category": "סרטים",
+      "description": "סוף העולם מתקרב, והוא מגיע בדמותם של רובוטים קטלניים המאיימים על הקיום האנושי. ג'ון קונור, מי שנועד להגן על האנושות, היה בטוח שסיים את המלאכה כשהשמיד את המפעל שפיתח את הרובוטים כשהיה נער בן 10. לרשת \"סקיינט\", האחראית על הפיתוח הנ\"ל, תוכניות אחרות, והיא איתנה בדעתה לפתח בינה מלאכותית, עכשיו יותר מאי",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/14073?exp=1790182350&sig=25cbdd560f634feda7c8c0f768b1d3a2",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/14073?exp=1790182350&sig=25cbdd560f634feda7c8c0f768b1d3a2",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/f7tYIXXenCS2nvXR2GHJpc5Y1zz.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "70c890e6-8ba1-4fbc-ab8e-f58697abba1c",
+      "created_date": "2026-09-20T11:38:25.553Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/voVkSwgFYv9GOpRNfUAwj6qYRTL.jpg",
+      "tmdb_id": 296,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.203,
+      "genres": [
+        "פעולה",
+        "מותחן",
+        "מדע בדיוני"
+      ],
+      "en_title": "Terminator 3: Rise of the Machines",
+      "trailer": "ysQizA7Una8",
+      "cast": [
+        "ארנולד שוורצנגר",
+        "ניק סטאל",
+        "קלייר דיינס",
+        "Kristanna Loken",
+        "Earl Boen",
+        "David Andrews",
+        "Carolyn Hennesy",
+        "Jay Acovone",
+        "Mark Famiglietti",
+        "Moira Sinise",
+        "Chopper Bernet",
+        "Christopher Lawford",
+        "M.C. Gainey",
+        "Susan Merson",
+        "Elizabeth Morehead"
+      ],
+      "duration_seconds": 6540,
+      "imdb_id": "tt0181852",
+      "imdb_rating": "6.3",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Terminator.3.Rise.of.The.Machines.2003.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Terminator3RiseoftheMachines2003OSN"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Terminator3RiseoftheMachines2003HDTVOPENMATTE1080pMPEG2TrueHD5.1"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Terminator3RiseoftheMachines2003Blu-rayRemux1080pAVCTrueHD51-HDRemuX"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.3.Rise.Of.The.Machines.2003.1080p.BluRay.x265-YAWNTiC_eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.3.Rise.of.The.Machines.2003.1080p.BRrip.x264eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.3.Rise.of.the.Machines.2003.1080p.BluRay.x265-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.3.Rise.of.the.Machines.2003.1080p.BluRay.x264.DTS-FGT"
+        }
+      ],
+      "_enriched": true
+    },
+    "a38561a7-f003-4ea2-874c-d1070467408e": {
+      "title": "שליחות קטלנית 4: התעוררות",
+      "year": 2009,
+      "category": "סרטים",
+      "description": "קבוצת ניצולים אשר מונהגת על ידי ג'ון קונור נלחמת ב-\"סקיינט\" וצבא המכונות שלהם כדי למנוע מהם להשלים את העבודה. העתיד כפי שתואר בפני ג'ון קונור במשך כל השנים ואליו הוא התכונן, שונה בשל הופעתו של אדם מסתורי בשם מרקוס רייט אשר הזיכרון האחרון שלו היה שהוא ממתין בתא הנידונים למוות לביצוע גזר דינו. קונור ח",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/14074?exp=1790182350&sig=d9c1bcfe25759f6759bf5b4ad75f8977",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/14074?exp=1790182350&sig=d9c1bcfe25759f6759bf5b4ad75f8977",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/m5iSq46Qk6U0MevD1phnEMer945.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "a38561a7-f003-4ea2-874c-d1070467408e",
+      "created_date": "2026-09-20T11:05:57.974Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uifaXfJxjTMeNttw5u04nHx1G5w.jpg",
+      "tmdb_id": 534,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.102,
+      "genres": [
+        "פעולה",
+        "מדע בדיוני",
+        "מותחן"
+      ],
+      "en_title": "Terminator Salvation",
+      "trailer": "eUL3LUQCyAA",
+      "cast": [
+        "כריסטיאן בייל",
+        "סם וורת'ינגטון",
+        "מון בלודגוד",
+        "הלנה בונהם קרטר",
+        "Anton Yelchin",
+        "קומון",
+        "זאק מקגוואן",
+        "ברייס דאלאס הווארד",
+        "Jane Alexander",
+        "Michael Ironside",
+        "Ivan G'Vera",
+        "Dorian Nkono",
+        "Chris Browning",
+        "Beth Bailey",
+        "Victor J. Ho"
+      ],
+      "duration_seconds": 6900,
+      "imdb_id": "tt0438488",
+      "imdb_rating": "6.5",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "* תרגום אולפנים * Terminator.Salvation.2009.2160p.UHD.BluRay.X265-IAMABLE"
+        },
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "* תרגום אולפנים * Terminator.Salvation.2009.DC.1080p.BluRay.x265-RARBG.heb"
+        },
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "* תרגום אולפנים * Terminator.Salvation.2009.DC.1080p.BluRay.H264.AAC-RARBG"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Terminator 2003 Rise Of The Machines"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Terminator.Salvation.2009.DDC-P2P"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Terminator.Salvation.2009.WEB-DL.CATCHPLAY.en[cc]"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Terminator.Salvation.2009.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1-FGT"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Terminator.Salvation.2009.BDREMUX.2160p.HDR.seleZen"
+        }
+      ],
+      "_enriched": true
+    },
+    "df2cffd1-4cbc-4751-9dda-be1e63a5d2e2": {
+      "title": "שליחות קטלנית",
+      "year": 1984,
+      "category": "סרטים",
+      "description": "בעתיד העולם נשלט ע\"י מכונות, ולבני האנוש אין תקווה. עד שבחור בשם ג'ן קונור החליט להתנגד למכונות, הקים את המחתרת ולימד אנשים איך אפשר להביס את המכונות. כאשר סקיינט, הרשת ששולטת במכונות, מבינה את הסיכון בג'ון, היא שולחת רובוט מתוחכם לעבר כדי להתנקש בחייה של שרה קונור, האימא לעתיד של ג'ון קונור ובכך למ",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/14076?exp=1790182350&sig=5fac7b7bc852949e405ae68c519a9d55",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/14076?exp=1790182350&sig=5fac7b7bc852949e405ae68c519a9d55",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/oYA71voQ8lwlWAe5RI0Bhk7z11c.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "df2cffd1-4cbc-4751-9dda-be1e63a5d2e2",
+      "created_date": "2026-09-20T11:06:17.588Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+      "tmdb_id": 218,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.695,
+      "genres": [
+        "פעולה",
+        "מותחן",
+        "מדע בדיוני",
+        "אנימה"
+      ],
+      "en_title": "The Terminator",
+      "trailer": "nGrW-OR2uDk",
+      "cast": [
+        "ארנולד שוורצנגר",
+        "Michael Biehn",
+        "לינדה המילטון",
+        "Paul Winfield",
+        "לאנס הנריקסן",
+        "Rick Rossovich",
+        "Bess Motta",
+        "Earl Boen",
+        "Dick Miller",
+        "Shawn Schepps",
+        "Bruce M. Kerner",
+        "Franco Columbu",
+        "ביל פקסטון",
+        "Brad Rearden",
+        "Brian Thompson"
+      ],
+      "duration_seconds": 6480,
+      "imdb_id": "tt0088247",
+      "imdb_rating": "8.1",
+      "network": "Netflix",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Terminator.1984.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Terminator.1984.720p.BluRayx264.YIFY"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Terminator.1984.4K.HDR.DV.2160p.BDRemux Ita Eng x265-NAHOM"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Terminator.1984.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "(الرجاءالتقييموشكرا)ترجمةأمزونالأصلية.ترجمةخامغيرمعدلة"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Terminator.1984.REMASTERED.1080p.BluRay.x265-YAWNTiC_eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator, The.1984.Bluray-1080p Proper-HANDJOB.en.hi"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Terminator.1984.REMASTERED.1080p.BluRay.H264.AAC-RARBG-English"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
