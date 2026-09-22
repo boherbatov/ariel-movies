@@ -7,12 +7,13 @@
   "analytics": {
     "days": {
       "2026-09-22": {
-        "views": 3,
+        "views": 5,
         "plays": 3,
-        "searches": 0,
+        "searches": 5,
         "visitors": [
           "4XK1u6P8H-KKinZn",
-          "h2d2jjpwq8XPOGjg"
+          "h2d2jjpwq8XPOGjg",
+          "NmcKg1fBEkP6R5Iu"
         ]
       }
     },
@@ -30,7 +31,11 @@
         "title": "פיניאס ופרב"
       }
     },
-    "zeroSearch": {}
+    "zeroSearch": {
+      "צומת מחלר": 1,
+      "צומת מילר": 2,
+      "לדשות": 1
+    }
   },
   "settings": {
     "tmdbMatches": {
@@ -1808,6 +1813,13 @@
       "tmdb_id": null,
       "lang": "en",
       "matched": false
+    },
+    "9b34880f-f029-45ec-aa7b-c84f474987e1:en": {
+      "title": "Ice Cream Man",
+      "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+      "tmdb_id": 1477712,
+      "lang": "en",
+      "matched": true
     }
   },
   "linkScan": {
