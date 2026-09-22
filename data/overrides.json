@@ -1653,5 +1653,84 @@
         "checkedAt": "2026-09-22T11:26:55.974Z"
       }
     }
+  },
+  "translations": {
+    "kan11-CEOoF2BUKvk:en": {
+      "title": "All Mothers Lie",
+      "overview": "All Mothers Lie is an Israeli comedy-drama series created by Yael Katz, Noam Nevo and Natalie Michaelashvili-Dror, directed by Atara Frish. The series is a sports drama produced by Green Productions and United King Films. The plot centers on a single mother who decides to embark on a sporting journey and play basketball, in an attempt to positively influence her son's life and get him out of his sedentary lifestyle.",
+      "tmdb_id": 313739,
+      "lang": "en",
+      "matched": true
+    },
+    "kan11-1AsDJQJv4fw:en": {
+      "title": null,
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "en",
+      "matched": false
+    },
+    "kan11-yaY-3H2JN_c:en": {
+      "title": "Yekumot",
+      "overview": "“Yekumot” is a dramedy series created by Roy Kafri and Gon Ben Ari.\n\nEach episode consists of sketches centered around a specific theme. The series blends absurdity and even fantasy with darker topics such as grief or existential anxiety.",
+      "tmdb_id": 308118,
+      "lang": "en",
+      "matched": true
+    },
+    "kan11-7BUtLEyeb8E:en": {
+      "title": "Chasing Raine",
+      "overview": "Two elite soldiers; a mother and a father race against time to rescue their daughter from the clutches of a ruthless child trafficking syndicate , as they navigate through a treacherous labyrinth of danger and deceit. They must confront their own past traumas while shredding through a brutal underworld that thrives in secrecy.",
+      "tmdb_id": 1289205,
+      "lang": "en",
+      "matched": true
+    },
+    "kan11-iFmLiBmEbu8:en": {
+      "title": "The War After",
+      "overview": "A story of an army colonel who is fighting the accusations in committing war crime but his only witness is comatose in the hospital.",
+      "tmdb_id": 380595,
+      "lang": "en",
+      "matched": true
+    },
+    "kan11-9InHsAJu9H0:en": {
+      "title": null,
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "en",
+      "matched": false
+    },
+    "kan11-WU0LT-v7MaM:en": {
+      "title": null,
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "en",
+      "matched": false
+    },
+    "kan11-0mRdi_Ivx-0:en": {
+      "title": "Whatever You Say",
+      "overview": "Comedians and other thinkers will interpret and tell about the last week that has passed for all of us in the Israeli and global reality.",
+      "tmdb_id": 231359,
+      "lang": "en",
+      "matched": true
+    },
+    "kan11-sm4Eo3jQn9g:en": {
+      "title": "Carthago",
+      "overview": "Elijah Levi, a successful comedian in 1942 Palestine, is deported by the British authorities to Carthago, a detainee camp, in which he is held with Jewish underground warriors and Nazi criminals.",
+      "tmdb_id": 216899,
+      "lang": "en",
+      "matched": true
+    },
+    "e24b8626-80a5-473e-bfa4-290a099f438b:en": {
+      "title": "Terminator 2: Judgment Day",
+      "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+      "tmdb_id": 280,
+      "lang": "en",
+      "matched": true
+    },
+    "f3423a5f-2932-4ae8-9ae7-dd12297abcec:en": {
+      "title": "Terminator Genisys",
+      "overview": "The year is 2029. John Connor, leader of the resistance continues the war against the machines. At the Los Angeles offensive, John's fears of the unknown future begin to emerge when TECOM spies reveal a new plot by SkyNet that will attack him from both fronts; past and future, and will ultimately change warfare forever.",
+      "tmdb_id": 87101,
+      "lang": "en",
+      "matched": true
+    }
   }
 }
