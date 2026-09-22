@@ -1791,8 +1791,9 @@
     }
   },
   "linkScan": {
-    "offset": 0,
+    "offset": 300,
     "broken": {},
-    "checked": 0
+    "checked": 300,
+    "lastRun": "2026-09-22T11:35:22.334Z"
   }
 }
