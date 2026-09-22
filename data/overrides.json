@@ -7,8 +7,8 @@
   "analytics": {
     "days": {
       "2026-09-22": {
-        "views": 2,
-        "plays": 2,
+        "views": 3,
+        "plays": 3,
         "searches": 0,
         "visitors": [
           "4XK1u6P8H-KKinZn",
@@ -24,6 +24,10 @@
       "kan11-DGfUxcJAA0A": {
         "plays": 1,
         "title": "כל האימהות משקרות"
+      },
+      "pynys-vprb-ep-s1e1-8632": {
+        "plays": 1,
+        "title": "פיניאס ופרב"
       }
     },
     "zeroSearch": {}
@@ -1814,8 +1818,8 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "QouqWTJxsTs+tvs5",
-    "tag": "lE1uyKiHWesCw3mro6sIOw==",
-    "data": "g0RwD0lWCCylCBcODaO4VXwSpjoaxEPtCItxdF/03h3PwBuQUjpAGF+sZ7xClenu6ZMQiYsH7QYO0Ph7c9yVK9gh9YnMqYBtnsR7nkZwc1cmj4SekhbgY+mxxwGCCouBcYe2a1VpiXRfFnNSngvqU4q9SjgiR2LlEqcv178i5NCy269yphRbVzfxhv/XQTUxdOCuNxaHWaUHC9pa2v1zZNXT0JGuux4LD472DdX0BDSdReEbvPb5siFMlaMgkb/cJ+Z1ywRTnHdKXw=="
+    "iv": "2q0xhAHAybPruDls",
+    "tag": "NFDJ0ODIJ7HU5WS4vtp+Rw==",
+    "data": "5D3cXMn2Ri8UiA0BowOvF5dkCUxeW2NuMFaQoJGMJVhKUe6FXLpRV4d/uSK86r87o7Q9q7WsfP2g/oaa7LnMq5PX+lxS1n5q7LHIC0FkWt88x4f7wsxjdryp4Wm33uqACNOSleJDE+gvu/2t0kKs1Tf1CxSlOtAcdb+JmnjaJodzjdO0LAjEgdqvNzL1o/5WJLaUcGCYscMFnMSuivBaIV7paSNaNe6XiVMMjkAE+i+5E8e0GOZDfkz+zllsdJOedwU0Ri4RJWELSw=="
   }
 }
