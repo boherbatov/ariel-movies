@@ -15374,6 +15374,368 @@
         }
       ],
       "_enriched": true
+    },
+    "add49ce3-9b39-419c-bbe1-64cd6d19edc9": {
+      "title": "פרסי ג'קסון וים המפלצות",
+      "year": 2013,
+      "category": "סרטים",
+      "description": "פרסי ג'קסון ממשיך את מסעו האפי כדי להגשים את ייעודו. הוא מתחבר לחבריו חצאי האלים כדי להשיב את הגיזה המוזהבת ולהציל את העולם ואת המחנה שלו. בדרך לעבר ים המפלצות (הידוע לבני אנוש כאל משולש ברמודה) הם נלחמים ביצורים מבעיתים, צבא של זומביים והרע המוחלט.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11380?exp=1790182350&sig=bfb5783c3783c3cecb537c687da5a0f7",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11380?exp=1790182350&sig=bfb5783c3783c3cecb537c687da5a0f7",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/5LRcD1VrXPNpQUomCjTNa0mF9xI.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "add49ce3-9b39-419c-bbe1-64cd6d19edc9",
+      "created_date": "2026-09-17T21:32:51.456Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fvrGb6zfQaQ8RD9pC8o9vv1b7W2.jpg",
+      "tmdb_id": 76285,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.028,
+      "genres": [
+        "הרפתקאות",
+        "סרטים לילדים (מתאים גם למשפחה)",
+        "פנטזיה"
+      ],
+      "en_title": "Percy Jackson: Sea of Monsters",
+      "trailer": "Zbb1L_aJ_k4",
+      "cast": [
+        "לוגאן לרמן",
+        "Brandon T. Jackson",
+        "אלכסנדרה דדריו",
+        "Douglas Smith",
+        "לוון רמבין",
+        "ג'ייק אייבל",
+        "Katelyn Mager",
+        "Grey Damon",
+        "Paloma Kwiatkowski",
+        "אנתוני סטיוארט הד",
+        "סטנלי טוצ'י",
+        "נייתן פיליון",
+        "Robert Maillet",
+        "רון פרלמן",
+        "Connor Dunn"
+      ],
+      "duration_seconds": 6360,
+      "imdb_id": "tt1854564",
+      "imdb_rating": "5.7",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Percy.Jackson.Sea.of.Monsters.2013.WEBRip.iTunes"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Percy.Jackson.Sea.of.Monsters.2013.WEBRip.iTunes"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Percy.Jackson.Sea.of.Monsters.2013.720p.BluRay.x264-YIFY"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy Jackson Sea of Monsters (2013) DVD.US.Retail"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy.Jackson.Sea.of.Monsters.2013.PROPER.1080p.BluRay.H264.AAC-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy.Jackson.Sea.of.Monsters.2013.WEBRip.iTunes"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy Jackson. Sea of Monsters (2013)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy.Jackson.Sea.of.Monsters.2013.WEB-DL.DSNP"
+        }
+      ],
+      "_enriched": true
+    },
+    "1d8c2912-b446-4eea-adb7-0b235bb22642": {
+      "id": "1d8c2912-b446-4eea-adb7-0b235bb22642",
+      "created_date": "2026-09-17T21:28:44.239Z",
+      "title": "פרסי ג'קסון והאולימפיים",
+      "year": 2023,
+      "category": "סדרות",
+      "description": "פרסי ג’קסון יוצא למסע חיפושים מסוכן. בשעה שהוא נמלט ממפלצות ומערים על אלים, עליו לחצות את אמריקה כדי להחזיר את הברק הראשון של זאוס ולמנוע מלחמה כוללת. בעזרת חבריו למסע החיפושים, אנבת’ וגרובר, המסע של פרסי יקרב אותו לתשובות שהוא מחפש: כיצד להשתלב בעולם שאליו הוא לא מרגיש שייך, האם הוא יראה את אימו שו",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11364?exp=1790182350&sig=889afc434c67dd226eff476b7b36a3b4",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11364?exp=1790182350&sig=889afc434c67dd226eff476b7b36a3b4",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/qsgPkvg25MP2C0zNIRvlbs0FTey.jpg",
+      "custom_slug": null,
+      "series_name": "פרסי ג'קסון והאולימפיים",
+      "season_number": 1,
+      "episode_number": 1,
+      "episode_title": "",
+      "trailer_url": null,
+      "episode_number_end": null,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sAxx25ijwYQ8xsT56wu2IzvIRss.jpg",
+      "tmdb_id": 103540,
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.248,
+      "genres": [
+        "פעולה והרפתקאות",
+        "מדע בדיוני ופנטזיה",
+        "דרמה",
+        "סרטים לילדים (מתאים גם למשפחה)",
+        "הרפתקאות",
+        "פנטזיה",
+        "Supernatural"
+      ],
+      "en_title": "Percy Jackson and the Olympians",
+      "trailer": "yT1ng2tiwLA",
+      "cast": [
+        "Walker Scobell",
+        "Leah Sava Jeffries",
+        "Aryan Simhadri"
+      ],
+      "duration_seconds": 2400,
+      "imdb_id": "tt12324366",
+      "imdb_rating": "7.0",
+      "network": "Disney+",
+      "series_status": "Running",
+      "subtitles_found": [
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy.Jackson.And.The.Olympians.S02.DSNP.WEB.H264-ETHEL"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "[𝐂𝐨𝐟𝐟𝐞𝐞𝐏𝐫𝐢𝐬𝐨𝐧] 𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟖 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏  "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "[𝐂𝐨𝐟𝐟𝐞𝐞𝐏𝐫𝐢𝐬𝐨𝐧] 𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟕 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏  "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy Jackson and the Olympians. (2023) S02E06 - Nobody Gets the Fleece.en.forced"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟔 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏 "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy Jackson and the Olympians (2023). S02E05 - We Check In to C.C.'s Spa & Resort.en.forced"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟓 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏 "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟒 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏 "
+        }
+      ],
+      "_enriched": true
+    },
+    "921f26f2-bfb8-4115-8997-560a5eef8426": {
+      "id": "921f26f2-bfb8-4115-8997-560a5eef8426",
+      "created_date": "2026-09-17T21:28:44.239Z",
+      "title": "פרסי ג'קסון והאולימפיים",
+      "year": 2023,
+      "category": "סדרות",
+      "description": "פרסי ג’קסון יוצא למסע חיפושים מסוכן. בשעה שהוא נמלט ממפלצות ומערים על אלים, עליו לחצות את אמריקה כדי להחזיר את הברק הראשון של זאוס ולמנוע מלחמה כוללת. בעזרת חבריו למסע החיפושים, אנבת’ וגרובר, המסע של פרסי יקרב אותו לתשובות שהוא מחפש: כיצד להשתלב בעולם שאליו הוא לא מרגיש שייך, האם הוא יראה את אימו שו",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11365?exp=1790182350&sig=3e7aa12557f57f028ea7c2befd526fb7",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11365?exp=1790182350&sig=3e7aa12557f57f028ea7c2befd526fb7",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/qsgPkvg25MP2C0zNIRvlbs0FTey.jpg",
+      "custom_slug": null,
+      "series_name": "פרסי ג'קסון והאולימפיים",
+      "season_number": 1,
+      "episode_number": 6,
+      "episode_title": "",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sAxx25ijwYQ8xsT56wu2IzvIRss.jpg",
+      "tmdb_id": 103540,
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.248,
+      "genres": [
+        "פעולה והרפתקאות",
+        "מדע בדיוני ופנטזיה",
+        "דרמה",
+        "סרטים לילדים (מתאים גם למשפחה)",
+        "הרפתקאות",
+        "פנטזיה",
+        "Supernatural"
+      ],
+      "en_title": "Percy Jackson and the Olympians",
+      "trailer": "yT1ng2tiwLA",
+      "cast": [
+        "Walker Scobell",
+        "Leah Sava Jeffries",
+        "Aryan Simhadri"
+      ],
+      "duration_seconds": 2400,
+      "imdb_id": "tt12324366",
+      "imdb_rating": "7.0",
+      "network": "Disney+",
+      "series_status": "Running",
+      "subtitles_found": [
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy.Jackson.And.The.Olympians.S02.DSNP.WEB.H264-ETHEL"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "[𝐂𝐨𝐟𝐟𝐞𝐞𝐏𝐫𝐢𝐬𝐨𝐧] 𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟖 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏  "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "[𝐂𝐨𝐟𝐟𝐞𝐞𝐏𝐫𝐢𝐬𝐨𝐧] 𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟕 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏  "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy Jackson and the Olympians. (2023) S02E06 - Nobody Gets the Fleece.en.forced"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟔 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏 "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Percy Jackson and the Olympians (2023). S02E05 - We Check In to C.C.'s Spa & Resort.en.forced"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟓 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏 "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "𝐏𝐞𝐫𝐜𝐲 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐎𝐥𝐲𝐦𝐩𝐢𝐚𝐧𝐬 𝐒𝟎𝟐𝐄𝟎𝟒 𝐖𝐄𝐁 𝐃𝐒𝐍𝐏 "
+        }
+      ],
+      "_enriched": true
+    },
+    "6354bc5f-6b3f-435b-a0c2-f62fa78fd1d1": {
+      "title": "פרסי ג'קסון וגנב הברק",
+      "year": 2010,
+      "category": "סרטים",
+      "description": "פרסי ג'קסון, הנער הבעייתי עומד להיזרק מבית ספרו - אבל זוהי הבעיה שהכי פחות צריכה להטריד אותו. האלים של הר האולימפוס והמפלצות המתלוות אליהם יצאו איכשהו מהעמודים של ספר המיתולוגיה שלו, היישר אל תוך חייו – והם לא מאושרים.  חגורת הברק של זאוס נגנבה, ופרסי הוא החשוד העיקרי. כעת, פרסי וחבריו נאלצים ממריאי",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11381?exp=1790182350&sig=f6dc97ef7481b7fcb3603fe56ed53be0",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11381?exp=1790182350&sig=f6dc97ef7481b7fcb3603fe56ed53be0",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/jqkR9ULNRVIjpjSLMjNDFtEHSsF.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "6354bc5f-6b3f-435b-a0c2-f62fa78fd1d1",
+      "created_date": "2026-09-17T21:32:11.842Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ugiV9SpJburMOPeIyjBJyAnO1So.jpg",
+      "tmdb_id": 32657,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.214,
+      "genres": [
+        "הרפתקאות",
+        "פנטזיה",
+        "סרטים לילדים (מתאים גם למשפחה)"
+      ],
+      "en_title": "Percy Jackson & the Olympians: The Lightning Thief",
+      "trailer": "P-uTOnzviGk",
+      "cast": [
+        "לוגאן לרמן",
+        "Brandon T. Jackson",
+        "אלכסנדרה דדריו",
+        "ג'ייק אייבל",
+        "פירס ברוסנן",
+        "שון בין",
+        "סטיב קוגן",
+        "רוזריו דוסון",
+        "Melina Kanakaredes",
+        "קתרין קינר",
+        "קווין מק'קיד",
+        "ג'ו פנטוליאנו",
+        "אומה תורמן",
+        "ג'וליאן ריצ'ינגס",
+        "Charlie Gallant"
+      ],
+      "duration_seconds": 7080,
+      "imdb_id": "tt0814255",
+      "imdb_rating": "5.9",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "* תרגום אולפנים * Percy.Jackson.And.The.Olympians.The.Lightning.Thief.2010.1080p.BrRip.x264.YIFY+HI"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Percy.Jackson.&.The.Olympians.The.Lightning.Thief.2010.DSNP.WEB-DL-POWER"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Percy.Jackson.And.The.Olympians.The.Lightning.Thief.2010.DVDRip.XviD-KiNGS"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Percy Jackson And The Olympians The Lightning Thief-axxo"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Percy.Jackson.And.The.Olympians.The.Lightning.Thief[2010]DvDrip-aXXo"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Percy Jackson and the Olympians The Lightning Thief (2010) BluRay.US.Retail"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Percy.Jackson.And.The.Olympians.The.Lightning.Thief.2010.1080p.BluRay.x265-RARBG"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Percy Jackson And The Olympians The Lightning Thief (2010) [1080p]"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
