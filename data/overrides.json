@@ -7,11 +7,12 @@
   "analytics": {
     "days": {
       "2026-09-22": {
-        "views": 1,
+        "views": 2,
         "plays": 2,
         "searches": 0,
         "visitors": [
-          "4XK1u6P8H-KKinZn"
+          "4XK1u6P8H-KKinZn",
+          "h2d2jjpwq8XPOGjg"
         ]
       }
     },
@@ -1788,5 +1789,10 @@
       "lang": "en",
       "matched": false
     }
+  },
+  "linkScan": {
+    "offset": 0,
+    "broken": {},
+    "checked": 0
   }
 }
