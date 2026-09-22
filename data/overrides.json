@@ -13917,6 +13917,382 @@
         }
       ],
       "_enriched": true
+    },
+    "31078fb5-5fc4-454b-b193-bc533f9102e3": {
+      "title": "יחידת העילית",
+      "year": 2025,
+      "category": "סרטים",
+      "description": "כשמשימה בלב שטח אויב מסתבכת, צוות לוחמים מוצאים עצמם לכודים, מבודדים ובלחץ גובר מול כוחות אויב. עכשיו, בלי גיבוי ועם כל תנועה שעלולה לחשוף אותם, הם חייבים לקבל החלטות קריטיות – ולהילחם כדי לשרוד.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11704?exp=1790182350&sig=635f2c417d7208dfefec00fba85b60ae",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11704?exp=1790182350&sig=635f2c417d7208dfefec00fba85b60ae",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/h7BfMzxZgCyesJSFEWJkUIWDrbX.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "31078fb5-5fc4-454b-b193-bc533f9102e3",
+      "created_date": "2026-09-18T07:26:25.802Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/30jbD8Er4aB7FbfUbyZLORMDnJN.jpg",
+      "tmdb_id": 1241436,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.069,
+      "genres": [
+        "מלחמה",
+        "פעולה"
+      ],
+      "en_title": "Warfare",
+      "trailer": "Vlx55TqtWTo",
+      "cast": [
+        "D'Pharaoh Woon-A-Tai",
+        "וויל פולטר",
+        "קוסמו ג'רוויס",
+        "קיט קונור",
+        "Finn Bennett",
+        "Taylor John Smith",
+        "Michael Gandolfini",
+        "Adain Bradley",
+        "נואה סנטינאו",
+        "Evan Holtzman",
+        "הנרי זגה",
+        "ג'וזף קווין",
+        "צ'ארלס מלטון",
+        "Aaron Mackenzie",
+        "Alex Brockdorff"
+      ],
+      "duration_seconds": 5700,
+      "imdb_id": "tt31434639",
+      "imdb_rating": "7.1",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Warfare.2025.1080p.WEBRip.x265.10bit.AAC5.1-[YTS.MX]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Warfare.2025.2160p.UHD.BluRay.REMUX.DV.P7.HDR-4k"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Warfare (2025) - [WEBDL-1080p][EAC3 Atmos 5.1][h264]-ETHEL.ar"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Warfare.2025.1080p.WEBRip.mora.25r"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Warfare [2025-1080p-x265] 10bit EAC3 7.1 Ghost) QXR"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "BluRay EXTRAS"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Warfare.2025.1080p.WEBRip.x264.AAC5.1-[YTS.MX]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Warfare.2025.WEBDL-2160p-ETHEL.en.hi"
+        }
+      ],
+      "_enriched": true
+    },
+    "a55e4fd2-18bf-4e51-bf75-55875a79af53": {
+      "title": "היו זמנים בהוליווד",
+      "year": 2019,
+      "category": "סרטים",
+      "description": "'היו זמנים בהוליווד' של קוונטין טרנטינו מתרחש בלוס אנג'לס של שנת 1969, שבה הכל משתנה וכוכב הטלוויזיה ריק דלטון וכפיל הפעלולים שלו משכבר הימים קליף בות' מוצאים את דרכם בתעשייה שאינם מזהים עוד. סרטו התשיעי של הבמאי-תסריטאי מציג אנסמבל שחקנים גדול ומספר קווי-עלילה במחווה לרגעיו האחרונים של תור הזהב ההו",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11518?exp=1790182350&sig=e0d2b3f1eb155fc181678c6d6b50f0a0",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11518?exp=1790182350&sig=e0d2b3f1eb155fc181678c6d6b50f0a0",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/sLUDUmpqyrBPAlMAHwtDHt6bNqr.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "a55e4fd2-18bf-4e51-bf75-55875a79af53",
+      "created_date": "2026-09-18T07:02:43.699Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg",
+      "tmdb_id": 466272,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.4,
+      "genres": [
+        "קומדיה",
+        "דרמה",
+        "מותחן"
+      ],
+      "en_title": "Once Upon a Time... in Hollywood",
+      "trailer": "2zSkc2pxSuk",
+      "cast": [
+        "לאונרדו דיקפריו",
+        "בראד פיט",
+        "מרגו רובי",
+        "אמיל הירש",
+        "מרגרט קוואלי",
+        "טימותי אוליפנט",
+        "ג'וליה באטרס",
+        "אוסטין באטלר",
+        "דקוטה פנינג",
+        "ברוס דרן",
+        "Mike Moh",
+        "לוק פרי",
+        "דמיאן לואיס",
+        "אל פאצ'ינו",
+        "Nicholas Hammond"
+      ],
+      "duration_seconds": 9540,
+      "imdb_id": "tt7131622",
+      "imdb_rating": "7.6",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Once.Upon.A.Time.In.Hollywood.2019.WEBRip.iTunes"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Once.Upon.a.Time.in.Hollywood.2019.Multi.Complete.UHD.BluRay-MAMA.ar"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Once.Upon.a.Time.in.Hollywood.2019.UHD.BluRay.2160p.DTS-HD.MA.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Once.Upon.A.Time.In.Hollywood.2019.WEBRip.iTunes"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Once.Upon.A.Time.In.Hollywood.2019.1080p.BluRay.x265-YAWNTiC_eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Once.Upon.A.Time.In.Hollywood.2019.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Once.Upon.A.Time.In.Hollywood.2019.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Once.Upon.a.Time.in.Hollywood.2019.PROPER.1080p.BluRay.x265-RARBG"
+        }
+      ],
+      "_enriched": true
+    },
+    "a7b206c1-5286-4ebc-83f6-c619ad8dde3a": {
+      "title": "דמדומים 4: שחר מפציע - חלק 2",
+      "year": 2012,
+      "category": "סרטים",
+      "description": "לאחר לידתה של רנסמי קאלן, בלה הערפדית נהנית מהשינוי שחל בחייה ומכוחות העל שנוספו לה. אירינה טועה בזיהוי של רנסמי ומגדירה אותה באוזני איגוד הוולטורי כ\"בת אלמוות\". בגלל ש\"בנות אלמוות\" הוצאו מהחוק ע\"י איגוד הוולטורי, מוחלט שהם ישמידו את רנסמי. בני הזוג קאלן מאחדים סביבם ערפדים מרחבי העולם במטרה להוכיח",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11517?exp=1790182350&sig=1fc6091a49899e16e574414f9fa4c6c6",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11517?exp=1790182350&sig=1fc6091a49899e16e574414f9fa4c6c6",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/3xf2TWorcFBq37MHLfj3SnYtkMg.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "a7b206c1-5286-4ebc-83f6-c619ad8dde3a",
+      "created_date": "2026-09-18T07:01:16.231Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qkl57wzSFrpi2sRpoc2mZJbMuLP.jpg",
+      "tmdb_id": 50620,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.452,
+      "genres": [
+        "פנטזיה",
+        "דרמה",
+        "רומנטיקה"
+      ],
+      "en_title": "The Twilight Saga: Breaking Dawn - Part 2",
+      "trailer": "bUXjqQ4GKRg",
+      "cast": [
+        "קריסטן סטיוארט",
+        "רוברט פטינסון",
+        "טיילור לאוטנר",
+        "Peter Facinelli",
+        "אליזבת ריזר",
+        "אשלי גרין",
+        "Jackson Rathbone",
+        "Kellan Lutz",
+        "ניקי ריד",
+        "בילי בורק",
+        "דקוטה פנינג",
+        "ג'יימי קמפבל באוור",
+        "Maggie Grace",
+        "Mackenzie Foy",
+        "מייקל שין"
+      ],
+      "duration_seconds": 6900,
+      "imdb_id": "tt1673434",
+      "imdb_rating": "5.6",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "(الرجاءالتقييموشكرا)ترجمةأمزونالأصلية.ترجمةخامغيرمعدلة"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Twilight.Saga.Breaking.Dawn.Part.2.2012.1080p.BluRay.x265-RARBG"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Twilight.Saga.Breaking.Dawn.Part.2.2012.DVDRip.XviD-GECKOS"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Twilight Saga Part 2 2012 CAM XviD - MATiNE"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The Twilight Saga Breaking Dawn Part 2 (2012) 720p_BRrip_scOrp_sujaidr"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The Twilight Saga, Breaking Dawn, Part 2 (2012) 2160p 4K WEB x265 10bit AAC5.1 [YTS MX].en"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Twilight.Saga.Breaking.Dawn.Part.2.2012.1080p.BRrip.x264.GAZ.YIFY"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Twilight.Saga.Breaking.Dawn.Part.2.2012.720p.BRrip.x264.YIFY"
+        }
+      ],
+      "_enriched": true
+    },
+    "bb4bb8c4-b564-413e-8356-00c30d1cf2f5": {
+      "title": "דמדומים 3: ליקוי חמה",
+      "year": 2010,
+      "category": "סרטים",
+      "description": "בלה מוצאת עצמה שוב בסכנה כאשר תוקפת את סיאטל סדרת רציחות מסתוריות, והערפדית הרעה שבעקבותיה ממשיכה לחפש נקמה. במקביל, היא נאלצת לבחור בין אהבתה לאדוארד לבין אהבתה לג'ייקוב. בלה יודעת שההחלטה שלה, לאיזה צד שהיא לא תכריע, מסוגלת להצית מחדש את המאבק בין הערפדים לאנשי הזאב. זו ההחלטה הקשה ביותר של חייה..",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11516?exp=1790182350&sig=5a048f579dafb87dac4bef98bc5c20b4",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11516?exp=1790182350&sig=5a048f579dafb87dac4bef98bc5c20b4",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/hu8tkYxLgLVbv6gcCN5ArwwBrSo.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "bb4bb8c4-b564-413e-8356-00c30d1cf2f5",
+      "created_date": "2026-09-18T07:00:58.597Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yiWfT2Bl1Nul3Xie39Ahs3FqSjA.jpg",
+      "tmdb_id": 24021,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.187,
+      "genres": [
+        "הרפתקאות",
+        "פנטזיה",
+        "דרמה",
+        "רומנטיקה"
+      ],
+      "en_title": "The Twilight Saga: Eclipse",
+      "trailer": "kX2DKZcDM-o",
+      "cast": [
+        "קריסטן סטיוארט",
+        "רוברט פטינסון",
+        "טיילור לאוטנר",
+        "ברייס דאלאס הווארד",
+        "דקוטה פנינג",
+        "בילי בורק",
+        "Peter Facinelli",
+        "אליזבת ריזר",
+        "Jackson Rathbone",
+        "Kellan Lutz",
+        "אשלי גרין",
+        "ניקי ריד",
+        "אנה קנדריק",
+        "Michael Welch",
+        "ג'סטין צ'ון"
+      ],
+      "duration_seconds": 7440,
+      "imdb_id": "tt1325004",
+      "imdb_rating": "5.1",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "* תרגום אולפנים * the.twilight.saga.eclipse.2010.2160p.uhd.bluray.x265-b0mbardiers"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The.Twilight.Saga.Eclipse.2010.720p.BrRip.x264.YIFY"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "(الرجاء التقييم وشكرا ) ترجمة أمزون الأصلية . ترجمة خام غير معدلة"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Twilight.3.Hesitation.2010.TRUEFRENCH.DVDRIP.XViD-FiCTiON"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The.Twilight.Saga.Eclipse.2010.High.Quality"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Twilight Saga Eclipse (2010) {imdb-tt1325004} [AMZN][WEBDL-1080p][EAC3 5.1][h264]-PiRaTeS.en"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Twilight Saga, Eclipse (2010) 2160p 4K WEB x265 10bit AAC5.1 [YTS MX].en"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Twilight.Saga.Eclipse.2010.1080p.BluRay.10Bit.X265.DD.5.1-Chivaman"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
@@ -13926,7 +14302,7 @@
   "analytics": {
     "days": {
       "2026-09-22": {
-        "views": 10,
+        "views": 11,
         "plays": 8,
         "searches": 5,
         "visitors": [
@@ -13934,7 +14310,8 @@
           "h2d2jjpwq8XPOGjg",
           "NmcKg1fBEkP6R5Iu",
           "2Ze8YUOUI4kVKW-T",
-          "gYJK5-9_-HgiFoOE"
+          "gYJK5-9_-HgiFoOE",
+          "dN6oqgqftQuMlPpF"
         ]
       }
     },
