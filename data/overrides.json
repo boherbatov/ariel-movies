@@ -580,7 +580,7 @@
       "title": "Sultana",
       "year": 2026,
       "category": "סרטים",
-      "description": "The story of Kosem, one of the most powerful women the East has ever seen, who dictated the politics of the Ottoman Empire.",
+      "description": "סיפורה המרתק של קוסם סולטאן, מהנשים החזקות והמשפיעות ביותר בתולדות האימפריה העות'מאנית. הסדרה חושפת את מאבקי הכוח הפוליטיים והתככים בחצר המלכות שעיצבו את המזרח התיכון.",
       "type": "direct",
       "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11383?exp=1790169445&sig=a1713ccfad9d167b948a75fc6549e865",
       "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11383?exp=1790169445&sig=a1713ccfad9d167b948a75fc6549e865",
@@ -599,6 +599,7 @@
       "tmdb_kind": "movie",
       "tmdb_match": "exact",
       "tmdb_rating": 6,
+      "description_en": "The story of Kosem, one of the most powerful women the East has ever seen, who dictated the politics of the Ottoman Empire.",
       "genres": [
         "דרמה",
         "מוזיקה"
