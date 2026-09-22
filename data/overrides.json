@@ -24285,8 +24285,8 @@
   "analytics": {
     "days": {
       "2026-09-22": {
-        "views": 13,
-        "plays": 8,
+        "views": 14,
+        "plays": 9,
         "searches": 9,
         "visitors": [
           "4XK1u6P8H-KKinZn",
@@ -24319,6 +24319,10 @@
       "kan11-1AsDJQJv4fw": {
         "plays": 3,
         "title": "פגישה עם רוני קובן"
+      },
+      "d8f1c937-8488-4588-8280-dea332e0c0d3": {
+        "plays": 1,
+        "title": "קופה ראשית | ספיישל וידויים מהקופה"
       }
     },
     "zeroSearch": {
