@@ -1974,6 +1974,90 @@
       "tmdb_id": 103540,
       "lang": "en",
       "matched": true
+    },
+    "ceaee890-3512-48ae-81c6-7fae04c28dc7:en": {
+      "title": "Avatar Aang: The Last Airbender",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "tmdb_id": 980431,
+      "lang": "en",
+      "matched": true
+    },
+    "dc7bcc46-265d-4101-afd2-b3acfaa75a5a:en": {
+      "title": "The Legend of Korra",
+      "overview": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
+      "tmdb_id": 33880,
+      "lang": "en",
+      "matched": true
+    },
+    "950a4424-b75c-4f88-8a66-068490b9ec05:en": {
+      "title": "Miraculous: Tales of Ladybug & Cat Noir",
+      "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+      "tmdb_id": 65334,
+      "lang": "en",
+      "matched": true
+    },
+    "c8104db6-95f5-47b7-aaf9-c7c2d57d1b8d:en": {
+      "title": "The Hollow",
+      "overview": "Three teens join forces to find a way home after waking up in a strange realm filled with magic portals, perplexing puzzles and vicious beasts.",
+      "tmdb_id": 79948,
+      "lang": "en",
+      "matched": true
+    },
+    "48714b39-a981-4eaa-8052-4334c3068c13:en": {
+      "title": null,
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "en",
+      "matched": false
+    },
+    "sndvky-tzmpyvns-ep-s2e26-3278:en": {
+      "title": null,
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "en",
+      "matched": false
+    },
+    "chnnl-srtym-gvrmyty-ep-s1e4-3444:en": {
+      "title": "Gormiti",
+      "overview": "Four friends become guardians of the island Gorm and must harness powers of the elements to stop an evil lord and his army from ruling the kingdom.",
+      "tmdb_id": 96840,
+      "lang": "en",
+      "matched": true
+    },
+    "mkshpym-ep-s1e9-3672:en": {
+      "title": "Wizards: Tales of Arcadia",
+      "overview": "Merlin’s apprentice joins Arcadia’s heroes on a time-bending adventure in Camelot, where conflict is brewing between the human, troll and magical worlds.",
+      "tmdb_id": 105797,
+      "lang": "en",
+      "matched": true
+    },
+    "tzyydy-htrvlym-sypvry-rkdyh-ep-s3e13-3681:en": {
+      "title": "Trollhunters: Rise of the Titans",
+      "overview": "The Guardians of Arcadia reunite to battle the nefarious Arcane Order, who've reawakened the primordial Titans.",
+      "tmdb_id": 730840,
+      "lang": "en",
+      "matched": true
+    },
+    "kl-hsdrvt-bchypvsh-shlvshh-bhsvvh-ep-s1e1-3734:en": {
+      "title": "3Below: Tales of Arcadia",
+      "overview": "After crash-landing on Earth, two royal teen aliens on the run struggle to blend in with humans as they evade intergalactic bounty hunters.",
+      "tmdb_id": 84154,
+      "lang": "en",
+      "matched": true
+    },
+    "df5b3e49-00cf-49f2-8fd6-aef95834c5ea:en": {
+      "title": null,
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "en",
+      "matched": false
+    },
+    "2f02e2d6-524e-4e64-8857-ceea4fc52dac:en": {
+      "title": null,
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "en",
+      "matched": false
     }
   },
   "linkScan": {
