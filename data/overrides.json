@@ -1731,6 +1731,62 @@
       "tmdb_id": 87101,
       "lang": "en",
       "matched": true
+    },
+    "5e14b57b-0460-4f2e-935f-f3e6ceac15f1:en": {
+      "title": "Ice Cream Man",
+      "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+      "tmdb_id": 1477712,
+      "lang": "en",
+      "matched": true
+    },
+    "4910edaf-b0d3-4bc6-9d05-8cbd6bd41e88:en": {
+      "title": "Seed of Chucky",
+      "overview": "This time around, Chucky and his homicidal honey, Tiffany, are brought back to life by their orphan offspring, Glen. Then the horror goes Hollywood as Chucky unleashes his own brand of murderous mayhem!",
+      "tmdb_id": 11249,
+      "lang": "en",
+      "matched": true
+    },
+    "3a1efc9e-50f7-4536-860c-63ed32ad51ee:en": {
+      "title": "Bride of Chucky",
+      "overview": "For ten years, the tortured soul of serial killer Charles Lee Ray has been imprisoned inside a child's doll. Chucky is reborn when his old flame, Tiffany, rescues his battered doll parts from a police impound. But Chucky wants his new playmate cut down to size, so he transforms his blushing bride into a stunning little terror. Chucky and Tiffany can't wait to start their own homicidal honeymoon. When this demonic duo hits the road and hooks up with a pair of unsuspecting newlyweds, they leave a trail of murder and mayhem behind them. Chucky's back!",
+      "tmdb_id": 11932,
+      "lang": "en",
+      "matched": true
+    },
+    "e31777ca-9b9c-4b32-9fe0-098c38d2213e:en": {
+      "title": "Child's Play 2",
+      "overview": "Chucky is reconstructed by a toy factory to dispel the negative publicity surrounding the doll, and tracks young Andy Barclay to a foster home where the chase begins again.",
+      "tmdb_id": 11186,
+      "lang": "en",
+      "matched": true
+    },
+    "8a009691-5d4a-4b13-b2a9-ac0345d0350d:en": {
+      "title": "Cult of Chucky",
+      "overview": "Confined to an asylum for the criminally insane for the past four years, Nica is wrongly convinced that she, not Chucky, murdered her entire family... until a string of grisly deaths occur after her psychiatrist introduces a new group therapy tool -- a \"Good Guy\" doll.",
+      "tmdb_id": 393345,
+      "lang": "en",
+      "matched": true
+    },
+    "c3866a3e-0e0f-4e39-9399-bba8357f583b:en": {
+      "title": "Child's Play 3",
+      "overview": "Eight years after seemingly destroying the killer doll, teen Andy Barclay is placed in a military school, and the spirit of Chucky returns to renew his quest and seek vengeance after being recreated from a mass of melted plastic.",
+      "tmdb_id": 11187,
+      "lang": "en",
+      "matched": true
+    },
+    "005d4882-7111-4eb3-a4e8-023fe2e82d53:en": {
+      "title": null,
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "en",
+      "matched": false
+    },
+    "e9b06cc3-bfc8-4a4a-9ac2-a252a179ca4d:en": {
+      "title": null,
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "en",
+      "matched": false
     }
   }
 }
