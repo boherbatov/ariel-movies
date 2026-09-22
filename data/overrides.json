@@ -13197,6 +13197,378 @@
         }
       ],
       "_enriched": true
+    },
+    "c9d3b57b-eacf-4f0f-9521-abc4b0e08de7": {
+      "title": "שבעה חטאים",
+      "year": 1995,
+      "category": "סרטים",
+      "description": "דיוויד מילס הצטוות לשותפו החדש בזמן לא טוב. הבלש סומרסט המבוגר עומד לפרוש בעוד כמה ימים ורצח נתעב של אדם שמן במיוחד הוא התיק הראשון עליו עובדים השניים. לאחר שעורך דין ידוע נמצא גם הוא מת כשהמילה \"תאוות בצע\" רשומה על קיר ביתו בדם, מבין סומרסט שהפרישה שלו תאחר לבוא. הרוצח משתמש בשבעת החטאים הקטלניים ב",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11928?exp=1790182350&sig=ad2ce55391b1c91024a394bc9192a01c",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11928?exp=1790182350&sig=ad2ce55391b1c91024a394bc9192a01c",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/rlN6fU33s3Y7ZBa5zACkIdaHqQU.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "c9d3b57b-eacf-4f0f-9521-abc4b0e08de7",
+      "created_date": "2026-09-18T09:06:54.914Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
+      "tmdb_id": 807,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 8.381,
+      "genres": [
+        "פשע",
+        "מסתורין",
+        "מותחן"
+      ],
+      "en_title": "Se7en",
+      "trailer": "KPOuJGkpblk",
+      "cast": [
+        "מורגן פרימן",
+        "בראד פיט",
+        "גווינת' פלטרו",
+        "John Cassini",
+        "Peter Crombie",
+        "Reg E. Cathey",
+        "R. Lee Ermey",
+        "Daniel Zacapa",
+        "Andrew Kevin Walker",
+        "George Christy",
+        "אנדרה הולס",
+        "Hawthorne James",
+        "Bob Mack",
+        "William Davidson",
+        "Bob Collins"
+      ],
+      "duration_seconds": 7620,
+      "imdb_id": "tt0114369",
+      "imdb_rating": "8.6",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Se7en.1995.1080p.UHD.BluRay"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Se7en.1995.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Se7en(1995)(1080pBluRayx26510bitTigole)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Se7en.1995.REMASTERED.1080p.BluRay.x265-RARBG.en"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Se7en.1995.REMASTERED.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Se7en.1995.REMASTERED.1080p.BluRay.x265-YAWNTiC_eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Se7en(1995)[2160px26510bitFS99Joy]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "SE7EN.Remastered.Edition.1995.BluRay.1080p.VC-1.DTS-HD.MA.7.1.REMUX-FraMeSToR"
+        }
+      ],
+      "_enriched": true
+    },
+    "106b4698-4e53-4753-98e5-dc54e4a11cd7": {
+      "title": "קריד 3",
+      "year": 2023,
+      "category": "סרטים",
+      "description": "אדוניס קריד מתמודד הפעם מול יריב חדש-ישן – חבר ילדות בשם דמיאן אנדרסון שהשתחרר מהכלא לאחר שריצה 18 שנות מאסר, ובזמן שאדוניס קטף פרסים, תהילה ועושר - חברו לשעבר רק תכנן את הרגע שבו ישתחרר מהכלא ויפגוש בקריד בזירת האיגרוף.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11927?exp=1790182350&sig=ceb10114c965c04b534e8394197a047b",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11927?exp=1790182350&sig=ceb10114c965c04b534e8394197a047b",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/7iqhLjCxEUP0atOUtjKU6JfCp3t.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "106b4698-4e53-4753-98e5-dc54e4a11cd7",
+      "created_date": "2026-09-18T09:04:14.130Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gOIztYywR291pC4k3IpDq7Vj3Kj.jpg",
+      "tmdb_id": 677179,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.085,
+      "genres": [
+        "דרמה",
+        "פעולה"
+      ],
+      "en_title": "Creed III",
+      "trailer": "_BAaMnXePsU",
+      "cast": [
+        "מייקל בי ג'ורדן",
+        "טסה תומפסון",
+        "ג'ונתן מייג'ורס",
+        "פלישה ראשאד",
+        "Mila Davis-Kent",
+        "ווד האריס",
+        "José Benavidez Jr.",
+        "פלוריאן מונטינאו",
+        "סלניס לייבה",
+        "Thaddeus J. Mixson",
+        "Spence Moore II",
+        "Tony Bellew",
+        "Ann Najjar",
+        "Jacob 'Stitch' Duran",
+        "טרנס קרופורד"
+      ],
+      "duration_seconds": 6960,
+      "imdb_id": "tt11145118",
+      "imdb_rating": "6.7",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Creed.III.2023.WEBRip.Amazon"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Creed.III.2023.WEBRip.Amazon"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Creed.III.2023.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed.III.2023.1080p.BluRay.x265-YAWNTiC_eng.srt"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed.III.2023.1080p.BluRay.x265-YAWNTiC_eng SDH.srt"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed.III.2023.720p/1080p.WEBRip.x264.AAC5.1-[YTS.MX]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed.III.2023.WEBRip.Amazon"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed.III.2023.720p.WEBRip.800MB.x264-GalaxyRG"
+        }
+      ],
+      "_enriched": true
+    },
+    "0f38d16e-68e3-4701-bc4c-6c8184a3cb64": {
+      "title": "קריד",
+      "year": 2015,
+      "category": "סרטים",
+      "description": "בנו הלא חוקי של אפולו קריד נוסע לאתר את רוקי האגדי כדי לבקש ממנו שיהיה המאמן שלו, למרות שפרש מזירת הקרב לצמיתות.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11926?exp=1790182350&sig=adfbbd884c0d5f568c64f67a6c4d3847",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11926?exp=1790182350&sig=adfbbd884c0d5f568c64f67a6c4d3847",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/yKsZquV9Zv8OUvPgkpNBbBMY2ZE.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "0f38d16e-68e3-4701-bc4c-6c8184a3cb64",
+      "created_date": "2026-09-18T09:03:53.997Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kODNw6GJNdgldUMEhKPlCw8wQCr.jpg",
+      "tmdb_id": 312221,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.407,
+      "genres": [
+        "דרמה"
+      ],
+      "en_title": "Creed",
+      "trailer": "PNRbT8_ulZo",
+      "cast": [
+        "מייקל בי ג'ורדן",
+        "סילבסטר סטאלון",
+        "טסה תומפסון",
+        "פלישה ראשאד",
+        "Andre Ward",
+        "Tony Bellew",
+        "Ritchie Coster",
+        "Jacob 'Stitch' Duran",
+        "Graham McTavish",
+        "Malik Bazille",
+        "Ricardo 'Padman' McGill",
+        "Gabriel Rosado",
+        "ווד האריס",
+        "Buddy Osborn",
+        "Rupal Pujara"
+      ],
+      "duration_seconds": 7980,
+      "imdb_id": "tt3076658",
+      "imdb_rating": "7.6",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Creed.2015.BRRip.XviD.AC3-EVO"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Creed (2015) مع فيلم الأكشن والدراما الرياضي الرائع"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed.2015.1080p.BluRay.x265-YAWNTiC_eng.srt"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed.2015.1080p.BluRay.x265-YAWNTiC_eng SDH.srt"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed (2015) 2160p UHD BluRay x265 10bit RARBG.en.SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed.2015.1080p.BluRay.x265-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed.2015.WEBRip.Amazon"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed (2015)"
+        }
+      ],
+      "_enriched": true
+    },
+    "112cbd5e-3f86-4b70-8d77-405bbc1096fe": {
+      "title": "קריד 2",
+      "year": 2018,
+      "category": "סרטים",
+      "description": "החיים הפכו מאתגרים עבור אדוניס קריד. בין מחויבויות אישיות ואימונים לקרב הגדול הבא, הוא עומד לפני האתגר הגדול של חייו. המפגש מול יריב הקשור לעבר של משפחתו רק מגביר את גודלו של האירוע העומד לבוא. רוקי בלבואה עומד לצדו בכל אשר קורה, וביחד רוקי ואדוניס יאלצו להתעמת עם עברם המשותף, יטילו ספק בשאלה עבור מ",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11925?exp=1790182350&sig=9d9126db17ba0fa8bcec7b6e9aad8985",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11925?exp=1790182350&sig=9d9126db17ba0fa8bcec7b6e9aad8985",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/1Kv57wjYSTNhYTI9KjfN4uOOHds.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "112cbd5e-3f86-4b70-8d77-405bbc1096fe",
+      "created_date": "2026-09-18T09:03:30.581Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9il7qNbeYnPMYlutsVYDsj4hRyb.jpg",
+      "tmdb_id": 480530,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7,
+      "genres": [
+        "דרמה",
+        "פעולה"
+      ],
+      "en_title": "Creed II",
+      "trailer": "nb6i1Vmb1Yc",
+      "cast": [
+        "מייקל בי ג'ורדן",
+        "סילבסטר סטאלון",
+        "טסה תומפסון",
+        "ווד האריס",
+        "Russell Hornsby",
+        "פלישה ראשאד",
+        "דולף לונדגרן",
+        "פלוריאן מונטינאו",
+        "Andre Ward",
+        "Brigitte Nielsen",
+        "מיילו ונטימיליה",
+        "Robbie Johns",
+        "Patrice Harris",
+        "Jacob 'Stitch' Duran",
+        "Ana Gerena"
+      ],
+      "duration_seconds": 7800,
+      "imdb_id": "tt6343314",
+      "imdb_rating": "7.1",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Creed.II.2018.WEBRip.Amazon"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Creed.II.2018.WEBRip.Amazon"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Creed.II.2018.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed.II.2018.1080p.BluRay.x265-YAWNTiC_eng SDH.srt"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed.II.2018.1080p.BluRay.x265-YAWNTiC_eng.srt"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed.II.2018.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-RARBG.en.SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed.II.2018.1080p.BluRay.x265-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Creed.II.2018.WEBRip.Amazon"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
