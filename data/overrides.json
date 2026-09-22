@@ -9195,6 +9195,378 @@
         }
       ],
       "_enriched": true
+    },
+    "8a009691-5d4a-4b13-b2a9-ac0345d0350d": {
+      "title": "הכת של צ'אקי",
+      "year": 2017,
+      "category": "אימה",
+      "description": "צעירה על כיסא גלגלים בשם ניקה אשר נכלאה במוסד סגור בשל אשמה כרוצחת סדרתית, מגלה כי עברה חוזר לרדוף אחריה כאשר סדרת רציחות מתחילה במוסד הסגור. היא מאשימה את צ'אקי הבובה, אבל אף אחד לא מאמין לה.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12296?exp=1790182350&sig=551d0e726c49ddc8204b70627ae982a1",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12296?exp=1790182350&sig=551d0e726c49ddc8204b70627ae982a1",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/r5JUiMYfatwYeDkxkLWYUx5GIjY.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "8a009691-5d4a-4b13-b2a9-ac0345d0350d",
+      "created_date": "2026-09-19T18:02:17.590Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/af7uKmGnrOn4P1zyfFXPQZOCCEp.jpg",
+      "tmdb_id": 393345,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.856,
+      "genres": [
+        "אימה"
+      ],
+      "en_title": "Cult of Chucky",
+      "trailer": "ksTv0_dGiX4",
+      "cast": [
+        "פיונה דוריף",
+        "בראד דוריף",
+        "Alex Vincent",
+        "ג'ניפר טילי",
+        "Michael Therriault",
+        "Adam Hurtig",
+        "Elisabeth Rosen",
+        "Zak Santiago",
+        "Ali Tataryn",
+        "Grace Lynn Kung",
+        "Marina Stephenson Kerr",
+        "Allison Dawn Doiron",
+        "Summer H. Howell",
+        "Christine Elise",
+        "Tom Anniko"
+      ],
+      "duration_seconds": 5460,
+      "imdb_id": "tt3280262",
+      "imdb_rating": "5.3",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Cult.Of.Chucky.2017.720p.BluRay.x264-[YTS.AG]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Cult.of.Chucky.2017.UNRATED.720p.BRRip.x264-MkvCage"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Cult.of.Chucky.2017.WEB-DL.NF"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Cult.of.Chucky.2017.REMUX.UNRATED.1080p.BluRay.AVC.DTS-HD.MA.5.1-iFT"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Cult.of.Chucky.2017.UNRATED.720p.BluRay.x264-ROVERS"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Cult.of.Chucky.2017.UNRATED.720p.BluRay.x264-ROVERS.eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Cult.of.Chucky.2017.UNRATED.BRRip.XviD.MP3-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Cult.of.Chucky.2017.UNRATED.720p.BluRay.x264-ROVERS"
+        }
+      ],
+      "_enriched": true
+    },
+    "65306e4e-7a5e-422d-ae9e-0e24b9a2ca5e": {
+      "title": "היי סקול מיוזיקל 3",
+      "year": 2008,
+      "category": "סרטים",
+      "description": "טרוי - קפטן נבחרת הכדורסל והתלמיד המקובל ביותר בבית הספר מתאהב בגבריאלה, התלמידה החדשה והחנונית של בית הספר. גם הפעם המכשפה של בית הספר, שרפיי, מנסה להפריד ביניהם. הסרט יאחד מחדש את כל הכוכבים של שני הסרטים הקודמים, בשנת הלימודים האחרונה שלהם בבית הספר. טרוי וגבריאלה מבינים שבסוף השנה הם ייפרדו זו מ",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12228?exp=1790182350&sig=2df7e74c55a16c61ff436b1f8bf3c09d",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12228?exp=1790182350&sig=2df7e74c55a16c61ff436b1f8bf3c09d",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/aq2o1wT0crBOTxof36O6KTyjpgE.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "65306e4e-7a5e-422d-ae9e-0e24b9a2ca5e",
+      "created_date": "2026-09-18T15:11:18.675Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/spyZFUG0lR6FEbvMn3YBcxT8vdx.jpg",
+      "tmdb_id": 11887,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.54,
+      "genres": [
+        "קומדיה",
+        "דרמה",
+        "סרטים לילדים (מתאים גם למשפחה)"
+      ],
+      "en_title": "High School Musical 3: Senior Year",
+      "trailer": "1S8RTKL5cW8",
+      "cast": [
+        "זאק אפרון",
+        "ונסה הדג'נס",
+        "אשלי טיסדייל",
+        "Lucas Grabeel",
+        "קורבין בלו",
+        "Monique Coleman",
+        "Olesya Rulin",
+        "Chris Warren",
+        "Ryne Sanborn",
+        "Kaycee Stroh",
+        "בארט ג'ונסון",
+        "Alyson Reed",
+        "Matt Prokop",
+        "Justin Martin",
+        "Jemma McKenzie-Brown"
+      ],
+      "duration_seconds": 6720,
+      "imdb_id": "tt0962726",
+      "imdb_rating": "5.1",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "High.School.Musical.3.2008.720p.BluRay.x264.AAC5.1-[YTS.MX]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "High.School.Musical.3.DVDRip.XViD-PUKKA"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "HighSchoolMusical3SeniorYear(2008)1080pAAC2.0H.265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "HighSchoolMusical3SeniorYear(2008)1080pAAC2.0H.265𝐃𝐒𝐍𝐏𝐖𝐄𝐁-𝐃𝐋𝐇𝐄𝐕𝐂🌈™"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "High.School.Musical.3.Senior.Year.2008.WEB-DL.DSNP"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "High.School.Musical.3.2008.720p.BluRay.x264.AAC-[YTS.MX]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "High.School.Musical.3.Senior.Year.2008.Extended.BluRay HI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "High School Musical 3 Senior Year (2008) Sing-Along 1080p"
+        }
+      ],
+      "_enriched": true
+    },
+    "c3866a3e-0e0f-4e39-9399-bba8357f583b": {
+      "title": "משחק ילדים 3",
+      "year": 1991,
+      "category": "אימה",
+      "description": "צ'אקי, הרוצח המפורסם, חוזר בסרט המשך כדי לנקום, וממשיך בניסיונותיו להשתלט על גוף של ילד. תשע שנים לאחר שלכאורה השמידו את הבובה הקטלנית, אנדי בארקלי (ג'סטין וואלון) כבר בן 16 ולומד בבי\"ס צבאי. בינתיים, נשיא חמדן של חברת צעצועים מחליט ליצור מחדש את הבובה הפופולארית מסדרת \"החבר'ה הטובים\", סמוך ובטוח שכ",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12297?exp=1790182350&sig=eec414c15c746f91e472579f878f2727",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12297?exp=1790182350&sig=eec414c15c746f91e472579f878f2727",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/6toMk9OCuDYEEf733Bzlq3yiw3z.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "c3866a3e-0e0f-4e39-9399-bba8357f583b",
+      "created_date": "2026-09-19T18:01:56.128Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8kZT97Ml1ZyawrfHCajmP2b0wPC.jpg",
+      "tmdb_id": 11187,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.906,
+      "genres": [
+        "אימה"
+      ],
+      "en_title": "Child's Play 3",
+      "trailer": "3No1jTRSvg8",
+      "cast": [
+        "ג'סטין וואלין",
+        "בראד דוריף",
+        "Perrey Reeves",
+        "Jeremy Sylvers",
+        "Travis Fine",
+        "Dean Jacobson",
+        "Peter Haskell",
+        "Dakin Matthews",
+        "אנדרו רובינסון",
+        "Burke Byrnes",
+        "Matthew Walker",
+        "Donna Eskra",
+        "אדאן גרוס",
+        "Terry Wills",
+        "Richard Marion"
+      ],
+      "duration_seconds": 5400,
+      "imdb_id": "tt0103956",
+      "imdb_rating": "5.2",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "Childs.Play.3.1991.1080p.BluRay.x265-RARBG.heb"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "play"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "childs.Play.3.1991.720p.BluRay.x264-WiKi"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Childs.Play.3.1993.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Childs Play 3.1991.Bluray.1080p.h264.OCR.Synced.eng.BKG"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Childs.Play.3.1991.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Childs.Play.3.1991.REMASTERED.ALL.BluRay"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Childs.Play.3.1991.REMASTERED.1080p.BluRay.x264.DTS-HD.MA.7.1-FGT"
+        }
+      ],
+      "_enriched": true
+    },
+    "9c4c7bec-351f-493b-a597-ee67429c4c46": {
+      "title": "היי סקול מיוזיקל 2",
+      "year": 2007,
+      "category": "סרטים",
+      "description": "סרט ההמשך, ללהיט ההיסטרי \"הייסקול מיוזיקל\". הווילדקאטס חוזרים, והם מעבירים את הקיץ בשירה ובריקודים. טרוי גבריאלה ושאר תלמידי תיכון איסט יוצאים לחופשת הקיץ, ורוצים להרוויח בה קצת כסף. שארפיי מחליטה שהיא רוצה את טרוי לעצמה, וגורמת להעסקתו כמלצר בקאנטרי קלאב של הוריה. היא  נחרדת לגלות שטרוי סידר עבודה",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12227?exp=1790182350&sig=084e45760709d46f5000d3707dbb81ac",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12227?exp=1790182350&sig=084e45760709d46f5000d3707dbb81ac",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/kqImEYXsDIlzPpu0KxyTXIx7smW.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "9c4c7bec-351f-493b-a597-ee67429c4c46",
+      "created_date": "2026-09-18T15:10:35.533Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aS7M839gMmcokvUwNM3DFqOLqzu.jpg",
+      "tmdb_id": 13649,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.5,
+      "genres": [
+        "קומדיה",
+        "סרטים לילדים (מתאים גם למשפחה)",
+        "סרט טלוויזיה"
+      ],
+      "en_title": "High School Musical 2",
+      "trailer": "8UiHFHF-Nqk",
+      "cast": [
+        "זאק אפרון",
+        "ונסה הדג'נס",
+        "אשלי טיסדייל",
+        "Lucas Grabeel",
+        "קורבין בלו",
+        "Olesya Rulin",
+        "Chris Warren",
+        "Monique Coleman",
+        "Alyson Reed",
+        "Ryne Sanborn",
+        "Kaycee Stroh",
+        "Mark L. Taylor",
+        "Robert Curtis Brown",
+        "Jessica Tuck",
+        "בארט ג'ונסון"
+      ],
+      "duration_seconds": 6660,
+      "imdb_id": "tt0810900",
+      "imdb_rating": "5.3",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "High School Musical 2 (2007) Ex [1080p AAC 5.1 mimccann]"
+        },
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "High.School.Musical.2.2007.Extended.BluRay.Remux.1080p.AVC.DTS-HD.MA.5.1-HiFi"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "High.School.Musical.2.2007.DSNP.WEB-DL-POWER"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "High.School.Musical.2.2007.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "High.School.Musical.2.2007.Extended.BluRay.1080p.x265-YAWNTiC"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "High School Musical 2 (2007) 1080p AAC 2.0 H.265 - ™"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "High.School.Musical.2.Eng"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "High.School.Musical.2.2007.WEB-DL.DSNP"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
