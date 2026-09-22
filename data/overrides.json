@@ -13569,6 +13569,354 @@
         }
       ],
       "_enriched": true
+    },
+    "40670170-830a-4b90-8566-71039d1e1ca7": {
+      "title": "יש לה את זה",
+      "year": 1999,
+      "category": "סרטים",
+      "description": "מלכת השכבה והבי\"ס זורקת את חבר שלה, החתיך של בי\"ס, והוא מתערב שהוא יהפוך את הבחורה הכי פחות 'קולית' שאפשר למצוא למלכה החדשה. הסרט הוא פרודיה על כל ז'אנר ה-\"בברלי הילס\" ו-\"דוסון\" למיניהם. אומנם השחקנים נורא רציניים, אבל הסיפור הנדוש הופך למרקחת בידורית ואף מתוחכמת משהו בידיו האמונות של הבמאי. שימו לב",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11924?exp=1790182350&sig=684f8ddc67d2bea6f481a3fffe79bd95",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11924?exp=1790182350&sig=684f8ddc67d2bea6f481a3fffe79bd95",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/LBKcWuW07HCe4qHUIEUenw7WOW.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "40670170-830a-4b90-8566-71039d1e1ca7",
+      "created_date": "2026-09-18T08:59:49.779Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/oSY7vsYlScliVKomRNviGuWXykC.jpg",
+      "tmdb_id": 10314,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.343,
+      "genres": [
+        "קומדיה",
+        "רומנטיקה"
+      ],
+      "en_title": "She's All That",
+      "trailer": "kI9fYsgduGE",
+      "cast": [
+        "פרדי פרינז ג'וניור",
+        "רייצ'ל לי קוק",
+        "פול ווקר",
+        "ג'ודי לין אוקיף",
+        "קווין פולאק",
+        "אנה פקווין",
+        "קירן קאלקין",
+        "Elden Henson",
+        "מתיו לילארד",
+        "אשר",
+        "Lil' Kim",
+        "גבריאל יוניון",
+        "דולה היל",
+        "Tamara Mello",
+        "קליאה דובאל"
+      ],
+      "duration_seconds": 5700,
+      "imdb_id": "tt0160862",
+      "imdb_rating": "5.9",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Shes.All.That.1999.720p.BluRay.H264.AAC-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Shes.All.That.1999.BluRay.x264.AAC5.1-[YTS.MX]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "She's All That (1999) [720p] [BluRay] [YTS.MX]_HI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "She's All That (1999) [720p] [BluRay] [YTS.MX]_NON_HI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Shes.All.That.1999.720p.BluRay.x264.WOW"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Shes All ThatKiss Me [Eng Ita] By gemini9669"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "shes.all.that.1999.BRRip.XviD-INFERNO"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Shes.All.That.1999.x264.DTS-WAF"
+        }
+      ],
+      "_enriched": true
+    },
+    "e8867b07-6e02-4bbd-8320-b42225c6e0d8": {
+      "title": "לבבות הארגמן",
+      "year": 2022,
+      "category": "סרטים",
+      "description": "מוזיקאית בתחילת דרכה מסכימה לנישואי נוחות עם חייל בחיל הנחתים. כשאירוע טרגי קוטע את השירות שלו מעבר לים, המציאות טופחת על פניהם - והקשר המזויף הופך לאמיתי.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11830?exp=1790182350&sig=13af36e728ce011cdd3eebc03b65b7e0",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11830?exp=1790182350&sig=13af36e728ce011cdd3eebc03b65b7e0",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/4JyNWkryifWbWXJyxcWh3pVya6N.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "e8867b07-6e02-4bbd-8320-b42225c6e0d8",
+      "created_date": "2026-09-18T07:45:59.315Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jdZM1Gs6DtRGvosgqaXRrIkvYX7.jpg",
+      "tmdb_id": 762975,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 8.044,
+      "genres": [
+        "רומנטיקה",
+        "דרמה"
+      ],
+      "en_title": "Purple Hearts",
+      "trailer": "WTLgg8oRSBE",
+      "cast": [
+        "Sofia Carson",
+        "ניקולס גאליצין",
+        "ג'ון הרלן קים",
+        "Chosen Jacobs",
+        "Anthony Ippolito",
+        "לינדן אשבי",
+        "קאט קנינג",
+        "Nicholas Duvernay",
+        "Scott Deckert",
+        "Kendall Chappell",
+        "Sarah Rich",
+        "Jordan Drake",
+        "Rand Guerrero",
+        "Leroy Edwards III",
+        "Sean Berube"
+      ],
+      "duration_seconds": 7320,
+      "imdb_id": "tt4614584",
+      "imdb_rating": "6.7",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "ASSO-SUBS"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "الأصـلية \"NETFLIX\" تــرجــمـة"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Purple.Hearts.2022.720p.NF.WEBRip.800MB.x264-GalaxyRG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Purple.Hearts.2022.720p.NF.WEBRip.800MB.x264-GalaxyRG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Purple Hearts.2022.WEBRip.Netflix.en[cc]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Purple.Hearts.2022.720p.NF.WEBRip.800MB.x264-GalaxyRG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "purple.hearts.2022.720p.web.h264-kbox.sdh.eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Purple.Hearts.2022.720p.WEBRip.x264.AAC-[hqcinemas.com]"
+        }
+      ],
+      "_enriched": true
+    },
+    "1f18a263-0072-4e33-9a97-9816bb9189b3": {
+      "title": "השנה שלי באוקספורד",
+      "year": 2025,
+      "category": "סרטים",
+      "description": "אמריקאית שאפתנית מגשימה את חלומה ללמוד באוקספורד ומתאהבת בבריטי מקסים, אבל הוא מסתיר סוד שעלול להסיט את חייה מהמסלול שתכננה בקפידה.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11922?exp=1790182350&sig=6b8f24c066f7465d101e717468519200",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11922?exp=1790182350&sig=6b8f24c066f7465d101e717468519200",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/h2ZjsGiiYseC28vFbHCHEQ79qsX.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "1f18a263-0072-4e33-9a97-9816bb9189b3",
+      "created_date": "2026-09-18T07:59:14.644Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/A466i5iATrpbVjX30clP1Zyfp31.jpg",
+      "tmdb_id": 1307078,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.009,
+      "genres": [
+        "רומנטיקה",
+        "קומדיה",
+        "דרמה"
+      ],
+      "en_title": "My Oxford Year",
+      "trailer": "EKQPCiUSRAo",
+      "cast": [
+        "Sofia Carson",
+        "קורי מיילכריסט",
+        "Esmé Kingdom",
+        "Harry Trevaldwyn",
+        "Dougray Scott",
+        "Catherine McCormack",
+        "Nikhil Parmar",
+        "Poppy Gilbert",
+        "Romina Cocca",
+        "Yadier Fernández",
+        "Nia Anisah",
+        "Hugh Coles",
+        "Barunka O'Shaughnessy",
+        "Abdul Sessay",
+        "Rebecca Burton"
+      ],
+      "duration_seconds": 6780,
+      "imdb_id": "tt4978342",
+      "imdb_rating": "5.9",
+      "subtitles_found": [
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "My Oxford Year (2025) eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "My Oxford Year (2025) eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "My Oxford Year (2025) eng"
+        }
+      ],
+      "_enriched": true
+    },
+    "52cdb7a3-c957-48c5-b5e8-1a73d3fe7b72": {
+      "title": "8 מייל",
+      "year": 2002,
+      "category": "סרטים",
+      "description": "דטרויט של שנת 1995, עיר הבוכנות, עיר הרצח. שכונות שופעות התדרדרו במהירות בזמן שהאופטימיות של עיר משגשגת בעבר התאדתה. ההבטחה הנוצצת שראו בעבר במפעלי התעשייה התמוטטה והפכה לקטבים של מעמד כלכלי וגזע שהביאו לאחת מהמהומות הקשות ביותר בהיסטוריה של ארה\"ב. כביש 8 המייל המקיף את העיר הפך לקו הפרדה, בין עירונ",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11829?exp=1790182350&sig=17d042673dda2f9b72d421cd759825dd",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11829?exp=1790182350&sig=17d042673dda2f9b72d421cd759825dd",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/AghnlDJzPkaIcfszShHsbPk5x6v.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "52cdb7a3-c957-48c5-b5e8-1a73d3fe7b72",
+      "created_date": "2026-09-18T07:43:53.289Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jNG7pl0DkN1nzxnbZj4MCGf2VEG.jpg",
+      "tmdb_id": 65,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.148,
+      "genres": [
+        "דרמה",
+        "מוזיקה"
+      ],
+      "en_title": "8 Mile",
+      "trailer": "axGVrfwm9L4",
+      "cast": [
+        "אמינם",
+        "קים בייסינגר",
+        "מקאי פייפר",
+        "בריטני מרפי",
+        "Evan Jones",
+        "עומאר בנסון מילר",
+        "De'Angelo Wilson",
+        "יוג'ין ביירד",
+        "Taryn Manning",
+        "Larry Hudson",
+        "Proof",
+        "Mike Bell",
+        "DJ Head",
+        "מייקל שאנון",
+        "Chloe Greenfield"
+      ],
+      "duration_seconds": 6660,
+      "imdb_id": "tt0298203",
+      "imdb_rating": "7.2",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "8-mile_hebrew-18526"
+        },
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "8-mile_hebrew-11116"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "8 Mile[2002]DvDrip[Eng]-BugZ"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "8.Mile.2002.DVDRip.XviD.AC3-DEViSE"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8.Mile.2002.MULTi.1080p.BluRay.REMUX.VC-1.DTS-HD.MA.5.1-ANGERFIST007"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8.Mile.2002.MULTi.1080p.BluRay.REMUX.VC-1.DTS-HD.MA.5.1-ANGERFIST007"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8 Mile (2002) Bluray-1080p tt0298203"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "8 Mile (2002) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole) [QxR]"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
