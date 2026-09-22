@@ -9930,6 +9930,377 @@
         }
       ],
       "_enriched": true
+    },
+    "3ee49db1-4e26-4646-a30e-2ee007f4fb74": {
+      "title": "זומבים",
+      "year": 2018,
+      "category": "סרטים",
+      "description": "כאשר זד, שחקן פוטבול זומבי, ואדיסון, מעודדת אנושית, מתאהבים, נוצר כאוס חברתי בתיכון והשניים נאלצים לפלס את הדרך לחיים משותפים בדו-קיום.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12222?exp=1790182350&sig=40b9679d290558b0490599c7a94d36cd",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12222?exp=1790182350&sig=40b9679d290558b0490599c7a94d36cd",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/5hwRJ9esl90DNIg09B4PnnJmPFg.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "3ee49db1-4e26-4646-a30e-2ee007f4fb74",
+      "created_date": "2026-09-18T14:50:05.003Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ArccbTKFk8fMp5JnHuxoW8xU0iJ.jpg",
+      "tmdb_id": 483980,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.244,
+      "genres": [
+        "פנטזיה",
+        "קומדיה",
+        "רומנטיקה",
+        "סרט טלוויזיה"
+      ],
+      "en_title": "Z-O-M-B-I-E-S",
+      "trailer": "VSC7AjafRPA",
+      "cast": [
+        "מג דונלי",
+        "Milo Manheim",
+        "Trevor Tordjman",
+        "Kylee Russell",
+        "Carla Jeffery",
+        "Kingston Foster",
+        "James Godfrey",
+        "Naomi Snieckus",
+        "Jonathan Langdon",
+        "Paul Hopkins",
+        "Marie Ward",
+        "Tony Nappo",
+        "Emilia McCarthy",
+        "Jasmine Renée Thomas",
+        "Mickeey Nguyen"
+      ],
+      "duration_seconds": 5640,
+      "imdb_id": "tt6878820",
+      "imdb_rating": "6.0",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "ZOMBIES.2018.1080p.WEBRip.x265-RARBG"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Zombies 2018 WAVO"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "ZOMBIES.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-TVSmash-arabic"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Zombies.2.2020.WEB-DL.HOTSTAR"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "ZOMBIES.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-TVSmash"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Z-O-M-B-I-E-S.2018.WEB-DL.DSNP"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Disney Zombies 2018"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Zombies.2018.WEB-DL.XviD.MP3-FGT"
+        }
+      ],
+      "_enriched": true
+    },
+    "818b39fe-2345-4b3e-8e6b-ea7ca4d33c7e": {
+      "title": "ילדות רעות",
+      "year": 2004,
+      "category": "סרטים",
+      "description": "נערה מתבגרת, קייטי, שגרה בספארי עם הוריה, מגיעה לתיכון חדש באילינוי, בתיכון החדש קייטי מתקבלת לחבורה של בנות מהמעמד הגבוה. כשהיא מתעניינת בחבר לשעבר של אחת מחברותיה החדשות, היא מסומנת לעונש לפי חוקי החבורה, עונשים כמו: כמו רכילות עסיסיות עליה, גירוש משולחן ארוחת הצהריים שלהן, שיחות ועידה, הודעות אינ",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12220?exp=1790182350&sig=0368420e1bec68b2fa47ab4da3a796f5",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12220?exp=1790182350&sig=0368420e1bec68b2fa47ab4da3a796f5",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/9dU6cDm7GWgnmhNYbMl8TUmcO7P.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "818b39fe-2345-4b3e-8e6b-ea7ca4d33c7e",
+      "created_date": "2026-09-18T14:34:45.031Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/accTIUygtg24TM7wT7uQMMdvYUW.jpg",
+      "tmdb_id": 673593,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.851,
+      "genres": [
+        "קומדיה"
+      ],
+      "en_title": "Mean Girls",
+      "trailer": "1zrDhlqHPWY",
+      "cast": [
+        "אנגאורי רייס",
+        "Reneé Rapp",
+        "אאולי'אי קרוואליו",
+        "Jaquel Spivey",
+        "Avantika",
+        "Bebe Wood",
+        "Christopher Briney",
+        "ג'נה פישר",
+        "ביזי פיליפס",
+        "טינה פיי",
+        "טים מדואס",
+        "לינדזי לוהן",
+        "ג'ון האם",
+        "Ashley Park",
+        "Connor Ratliff"
+      ],
+      "duration_seconds": 6780,
+      "imdb_id": "tt11762114",
+      "imdb_rating": "5.5",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Mean.Girls.2024.DV.2160p.WEB.H265-CarrotSlugOfUnrealRealization"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Mean.Girls.2024.COMPLETE.UHD.BLURAY-DOUHD"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Mean.Girls.2024.720p+1080p.AMZN.WEB-DL.DDP5.1.Atmos.H264-FLUX"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Mean.Girls.2024.1080p.WEB-DL.DD5.1.H.264-iTunes"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "M.G.2024.1080p.BluRay.DDP.Atmos.5.1.H.265-iVy"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Mean.Girls.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA_NON_HI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Mean.Girls.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA_HI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Mean.Girls.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA_HI"
+        }
+      ],
+      "_enriched": true
+    },
+    "696ea348-2768-4445-95b3-788518934659": {
+      "title": "ילדות רעות",
+      "year": 2024,
+      "category": "סרטים",
+      "description": "בגיל 16, קנדי מגיעה לביתה החדש בפרבר אמריקני, תמימה כמו גור חיות שנולד במישורי אפריקה שם גדלה וחונכה. אבל גם ההרפתקאות הפרועות ביותר שחוותה לא הכינו אותה לג'ונגל שהמתין לה בתיכון נורת שור. הפסקת הצהריים הראשונה שלה בקפיטריה הייתה יכולה להיות מביכה אילולא  קרש ההצלה של ג'ניס ודאמיין, צמד של אאוטסיידר",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12221?exp=1790182350&sig=3512602a9686ca0f1016712bde88d053",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12221?exp=1790182350&sig=3512602a9686ca0f1016712bde88d053",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/8uZsfyFP7sviEcPexI8gp1f0NjI.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "696ea348-2768-4445-95b3-788518934659",
+      "created_date": "2026-09-18T14:35:06.458Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/accTIUygtg24TM7wT7uQMMdvYUW.jpg",
+      "tmdb_id": 673593,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.851,
+      "genres": [
+        "קומדיה"
+      ],
+      "en_title": "Mean Girls",
+      "trailer": "1zrDhlqHPWY",
+      "cast": [
+        "אנגאורי רייס",
+        "Reneé Rapp",
+        "אאולי'אי קרוואליו",
+        "Jaquel Spivey",
+        "Avantika",
+        "Bebe Wood",
+        "Christopher Briney",
+        "ג'נה פישר",
+        "ביזי פיליפס",
+        "טינה פיי",
+        "טים מדואס",
+        "לינדזי לוהן",
+        "ג'ון האם",
+        "Ashley Park",
+        "Connor Ratliff"
+      ],
+      "duration_seconds": 6780,
+      "imdb_id": "tt11762114",
+      "imdb_rating": "5.5",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Mean.Girls.2024.DV.2160p.WEB.H265-CarrotSlugOfUnrealRealization"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Mean.Girls.2024.COMPLETE.UHD.BLURAY-DOUHD"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Mean.Girls.2024.720p+1080p.AMZN.WEB-DL.DDP5.1.Atmos.H264-FLUX"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Mean.Girls.2024.1080p.WEB-DL.DD5.1.H.264-iTunes"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "M.G.2024.1080p.BluRay.DDP.Atmos.5.1.H.265-iVy"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Mean.Girls.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA_NON_HI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Mean.Girls.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA_HI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Mean.Girls.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA_HI"
+        }
+      ],
+      "_enriched": true
+    },
+    "4294b6d3-836c-4ca6-95d6-b7d50db969de": {
+      "title": "ילדות רעות 2",
+      "year": 2011,
+      "category": "סרטים",
+      "description": "הסיפור סובב סביב תלמידת תיכון חדשה, ג'ו, שמסכימה להיות חברה של האאוט-סיידרית אבי כי אביה של אבי הבטיח שישלם את כל הוצאות הקולג' שלה בעתיד. ג'ו ואבי מתאחדות על-מנת לפגוע בבנות מ-\"המעמד הגבוה\" - מנדי, הופ וצ'סטי.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12219?exp=1790182350&sig=0aba55b6d9c5b1e993087b9e6dbdce98",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12219?exp=1790182350&sig=0aba55b6d9c5b1e993087b9e6dbdce98",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/23FYBlGFQl2PS8irgaUnvEwpkNy.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "4294b6d3-836c-4ca6-95d6-b7d50db969de",
+      "created_date": "2026-09-18T14:34:25.627Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9A4LywU6zVpkVwjk4EjNwUH3RGs.jpg",
+      "tmdb_id": 51481,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.243,
+      "genres": [
+        "קומדיה"
+      ],
+      "en_title": "Mean Girls 2",
+      "trailer": "V64B9WObjfg",
+      "cast": [
+        "Meaghan Jette Martin",
+        "ג'ניפר סטון",
+        "מיירה וולש",
+        "ניקול אנדרסון",
+        "קלייר הולט",
+        "Diego Boneta",
+        "Bethany Anne Lind",
+        "Patrick Johnson",
+        "Colin Dennard",
+        "Amber Brooke",
+        "Juliet Kim",
+        "Willie Larson",
+        "לינדן אשבי",
+        "טים מדואס",
+        "Donn Lamkin"
+      ],
+      "duration_seconds": 5760,
+      "imdb_id": "tt1679235",
+      "imdb_rating": "4.1",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Mean.Girls.2.2011.WEBRip.Netflix"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Mean.Girls.2.2011.WEBRip.Netflix"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Mean Girls 2[2011]DVDRip XviD-ExtraTorrentRG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Mean Girls 2 (2011) 1080p BluRay x264 YTX.MX.en.SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Mean Girls 2 (2011) 1080p BluRay x264 YTX.MX.en.SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Mean.Girls.2.2011.WEBRip.Netflix"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Mean.Girls.2.WEBRip.Netflix.en[cc]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Mean.Girls.2.2011.DVDRiP.XviD-QCF"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
