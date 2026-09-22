@@ -7,7 +7,7 @@
   "analytics": {
     "days": {
       "2026-09-22": {
-        "views": 5,
+        "views": 6,
         "plays": 3,
         "searches": 5,
         "visitors": [
@@ -1818,6 +1818,20 @@
       "title": "Ice Cream Man",
       "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
       "tmdb_id": 1477712,
+      "lang": "en",
+      "matched": true
+    },
+    "3daab9e6-a188-4914-b858-02bbd3cfb169:en": {
+      "title": "Don't Say Good Luck",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "tmdb_id": 1504358,
+      "lang": "en",
+      "matched": true
+    },
+    "bb2883ab-20fb-4738-a155-7e713c348abd:en": {
+      "title": "The Shining",
+      "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+      "tmdb_id": 694,
       "lang": "en",
       "matched": true
     }
