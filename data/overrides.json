@@ -14650,6 +14650,374 @@
         }
       ],
       "_enriched": true
+    },
+    "a3beae9f-a9c4-4fc4-80d8-5c24e9c73106": {
+      "title": "טקטיקה של אהבה 2",
+      "year": 2023,
+      "category": "סרטים",
+      "description": "אסלי חושבת שנישואים הם תרמית ולא מהססת לומר זאת – אבל כשהחבר שלה, קרם, מסכים איתה במפתיע, היא עושה הכול כדי לגרום לו להציע נישואין.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11511?exp=1790182350&sig=6009c964a1160a93f2142ec2bd9c3495",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11511?exp=1790182350&sig=6009c964a1160a93f2142ec2bd9c3495",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/bswrvLhN2TbpKx4B8JRDcUpRALk.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "a3beae9f-a9c4-4fc4-80d8-5c24e9c73106",
+      "created_date": "2026-09-18T06:56:51.996Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pbsYbxx6BwB0mw9cmosjb5ueWcd.jpg",
+      "tmdb_id": 1141202,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.989,
+      "genres": [
+        "רומנטיקה",
+        "קומדיה"
+      ],
+      "en_title": "Aşk Taktikleri 2",
+      "trailer": "NzkJEnWzLc4",
+      "cast": [
+        "Demet Özdemir",
+        "Şükrü Özyıldız",
+        "Atakan Çelik",
+        "Bora Akkaş",
+        "Deniz Baydar",
+        "Hande Yılmaz",
+        "Melisa Döngel",
+        "Ceyhun Mengiroğlu",
+        "İpek Tuzcuoğlu",
+        "Kerem Atabeyoğlu"
+      ],
+      "duration_seconds": 5880,
+      "imdb_id": "tt21308698",
+      "imdb_rating": "5.0",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "LoveTactics2"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Love.Tactics.2.2023.NF.WEB-DL"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "LoveTactics2.2023.WEBRip.Netflix.en[cc]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "LoveTactics2.2023.WEBRip.Netflix.en"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Love.Tactics.2.2022.TURKISH.720p.NF.WEBRip.DDP5.1.x264-EDITH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Love.Tactics.2.2022.TURKISH.720p.NF.WEBRip.DDP5.1.x264-EDITH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Love.Tactics.2.2023.WEBRip-NF.etc"
+        }
+      ],
+      "_enriched": true
+    },
+    "05faeec1-49ae-4cc5-b185-25bf3e9ecd9f": {
+      "title": "יוצר הדמעות",
+      "year": 2024,
+      "category": "סרטים",
+      "description": "ניקה וריג'ל, שאומצו בידי אותה משפחה אחרי ילדות קשה בבית יתומים, מפתחים זה כלפי זה רגשות עזים ומפתיעים.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11457?exp=1790182350&sig=ad41d22d2a5da614f8be2d848abe6232",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11457?exp=1790182350&sig=ad41d22d2a5da614f8be2d848abe6232",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/tLu7btwjKZdKBndI0U1ucNjs2I1.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "05faeec1-49ae-4cc5-b185-25bf3e9ecd9f",
+      "created_date": "2026-09-18T06:39:05.871Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/e3gVl1gnxEFKLTF6pn6KRqUPi9K.jpg",
+      "tmdb_id": 1127166,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.5,
+      "genres": [
+        "רומנטיקה",
+        "דרמה"
+      ],
+      "en_title": "Fabbricante di lacrime",
+      "ar_title": "صانع الدموع",
+      "trailer": "qEh_90RnlD8",
+      "cast": [
+        "Caterina Ferioli",
+        "Simone Baldasseroni",
+        "Sabrina Paravicini",
+        "Alessandro Bedetti",
+        "Roberta Rovelli",
+        "Orlando Cinque",
+        "Eco Andriolo Ranzi",
+        "Nicky Passarella",
+        "Sveva Romano Candelletta",
+        "Laura Baldi",
+        "Matteo Capraro",
+        "Anna Cianca",
+        "Juju Di Domenico",
+        "Filippo Giacomelli",
+        "Eugenio Krauss"
+      ],
+      "duration_seconds": 6360,
+      "imdb_id": "tt29114029",
+      "imdb_rating": "5.2",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%A6%D7%A8%20%D7%94%D7%93%D7%9E%D7%A2%D7%95%D7%AA%20(%D7%A1%D7%A8%D7%98)",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "The.Tearsmith.2024.1080p.WEBRip.x264.AAC5.1-[YTS.MX]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Tearsmith.720-1080p.WEBRip.Netflix.ar"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Tearsmith.2024.ITALIAN.NF.WEBRip"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Tearsmith.2024.720p.WEBRip.x264.AAC-[YTS.MX]hi"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Tearsmith.2024.720p.WEBRip.x264.AAC-[YTS.MX]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Tearsmith.2024.ITALIAN.NF.WEBRip"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Tearsmith.2024.ITALIAN.NF.WEBRip"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Tearsmith.2024.WEBRip-NFX"
+        }
+      ],
+      "_enriched": true
+    },
+    "aa551ccf-96a0-45b2-93f5-7c9b2004d5fb": {
+      "title": "אויב המדינה",
+      "year": 1998,
+      "category": "סרטים",
+      "description": "עדות לרציחתו של חבר קונגרס המפלילה גורמי ממשל זדוניים מגיעה לידיו של פרקליט מצליח מהבירה, מבלי שהוא אפילו מודע לכך. מרגע זה הוא חייו נהרסים וגורמים שונים מנסים לחסלו. הוא חובר לאיש ביון בדימוס, מומחה להאזנות סתר, כדי שיסייע בידו להימלט מרודפיו. טוני סקוט יצר סרט מרדף מסחרר ופרנואידי המשול לנסיעה במת",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11456?exp=1790182350&sig=d59e5afd18a9a2b381dc2ae81c9c8ee4",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11456?exp=1790182350&sig=d59e5afd18a9a2b381dc2ae81c9c8ee4",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/wLXx0G0XTMnKEgN6yN9r2ABLyue.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "aa551ccf-96a0-45b2-93f5-7c9b2004d5fb",
+      "created_date": "2026-09-18T06:32:30.398Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/lPLTLCBn39Wiy1RPQLB9xOKyF2v.jpg",
+      "tmdb_id": 9798,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.079,
+      "genres": [
+        "פעולה",
+        "דרמה",
+        "מותחן"
+      ],
+      "en_title": "Enemy of the State",
+      "trailer": "a3mrRv-1khI",
+      "cast": [
+        "וויל סמית'",
+        "ג'ין הקמן",
+        "ג'ון ווייט",
+        "רג'ינה קינג",
+        "Loren Dean",
+        "Jake Busey",
+        "בארי פפר",
+        "ג'ייסון לי",
+        "גבריאל ביירן",
+        "Lisa Bonet",
+        "Stuart Wilson",
+        "Laura Cayouette",
+        "Ian Hart",
+        "סקוט קאן",
+        "ג'יימס ל'גרוס"
+      ],
+      "duration_seconds": 7920,
+      "imdb_id": "tt0120660",
+      "imdb_rating": "7.3",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%99%D7%91%20%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Enemy.of.the.State.1998.WEBRip.iTunes"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Enemy.Of.The.State.1998.1080p.BrRip.x264.BOKUTOX.YIFY"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Enemy.Of.The.State.1998.720p.BrRip.x264.BOKUTOX.YIFY"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Enemy.Of.The.State.1998.1080p.BluRay.x265-RARBG.eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Enemy.of.the.State.1998.WEB-DL.DSNP"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Enemy.of.the.State.1998.WEB-DL.DSNP"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Enemy.of.the.State.1998.WEB-DL.TUBI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Enemy.of.the.State.1998.WEBRip.Amazon"
+        }
+      ],
+      "_enriched": true
+    },
+    "72873e6c-2626-42f3-b711-dcfbeae7df9d": {
+      "title": "מועדון קרב",
+      "year": 1999,
+      "category": "סרטים",
+      "description": "בהשפעתו של גבר כריזמטי אותו פגש בטיסה, עוזב פקיד אפרורי את עבודתו ואת ביתו המלוקק, ופותח מועדון קרבות מחתרתי. בהדרגה העניינים יוצאים משליטה.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11458?exp=1790182350&sig=87d5fcf15f3ad3acac5f66be12d1a5d1",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11458?exp=1790182350&sig=87d5fcf15f3ad3acac5f66be12d1a5d1",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/7Tmjr0jgVj8hHcd3UJD6HIilMKM.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "72873e6c-2626-42f3-b711-dcfbeae7df9d",
+      "created_date": "2026-09-18T06:40:36.186Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+      "tmdb_id": 550,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 8.437,
+      "genres": [
+        "דרמה",
+        "מותחן"
+      ],
+      "en_title": "Fight Club",
+      "ar_title": "نادي القتال",
+      "trailer": "dfeUzm6KF4g",
+      "cast": [
+        "אדוארד נורטון",
+        "בראד פיט",
+        "הלנה בונהם קרטר",
+        "Meat Loaf",
+        "ג'ארד לטו",
+        "Zach Grenier",
+        "הולט מקלני",
+        "איאון ביילי",
+        "Richmond Arquette",
+        "David Andrews",
+        "George Maguire",
+        "Eugenie Bondurant",
+        "Christina Cabot",
+        "Sydney 'Big Dawg' Colston",
+        "Rachel Singer"
+      ],
+      "duration_seconds": 8340,
+      "imdb_id": "tt0137523",
+      "imdb_rating": "8.8",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F%20%D7%A7%D7%A8%D7%91%20(%D7%A1%D7%A8%D7%98)",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "* תרגום אולפנים * Fight.Club.1999.2160p.UHD.Blu-ray.Hybrid.Remux.DV.HDR.HEVC.DTS-HD.MA.5.1-UNITED"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Fight.Club.1999.REMASTERED.BDRip.x264-OLDTiME"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "fight.club.1999.2160p.uhd.bluray.x265-surcode"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Fight Club Commentary by David Fincher, Brad Pitt, Edward Norton, and Helena Bonham Carter"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Fight Club commentary by David Fincher"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Fight Club (1999) Bluray-1080p"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Fightclub 1999 720p NR"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "English - 23.976 fps, 2h19m08s"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
