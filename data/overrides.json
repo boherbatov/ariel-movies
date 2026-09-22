@@ -16439,6 +16439,382 @@
         }
       ],
       "_enriched": true
+    },
+    "adee4be7-135a-4ff9-8ce9-32c03c1f561e": {
+      "title": "רצח כתוב היטב: התעורר, איש מת",
+      "year": 2025,
+      "category": "סרטים",
+      "description": "הבלש בנואה בלאנק חובר לכומר צעיר ותמים כדי לחקור פשע בלתי אפשרי בכנסייה בעיירה קטנה עם עבר אפל.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11342?exp=1790182350&sig=83d93a5d3da4c6b7977b2701792750bc",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11342?exp=1790182350&sig=83d93a5d3da4c6b7977b2701792750bc",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/wqtfosPoOHtphgstCejcz4R8tTw.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "adee4be7-135a-4ff9-8ce9-32c03c1f561e",
+      "created_date": "2026-09-17T21:09:39.228Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fiRDzpcJe7qz3yIR43hdXIE3NHv.jpg",
+      "tmdb_id": 812583,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.21,
+      "genres": [
+        "מותחן",
+        "מסתורין",
+        "קומדיה"
+      ],
+      "en_title": "Wake Up Dead Man: A Knives Out Mystery",
+      "trailer": "VKpZFs8hLZ0",
+      "cast": [
+        "דניאל קרייג",
+        "ג'וש או'קונור",
+        "גלן קלוז",
+        "ג'וש ברולין",
+        "מילה קוניס",
+        "ג'רמי רנר",
+        "קרי וושינגטון",
+        "אנדרו סקוט",
+        "קיילי ספאני",
+        "דריל מק'קורמק",
+        "תומאס היידן צ'רץ'",
+        "ג'פרי רייט",
+        "Annie Hamilton",
+        "ג'יימס פוקנר",
+        "Bridget Everett"
+      ],
+      "duration_seconds": 8700,
+      "imdb_id": "tt14364480",
+      "imdb_rating": "7.3",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Wake.Up.Dead.Man.A.Knives.Out.Mystery.2025.1080p.WEBRip.x264.AAC5.1-[YTS.LT]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Wake.Up.Dead.Man.A.Knives.Out.Mystery.2025.1080p.WEBRip.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Wake Up Dead Man: A Knives Out Mystery 2025 NF WEB-CoffeePrison"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Wake.Up.Dead.Man.A.Knives.Out.Mystery.2025.720p.WEBRip.x264.AAC-[YTS.LT]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Wake Up Dead Man A Knives Out Mystery (2025) eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Wake.Up.Dead.Man.A.Knives.Out.Mystery.2025.1080p.WEBRip.x265.10bit.AAC5.1-[YTS.LT]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Wake.Up.Dead.Man.A.Knives.Out.Mystery.2025.720p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Wake.Up.Dead.Man.A.Knives.Out.Mystery.2025.1080p.WEB.h264-ETHEL_track4_[eng]"
+        }
+      ],
+      "_enriched": true
+    },
+    "d6b0adc0-f60e-48bc-9e42-01e37557ec81": {
+      "title": "רצח כתוב היטב: תעלומה יוונית",
+      "year": 2022,
+      "category": "סרטים",
+      "description": "הבלש המפורסם בנואה בלאנק נוסע ליוון כדי לקלף את השכבות מעל תעלומה הסובבת סביב מיליארדר מתחום הטכנולוגיה וחוג חבריו האקלקטי.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11341?exp=1790182350&sig=e5db9789d4b655c51f4f3b886f621b9c",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11341?exp=1790182350&sig=e5db9789d4b655c51f4f3b886f621b9c",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/d6aycPlOvNs3EGSDDSFYjDSHgcc.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "d6b0adc0-f60e-48bc-9e42-01e37557ec81",
+      "created_date": "2026-09-17T21:09:18.465Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/y3uOfZAYwLkbvhunswBCskNMrfI.jpg",
+      "tmdb_id": 661374,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.021,
+      "genres": [
+        "קומדיה",
+        "פשע",
+        "מסתורין"
+      ],
+      "en_title": "Glass Onion: A Knives Out Mystery",
+      "trailer": "e4HLvkec0hg",
+      "cast": [
+        "דניאל קרייג",
+        "אדוארד נורטון",
+        "ג'אנל מונה",
+        "קתרין האן",
+        "לזלי אודום ג'וניור",
+        "קייט הדסון",
+        "דייב בטיסטה",
+        "ג'סיקה הנוויק",
+        "מדלין קליין",
+        "Noah Segan",
+        "ג'קי הופמן",
+        "דאלאס רוברטס",
+        "אית'ן הוק",
+        "יו גרנט",
+        "Stephen Sondheim"
+      ],
+      "duration_seconds": 8340,
+      "imdb_id": "tt11564570",
+      "imdb_rating": "7.1",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Glass.Onion.A.Knives.Out.Mystery.2022.1080p.NF.WEBRip.1600MB.DD5.1.x264-GalaxyRG"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Glass.Onion.A.Knives.Out.Mystery.2022.1080p.WEBRip.x264.AAC5.1-[YTS.MX]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "GlassOnionAKnivesOutMystery2022"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Glass.Onion.A.Knives.Out.Mystery.2022.2160p.4K.WEB.x265.10bit.AAC5.1.YTS"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Glass Onion A Knives Out Mystery (2022) eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Glass.Onion.A.Knives.Out.Mystery.2022.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Glass.Onion.A.Knives.Out.Mystery.2022.1080p.WEBRip.x264.AAC5.1-[YTS.MX]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Glass.Onion.A.Knives.Out.Mystery.2022.1080p.WEBRip.x264-RARBG"
+        }
+      ],
+      "_enriched": true
+    },
+    "d92349c9-ab0e-4ef3-923e-64834cb4d542": {
+      "title": "רצח כתוב היטב",
+      "year": 2019,
+      "category": "סרטים",
+      "description": "כשסופר ידוע נמצא מת באחוזתו, בלש מהולל מצורף לחקירה. עתה עליו לנווט בין הסחות דעת והשקרים כדי לחשוף את הרוצח.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11340?exp=1790182350&sig=c01e883567f1fb2ff5836fa78f51bb51",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11340?exp=1790182350&sig=c01e883567f1fb2ff5836fa78f51bb51",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/f0sT6jD2sEeIN4jgmid3QFFIUrz.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "d92349c9-ab0e-4ef3-923e-64834cb4d542",
+      "created_date": "2026-09-17T21:08:57.064Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+      "tmdb_id": 546554,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.844,
+      "genres": [
+        "קומדיה",
+        "פשע",
+        "מסתורין"
+      ],
+      "en_title": "Knives Out",
+      "trailer": "vdGsvzDqvvo",
+      "cast": [
+        "דניאל קרייג",
+        "כריס אוונס",
+        "אנה דה ארמס",
+        "ג'יימי לי קרטיס",
+        "מייקל שאנון",
+        "דון ג'ונסון",
+        "טוני קולט",
+        "ל'קית סטנפילד",
+        "כריסטופר פלאמר",
+        "Katherine Langford",
+        "ג'יידן ליברבר",
+        "ריקי לינדהום",
+        "אדי פטרסון",
+        "פרנק אוז",
+        "קיי קאלאן"
+      ],
+      "duration_seconds": 7800,
+      "imdb_id": "tt8946378",
+      "imdb_rating": "7.9",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Knives.Out.2019.REPACK.2160p.UHD.BluRay.TrueHD.7.1.HDR.x265-CtrlHD"
+        },
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Knives.Out.2019.2160p.BluRay.x265.AC3-Px4K"
+        },
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "KnivesOut2019PROPER1080pUHDBluRayDD+7.1x264-LoRD"
+        },
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Knives.Out.2019.1080p.BluRay.x264.AC3-PxHD"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Knives Out 2019 1080p BluRay HEVC x265 5.1 BONE"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Knives.Out.2019.1080p.Netflix.WEB-DL.H264.AAC"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Knives Out (2019) eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Knives.Out.2019.1080p.BluRay.x265-YAWNTiC_eng"
+        }
+      ],
+      "_enriched": true
+    },
+    "5983cefe-7c66-482d-9ba8-2d9dd20cc97c": {
+      "title": "אני יודע מה עשית בקיץ האחרון",
+      "year": 2025,
+      "category": "סרטים",
+      "description": "כאשר חמישה חברים גורמים בטעות לתאונת דרכים קטלנית, הם מחליטים לטייח את מעורבותם ולכרות ברית של שתיקה, במקום להתמודד עם ההשלכות. שנה לאחר מכן, העבר שב לרדוף אותם והם נאלצים להתמודד עם אמת מבעיתה: מישהו יודע מה הם עשו בקיץ שעבר... והוא נחוש לנקום.  כאשר החברים הופכים אחד אחרי השני למטרות של רוצח מסתור",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11339?exp=1790182350&sig=bfd6d443ff356b9a9f6c3fd1548386df",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11339?exp=1790182350&sig=bfd6d443ff356b9a9f6c3fd1548386df",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/fuRTzIMD7WRc8DVqHbyog4JYt8o.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "5983cefe-7c66-482d-9ba8-2d9dd20cc97c",
+      "created_date": "2026-09-17T21:05:36.809Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gVPjIcYo1gTaACF43OMsralrcUS.jpg",
+      "tmdb_id": 1083433,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.62,
+      "genres": [
+        "אימה",
+        "מותחן",
+        "מסתורין"
+      ],
+      "en_title": "I Know What You Did Last Summer",
+      "trailer": "mmR2Z6RLJlY",
+      "cast": [
+        "צ'ייס סוי וונדרס",
+        "מדלין קליין",
+        "ג'ונה האוור-קינג",
+        "טייריק ווית'רס",
+        "שרה פידג'ן",
+        "ג'ניפר לאב יואיט",
+        "פרדי פרינז ג'וניור",
+        "שרה מישל גלר",
+        "בילי קמפבל",
+        "Brandy Norwood",
+        "Gabbriette",
+        "Austin Nichols",
+        "Nick Farnell",
+        "Joshua Orpin",
+        "Georgia Flood"
+      ],
+      "duration_seconds": 6660,
+      "imdb_id": "tt4045450",
+      "imdb_rating": "5.1",
+      "subtitles_found": [
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "I.Know.What.You.Did.Last.Summer.2025.1080p.WEBRip.x265.10bit.AAC5.1-[YTS.MX] (2)"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "I.Know.What.You.Did.Last.Summer.2025.2160p.UHD.BluRay.X265-B0MBARDiERS"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "I Know What You Did Last Summer (2025) {imdb-tt4045450} - [MA][WEBDL-1080p][EAC3 Atmos 5.1][x264]-BYNDR.en"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "I.Know.What.You.Did.Last.Summer.2025.WEB.NF"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "I.Know.What.You.Did.Last.Summer.2025.WEB.NF"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "I.Know.What.You.Did.Last.Summer.(2025).1080p.NF.WEB-DL.DDP5.1.Atmos.HEVC ."
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "I.Know.What.You.Did.Last.Summer.(2025).1080p.NF.WEB-DL.DDP5.1.Atmos.HEVC"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "I.Know.What.You.Did.Last.Summer.2025.2160p.UHD.BluRay.REMUX.HDR.DV.HEVC.TrueHD.7.1.Atmos-ATELiER"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
