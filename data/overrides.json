@@ -16815,6 +16815,359 @@
         }
       ],
       "_enriched": true
+    },
+    "207048bd-50f1-4870-9793-2632320c1d11": {
+      "title": "אני תמיד אדע מה עשית בקיץ האחרון",
+      "year": 2006,
+      "category": "סרטים",
+      "description": "הסרט ה-3 בטרילוגיית הסרטים מדלגת על הקולנוע ומגיעה ישירות ל- dvd הבייתי ללא השחקנים המקוריים מהסרטים הראשונים. הפעם קבוצה של נערים הורגים בטעות חבר במתיחת יום העצמאות האמריקאי. הם מגיעים להחלטה לקחת את הסוד הזה לקבר אבל מהר מאוד הם מגלים שאחד אחד הם ייקחו את הסוד הזה לקבר יותר מהר ממה שהם חשבו מכיוו",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11337?exp=1790182350&sig=cfef5f39348698ad6e623214e0e90cae",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11337?exp=1790182350&sig=cfef5f39348698ad6e623214e0e90cae",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/pF539i1zYtm1G0CJvatvggpY2BF.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "207048bd-50f1-4870-9793-2632320c1d11",
+      "created_date": "2026-09-17T21:05:14.438Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pbyV9R16jbLbeUreN8KSztN0Zn4.jpg",
+      "tmdb_id": 3602,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 4.166,
+      "genres": [
+        "אימה"
+      ],
+      "en_title": "I'll Always Know What You Did Last Summer",
+      "trailer": "8NwP8MFZqlk",
+      "cast": [
+        "Brooke Nevin",
+        "David Paetkau",
+        "Torrey DeVitto",
+        "Ben Easter",
+        "Seth Packard",
+        "Don Shanks",
+        "K.C. Clyde",
+        "Michael Flynn",
+        "Clayton Taylor",
+        "Britt Leary",
+        "Star LaPoint",
+        "Junior Richard",
+        "Levi Whitlock",
+        "Chad Chiniquy",
+        "Manny Slack"
+      ],
+      "duration_seconds": 5520,
+      "imdb_id": "tt0469111",
+      "imdb_rating": "3.4",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "I'llAlwaysKnowWhatYouDidLastSummer(2006)[720p][WEBRip][YTS.MX]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Ill.Always.Know.What.You.Did.Last.Summer.2006.1080p.WEBRip.x264.AAC5.1-[YTS.MX]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "I'llAlwaysKnowWhatYouDidLastSummer[720p][WEBRip][YTS.MX]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "I'll Always Know What You Did Last Summer"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Ill Always Know What You Did Last Summer 2006"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "I'll Always Know What You Did Last Summer (2006) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "I'll Always Know What You Did Last Summer (2006) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Ill.Always.Know.What.You.Did.Last.Summer.2006.1080p.WEBRip.x264.AAC5.1-[YTS.MX]"
+        }
+      ],
+      "_enriched": true
+    },
+    "42b509a9-acb0-4df3-9141-6ed8c9ddba2d": {
+      "title": "אני יודע מה עשית בקיץ האחרון",
+      "year": 1997,
+      "category": "סרטים",
+      "description": "ומה קרה לכם בקיץ שעבר? ג'ולי, הלן וזוג חבריהם מצאו גופה בקיץ האחרון וניסו להיפטר ממנה. הם השקיעו הרבה מאמצים בהסתרת האירוע, אך מישהו עקב אחריהם לכל אורך הדרך.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11336?exp=1790182350&sig=97308d58adfcc4f373ffc4399d36206b",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11336?exp=1790182350&sig=97308d58adfcc4f373ffc4399d36206b",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/vqzXSuzxIk7qQk0gWgpPclJXN3C.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "42b509a9-acb0-4df3-9141-6ed8c9ddba2d",
+      "created_date": "2026-09-17T21:04:22.979Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gVPjIcYo1gTaACF43OMsralrcUS.jpg",
+      "tmdb_id": 1083433,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.62,
+      "genres": [
+        "אימה",
+        "מותחן",
+        "מסתורין"
+      ],
+      "en_title": "I Know What You Did Last Summer",
+      "trailer": "mmR2Z6RLJlY",
+      "cast": [
+        "צ'ייס סוי וונדרס",
+        "מדלין קליין",
+        "ג'ונה האוור-קינג",
+        "טייריק ווית'רס",
+        "שרה פידג'ן",
+        "ג'ניפר לאב יואיט",
+        "פרדי פרינז ג'וניור",
+        "שרה מישל גלר",
+        "בילי קמפבל",
+        "Brandy Norwood",
+        "Gabbriette",
+        "Austin Nichols",
+        "Nick Farnell",
+        "Joshua Orpin",
+        "Georgia Flood"
+      ],
+      "duration_seconds": 6660,
+      "imdb_id": "tt4045450",
+      "imdb_rating": "5.1",
+      "subtitles_found": [
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "I.Know.What.You.Did.Last.Summer.2025.1080p.WEBRip.x265.10bit.AAC5.1-[YTS.MX] (2)"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "I.Know.What.You.Did.Last.Summer.2025.2160p.UHD.BluRay.X265-B0MBARDiERS"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "I Know What You Did Last Summer (2025) {imdb-tt4045450} - [MA][WEBDL-1080p][EAC3 Atmos 5.1][x264]-BYNDR.en"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "I.Know.What.You.Did.Last.Summer.2025.WEB.NF"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "I.Know.What.You.Did.Last.Summer.2025.WEB.NF"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "I.Know.What.You.Did.Last.Summer.(2025).1080p.NF.WEB-DL.DDP5.1.Atmos.HEVC ."
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "I.Know.What.You.Did.Last.Summer.(2025).1080p.NF.WEB-DL.DDP5.1.Atmos.HEVC"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "I.Know.What.You.Did.Last.Summer.2025.2160p.UHD.BluRay.REMUX.HDR.DV.HEVC.TrueHD.7.1.Atmos-ATELiER"
+        }
+      ],
+      "_enriched": true
+    },
+    "237ccb84-2f3a-4918-b7f8-8230be9d8bde": {
+      "id": "237ccb84-2f3a-4918-b7f8-8230be9d8bde",
+      "created_date": "2026-09-17T20:35:58.867Z",
+      "title": "בו, ביץ'!",
+      "year": 2022,
+      "category": "סדרות",
+      "description": "שתי חברות טובות תלמידות י\"ב עושות ניסיון נואש אחרון להיות מקובלות בחברה. כשאחת מהן הופכת לרוח רפאים, היא מבינה שכדאי לה למצות כל רגע בחיים – כל עוד זה אפשרי.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11284?exp=1790182350&sig=872b4f216d9a24111d59361137fff37b",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11284?exp=1790182350&sig=872b4f216d9a24111d59361137fff37b",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/4rPGSDnuTCX5XWmS1fuZPXlgDEE.jpg",
+      "custom_slug": null,
+      "series_name": "בו, ביץ'!",
+      "season_number": 1,
+      "episode_number": 1,
+      "episode_title": "",
+      "trailer_url": null,
+      "episode_number_end": null,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ttmsbW7t6CPrx85mOUFppWKu9hR.jpg",
+      "tmdb_id": 132188,
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.3,
+      "genres": [
+        "קומדיה",
+        "מדע בדיוני ופנטזיה",
+        "הרפתקאות",
+        "Supernatural"
+      ],
+      "en_title": "Boo, Bitch",
+      "trailer": "nlO3dXL6clc",
+      "cast": [
+        "לאנה קונדור",
+        "Zoe Colletti",
+        "Mason Versaw",
+        "Aparna Brielle",
+        "Tenzing Norgay Trainor",
+        "Jami Alix"
+      ],
+      "duration_seconds": 1500,
+      "imdb_id": "tt14097144",
+      "imdb_rating": "6.0",
+      "network": "Netflix",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x264-ION10.18_Hebrew"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo,.Bitch.S01.WEBRip.Netflix.en[cc]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        }
+      ],
+      "_enriched": true
+    },
+    "3a700613-5c5d-484a-bb92-ce97dfe75675": {
+      "title": "אני עדיין יודע מה עשית בקיץ האחרון",
+      "year": 1998,
+      "category": "סרטים",
+      "description": "קרלה חברתה של ג'ולי זוכה בחופשה באיי הבהאמה כשסופת ההוריקןמשתוללת והגופות מתחילות לצוץ מבינה החבורה שהרוצח עם הקרס חזר",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11338?exp=1790182350&sig=fc396764248a2a41d30f9658a3afd106",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11338?exp=1790182350&sig=fc396764248a2a41d30f9658a3afd106",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/Angielj8jMx7p2EHCeQxnorKlNe.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "3a700613-5c5d-484a-bb92-ce97dfe75675",
+      "created_date": "2026-09-17T21:04:46.509Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gF1BbDac7ONryE5jezRzXVe31Ud.jpg",
+      "tmdb_id": 3600,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.364,
+      "genres": [
+        "אימה",
+        "מסתורין",
+        "מותחן"
+      ],
+      "en_title": "I Still Know What You Did Last Summer",
+      "trailer": "xx_j5SL93Xs",
+      "cast": [
+        "ג'ניפר לאב יואיט",
+        "פרדי פרינז ג'וניור",
+        "Matthew Settle",
+        "Brandy Norwood",
+        "מקאי פייפר",
+        "Muse Watson",
+        "ג'ניפר אספוזיטו",
+        "Bill Cobbs",
+        "Jeffrey Combs",
+        "John Hawkes",
+        "Ellerine Harding",
+        "Benjamin Brown",
+        "Red West",
+        "Michael P. Byrne",
+        "Michael Bryan French"
+      ],
+      "duration_seconds": 6000,
+      "imdb_id": "tt0130018",
+      "imdb_rating": "4.8",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "I.Still.Know.What.You.Did.Last.Summer.1998.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "I.Still.Know.What.You.Did.Last.Summer.1998.1080p.BluRay.ALL"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "I Still Know What You Did Last Summer 25.000 FPS"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "I Still Know What You Did Last Summer [by BlackSky]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "I Still Know What You Did Last Summer"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "I.Still.Know.What.You.Did.Last.Summer.1998.REPACK.1080p.UHD.BluRay.DD+.5.1.DV.HDR.x265-SQS (Runtime 1:40:33)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "I.Still.Know.What.You.Did.Last.Summer.1998.1080p. BluRay.x265-RARBG_NON_HI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "I.Still.Know.What.You.Did.Last.Summer.1998.720p.BrRip.x264.BOKUTOX.YIFY"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
