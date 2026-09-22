@@ -6255,6 +6255,457 @@
         }
       ],
       "_enriched": true
+    },
+    "3daab9e6-a188-4914-b858-02bbd3cfb169": {
+      "title": "אל תאחלו לי בהצלחה",
+      "year": 2026,
+      "category": "סרטים",
+      "description": "סופי בירנבאום מקבלת את התפקיד הראשי במחזמר בתיכון ומוכנה להתייצב באור הזרקורים – אבל הדרמה בבית מגמדת את הדרמה שעל הבמה.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/14082?exp=1790182350&sig=e3c200ed7649cf99a3e0ddf110722150",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/14082?exp=1790182350&sig=e3c200ed7649cf99a3e0ddf110722150",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/cUqDgc7ZnWvMFGkNnwakhOWVrJ9.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "3daab9e6-a188-4914-b858-02bbd3cfb169",
+      "created_date": "2026-09-22T11:54:51.558Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+      "tmdb_id": 1504358,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.336,
+      "genres": [
+        "קומדיה",
+        "מוזיקה",
+        "דרמה"
+      ],
+      "en_title": "Don't Say Good Luck",
+      "trailer": "bvWqHSFkO5s",
+      "cast": [
+        "סאני סנדלר",
+        "מלאני לינסקי",
+        "מקס גרינפילד",
+        "סטפני ביאטריז",
+        "ביבי ניווירת",
+        "סטיב בושמי",
+        "Matan Friedman",
+        "Eitan Friedman",
+        "סקארלט אסטבז",
+        "Emma McNulty",
+        "Jack Champion",
+        "Elyse Bell",
+        "Ethan Costanilla",
+        "Claire Scavone",
+        "Gabby Beredo"
+      ],
+      "duration_seconds": 5760,
+      "imdb_id": "tt36590417",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%90%D7%9C%20%D7%AA%D7%90%D7%97%D7%9C%D7%95%20%D7%9C%D7%99%20%D7%91%D7%94%D7%A6%D7%9C%D7%97%D7%94",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Dont.Say.Good.Luck.2026.NF.WEB.H264-CUPCAKES"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "[𝐂𝐨𝐟𝐟𝐞𝐞𝐏𝐫𝐢𝐬𝐨𝐧] 𝐃𝐎𝐍𝐓 𝐒𝐀𝐘 𝐋𝐔𝐂𝐊 (𝟐𝟎𝟐𝟔) 𝐍𝐅𝐗 𝐖𝐄𝐁  "
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Dont.Say.Good.Luck.2026.NF.WEB.H264-CUPCAKES"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Dont.Say.Good.Luck.2026.1080p.WEBRip.x265.10bit.AAC5.1-[YTS.GG - YTS.BZ].en [24 FPS]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "[𝐂𝐨𝐟𝐟𝐞𝐞𝐏𝐫𝐢𝐬𝐨𝐧] 𝐃𝐎𝐍𝐓 𝐒𝐀𝐘 𝐋𝐔𝐂𝐊 (𝟐𝟎𝟐𝟔) 𝐍𝐅𝐗 𝐖𝐄𝐁  "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "[𝐂𝐨𝐟𝐟𝐞𝐞𝐏𝐫𝐢𝐬𝐨𝐧] 𝐃𝐎𝐍𝐓 𝐒𝐀𝐘 𝐋𝐔𝐂𝐊 (𝟐𝟎𝟐𝟔) 𝐍𝐅𝐗 𝐖𝐄𝐁  (𝐇𝐈)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Dont.Say.Good.Luck.2026.NF.WEB.H264-CUPCAKES"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Dont.Say.Good.Luck.2026.NF.WEB.H264-9Minsus5in"
+        }
+      ],
+      "_enriched": true
+    },
+    "bb2883ab-20fb-4738-a155-7e713c348abd": {
+      "title": "הניצוץ",
+      "year": 1980,
+      "category": "סרטים",
+      "description": "סופר כושל מקבל עבודה כשומר במלון מבודד בעונת החורף, מקום בו שנים קודם לכן, שומר אחר רצח את משפחתו עם גרזן. עם הזמן, הסופר מתחיל לשקוע בטירוף",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/14081?exp=1790182350&sig=009ceedfcb975e666d43a7519a30dc80",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/14081?exp=1790182350&sig=009ceedfcb975e666d43a7519a30dc80",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/w7Q9DOQCDnNgxzxPZ7mQ6mJwivD.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "bb2883ab-20fb-4738-a155-7e713c348abd",
+      "created_date": "2026-09-22T11:54:42.238Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+      "tmdb_id": 694,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 8.2,
+      "genres": [
+        "אימה",
+        "מותחן"
+      ],
+      "en_title": "The Shining",
+      "ar_title": "البريق",
+      "trailer": "jAE7dNurHR4",
+      "cast": [
+        "ג'ק ניקולסון",
+        "שלי דובאל",
+        "Danny Lloyd",
+        "Scatman Crothers",
+        "Barry Nelson",
+        "פיליפ סטון",
+        "Joe Turkel",
+        "Anne Jackson",
+        "Tony Burton",
+        "Lia Beldam",
+        "Billie Gibson",
+        "Barry Dennen",
+        "David Baxt",
+        "Manning Redwood",
+        "Lisa Burns"
+      ],
+      "duration_seconds": 8640,
+      "imdb_id": "tt0081505",
+      "imdb_rating": "8.4",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%94%D7%A0%D7%99%D7%A6%D7%95%D7%A5%20(%D7%A1%D7%A8%D7%98)",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The_Shining_1980_UHD_BluRay_1080p_DDP_5_1_DoVi_HDR10_x265_SM737"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Shining.1980.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Shining.1980.US.DC.REMASTERED.1080p.BluRay.x265-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Shining.1980.2160p.UHD.Blu-ray.REMUX.DV.HDR.HEVC.FLAC.1.0-CiNEPHiLES.sdh.en"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Shining.1980.2160p.UHD.Blu-ray.REMUX.DV.HDR.HEVC.FLAC.1.0-CiNEPHiLES.en"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Shining.1980.REMASTERED.1080p.BluRay.x265-YAWNTiC_eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Shining.1980.REMASTERED.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Shining.1980.US.DC.REMASTERED.1080p.BluRay.x265-RARBG"
+        }
+      ],
+      "_enriched": true
+    },
+    "341801e7-5208-4a2e-8f3a-bee32b09de75": {
+      "title": "Drive Through Fire",
+      "year": 2026,
+      "category": "סרטים",
+      "description": "A drive-through or drive-thru is a type of take-out service provided by a business that allows customers to purchase products without leaving their cars. The format was pioneered in the United States in the 1930s and has since spread to other countries.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/14414?exp=1790182350&sig=e078de91254b4651d04b69f43dd67759",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/14414?exp=1790182350&sig=e078de91254b4651d04b69f43dd67759",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/lmQKEJ4Te7CQ5mhnXwr3zCLnOvc.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "341801e7-5208-4a2e-8f3a-bee32b09de75",
+      "created_date": "2026-09-22T15:15:46.832Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8Tw90S4hVrvUoqmQWDoO6U4toZT.jpg",
+      "tmdb_id": 1378742,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.1,
+      "genres": [
+        "פעולה",
+        "פשע",
+        "מותחן"
+      ],
+      "en_title": "Drive Through Fire",
+      "trailer": "qRG0OTAHSlI",
+      "cast": [
+        "מייקל ג'יי וייט",
+        "דן בקדהל",
+        "Jim Carlson",
+        "Jennifer Bond",
+        "Kate Duffy",
+        "Todd Jenkins",
+        "Cale Schultz",
+        "James Logan",
+        "Leanna Tallmeister",
+        "Chandler Ryan",
+        "David Goryl",
+        "Justin Parks",
+        "Marlon Ladd",
+        "James L. Battles Jr.",
+        "Karsten Tate"
+      ],
+      "duration_seconds": 5220,
+      "imdb_id": "tt33512134",
+      "imdb_rating": "5.2",
+      "wiki_url": "https://en.wikipedia.org/wiki/Drive-through",
+      "subtitles_found": [
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Drive.Through.Fire.2026.1080p.AMZN.WEB-DL.DDP5.1.H.264-CHORTLE_SDH_[eng]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Drive.Through.Fire.2026.1080p.AMZN.WEB-DL.DDP5.1.H.264-CHORTLE_[eng]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Drive.Through.Fire.2026.1080p.AMZN.WEB-DL.DDP5.1.H.264"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Drive.Through.Fire.2026.1080p.AMZN.WEB-DL.DDP5.1.H.264"
+        }
+      ],
+      "_enriched": true
+    },
+    "9b34880f-f029-45ec-aa7b-c84f474987e1": {
+      "title": "איש הגלידה",
+      "year": 2026,
+      "category": "אימה",
+      "description": "עיירת קיץ מושלמת צוללת לכאוס כשמוכר גלידה מגיש לילדים מטעמים מתוקים עם תוצאות מזוויעות.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/14197?exp=1790182350&sig=1118622b95b6a00a3f61632ccd44c923",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/14197?exp=1790182350&sig=1118622b95b6a00a3f61632ccd44c923",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/hIStlVTTLnC84Bl9nOSkQ7DdlBP.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "9b34880f-f029-45ec-aa7b-c84f474987e1",
+      "created_date": "2026-09-22T11:54:31.194Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uSKlocM3PXfQIS8cv0uOVMWmIC2.jpg",
+      "tmdb_id": 44470,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.5,
+      "genres": [
+        "קומדיה",
+        "אימה"
+      ],
+      "en_title": "Ice Cream Man",
+      "ar_title": "رجل الآيس كريم",
+      "suggested_title": "איש הגלידה (סרט)",
+      "trailer": "8-mZnaD4zKA",
+      "cast": [
+        "Clint Howard",
+        "Justin Isfeld",
+        "Anndi McAfee",
+        "JoJo Adams",
+        "Mikey LeBeau",
+        "Sandahl Bergman",
+        "Andrea Evans",
+        "Steve Garvey",
+        "אוליביה האסי",
+        "דייוויד וורנר",
+        "Jan-Michael Vincent",
+        "David Naughton",
+        "Janet Wood",
+        "Stephen Fiachi",
+        "Stephanie Champlin"
+      ],
+      "duration_seconds": 5220,
+      "imdb_id": "tt0113376",
+      "imdb_rating": "4.8",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%A9%20%D7%94%D7%92%D7%9C%D7%99%D7%93%D7%94%20(%D7%A1%D7%A8%D7%98)",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "Ice.Cream.Man.1995.DVDRip.H264"
+        },
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "* תרגום אולפנים * Ice Cream Man 1995 Bdrip 720p x264"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Ice Cream Man (1995) Bluray 1080p Uncut [Vinegar Syndrome]"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "the.ice.cream.man.1995.summer.school.monstervision.edition.1080p.bluray.x264-yamg"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Ice.Cream.Man.1995.SUMMER.SCHOOL.MONSTERVISION.EDITION.1080p.BluRay.x264-YAMG"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Ice.Cream.Man.1995.SUMMER.SCHOOL.MONSTERVISION.EDITION.1080p.BluRay.x264-YAMG"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Ice.Cream.Man.1995.1080p.BluRay.x264.DTS-FGT"
+        }
+      ],
+      "_enriched": true
+    },
+    "e24b8626-80a5-473e-bfa4-290a099f438b": {
+      "title": "שליחות קטלנית 2: יום הדין",
+      "year": 1991,
+      "category": "סרטים",
+      "description": "אמצע שנות ה-90; ג'ון קונור, המנהיג העתידי של המורדים האנושיים, הוא נער פרחח שמבלה את זמנו ברכיבה על אופנוע ומשחקי וידאו. כאשר רובוט אנושי מגיע מן העתיד בטענה שג'ון עצמו שלח אותו, מבין ג'ון הנער שאמו שרה, שבינתיים אושפזה במוסד לחולי נפש, דיברה אמת כל השנים. רובוט אחר, מסוג טי-1000, מתוחכם ומשוכלל יות",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/14079?exp=1790182350&sig=b9a0b317414178abd7915c64eda05c2c",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/14079?exp=1790182350&sig=b9a0b317414178abd7915c64eda05c2c",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/ad9BUyUuAkVs0aod5AjjvTJhvEA.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "e24b8626-80a5-473e-bfa4-290a099f438b",
+      "created_date": "2026-09-20T11:40:40.187Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+      "tmdb_id": 280,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 8.169,
+      "genres": [
+        "פעולה",
+        "מותחן",
+        "מדע בדיוני"
+      ],
+      "en_title": "Terminator 2: Judgment Day",
+      "ar_title": "ترمنايتور 2: جادجمنت داي",
+      "trailer": "xjl-p880Eqo",
+      "cast": [
+        "ארנולד שוורצנגר",
+        "לינדה המילטון",
+        "Edward Furlong",
+        "רוברט פטריק",
+        "Earl Boen",
+        "ג'ו מורטון",
+        "ש. אפאתה מרקרסון",
+        "Castulo Guerra",
+        "דני קוקסי",
+        "Jenette Goldstein",
+        "זאנדר ברקלי",
+        "Leslie Hamilton Gearren",
+        "Ken Gibbel",
+        "Robert Winley",
+        "Pete Schrum"
+      ],
+      "duration_seconds": 8220,
+      "imdb_id": "tt0103064",
+      "imdb_rating": "8.6",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA%20%D7%A7%D7%98%D7%9C%D7%A0%D7%99%D7%AA%202%3A%20%D7%99%D7%95%D7%9D%20%D7%94%D7%93%D7%99%D7%9F",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Terminator.2..Judgment.Day.1991.Hybrid.2160p.UHD.Blu-ray.Remux.HDR10+HEVC.DTS-HD.MA.5.1"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Terminator.2.Judgment.Day.1991.EXTENDED.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Terminator.2.Judgment.Day.1991.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.2.Judgement.Day.1991.DC.1080p.BluRay.x265-YAWNTiC_eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator 2 Judgment Day.1991.WEBDL-2160p-HONE.en.hi"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.2.1991.1080p.BluRay.x264-[YTS.AG]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Terminator.2.Judgment.Day.1991.THEATRICAL.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "terminator.2.judgement.day.1991.directors.cut.remastered.1080p.bluray.x264-justwatch"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
