@@ -141,7 +141,7 @@
       "title": "אומהה",
       "year": 2025,
       "category": "סרטים",
-      "description": "",
+      "description": "\"Omaga\" הוא שיר שהוקלט על ידי הזמר הצ'כי בני כריסטו. השיר יצג את צ'כיה באירוויזיון 2021.",
       "type": "direct",
       "video_id": "https://zovex.duckdns.org/stream/-1003936100530/13412?exp=1790169445&sig=efbd2ab9a9f2fe93095a9be65a9126d4",
       "video_url": "https://zovex.duckdns.org/stream/-1003936100530/13412?exp=1790169445&sig=efbd2ab9a9f2fe93095a9be65a9126d4",
@@ -201,7 +201,8 @@
           "release": "Omaha.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264"
         }
       ],
-      "_enriched": true
+      "_enriched": true,
+      "wiki_url": "https://he.wikipedia.org/wiki/Omaga"
     },
     "e9b06cc3-bfc8-4a4a-9ac2-a252a179ca4d": {
       "title": "משחק ילדים 2019",
@@ -786,6 +787,313 @@
           "language": "EN",
           "provider": "subdl",
           "release": "The.Divergent.Series.Allegiant.2016.WEB-DL.TUBI"
+        }
+      ],
+      "_enriched": true
+    },
+    "e0d529e2-219b-44aa-9583-681a1b2b3b48": {
+      "title": "מפוצלים 2: מורדים",
+      "year": 2015,
+      "category": "סרטים",
+      "description": "סאגת \"מפוצלים\" ממשיכה מהנקודה בה הסרט הקודם הפסיק ומגבירה את הקצב. טריס ופור חיים כפליטים ברחובות המוחרבים של שיקגו כשבעקבותיהם דולקים ג'נין וצבא החיילים שלה. משימתם היא להבין מדוע משפחתה של טריס הקריבה עצמה לפני שג'נין והחיילים שלה יצליחו לתפוס אותם. בעוד רגשות אשם על החלטות העבר רודפות את טריס היא",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11361?exp=1790169737&sig=128c8fc5cdf4e5997390138b1e621679",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11361?exp=1790169737&sig=128c8fc5cdf4e5997390138b1e621679",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/d8h3ShavYNJZ2UvI4TF2GLOnO6Q.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "e0d529e2-219b-44aa-9583-681a1b2b3b48",
+      "created_date": "2026-09-17T21:24:26.123Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8YNNyQiPZlF9qv5EGOUK20mnXVk.jpg",
+      "tmdb_id": 262500,
+      "tmdb_kind": "movie",
+      "tmdb_match": "best-guess",
+      "tmdb_rating": 6.36,
+      "genres": [
+        "פעולה",
+        "מדע בדיוני",
+        "מותחן"
+      ],
+      "en_title": "Insurgent",
+      "trailer": "1lEl0JvINWc",
+      "cast": [
+        "שיילין וודלי",
+        "תיאו ג'יימס",
+        "מיילס טלר",
+        "קייט וינסלט",
+        "Ansel Elgort",
+        "זואי קרביץ",
+        "ג'יי קורטני",
+        "ריי סטיבנסון",
+        "נעמי ווטס",
+        "אוקטביה ספנסר",
+        "מקאי פייפר",
+        "ג'נט מק'תיר",
+        "דניאל דיי קים",
+        "מגי קיו",
+        "Emjay Anthony"
+      ],
+      "duration_seconds": 7140,
+      "imdb_id": "tt2908446",
+      "imdb_rating": "6.2",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Insurgent.2015.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Insurgent.2015.1080p.BluRay.x264.YIFY"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Insurgent.2015.UHD.BluRay.2160p.TrueHD.Atmos.7.1.HEVC.REMUX-FraMeSToR"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The Divergent Series_ Insurgent (2015) WEBRip"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Divergent.Series.Insurgent.2015.WEBRip.Netflix"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Insurgent.2015.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1.Atmos-LAMA"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Insurgent.2015.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1.Atmos-LAMA"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Divergent.Series.Insurgent.2015.WEB-DL.TUBI"
+        }
+      ],
+      "_enriched": true
+    },
+    "11d0da90-d629-4eac-99d3-f6e6261d2f59": {
+      "id": "11d0da90-d629-4eac-99d3-f6e6261d2f59",
+      "created_date": "2026-09-17T20:35:58.867Z",
+      "title": "בו, ביץ'!",
+      "year": 2022,
+      "category": "סדרות",
+      "description": "שתי חברות טובות תלמידות י\"ב עושות ניסיון נואש אחרון להיות מקובלות בחברה. כשאחת מהן הופכת לרוח רפאים, היא מבינה שכדאי לה למצות כל רגע בחיים – כל עוד זה אפשרי.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11279?exp=1790169737&sig=e192c9c4bea605e71fd8eef3e400e058",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11279?exp=1790169737&sig=e192c9c4bea605e71fd8eef3e400e058",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/4rPGSDnuTCX5XWmS1fuZPXlgDEE.jpg",
+      "custom_slug": null,
+      "series_name": "בו, ביץ'!",
+      "season_number": 1,
+      "episode_number": 5,
+      "episode_title": "",
+      "tmdb_id": 132188,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ttmsbW7t6CPrx85mOUFppWKu9hR.jpg",
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.3,
+      "genres": [
+        "קומדיה",
+        "מדע בדיוני ופנטזיה",
+        "הרפתקאות",
+        "Supernatural"
+      ],
+      "en_title": "Boo, Bitch",
+      "trailer": "nlO3dXL6clc",
+      "cast": [
+        "לאנה קונדור",
+        "Zoe Colletti",
+        "Mason Versaw",
+        "Aparna Brielle",
+        "Tenzing Norgay Trainor",
+        "Jami Alix"
+      ],
+      "duration_seconds": 1500,
+      "imdb_id": "tt14097144",
+      "imdb_rating": "6.0",
+      "network": "Netflix",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x264-ION10.18_Hebrew"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo,.Bitch.S01.WEBRip.Netflix.en[cc]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        }
+      ],
+      "_enriched": true
+    },
+    "8ece4795-4c79-4c12-b46b-4b2ff8420336": {
+      "id": "8ece4795-4c79-4c12-b46b-4b2ff8420336",
+      "created_date": "2026-09-17T20:35:58.863Z",
+      "title": "בו, ביץ'!",
+      "year": 2022,
+      "category": "סדרות",
+      "description": "שתי חברות טובות תלמידות י\"ב עושות ניסיון נואש אחרון להיות מקובלות בחברה. כשאחת מהן הופכת לרוח רפאים, היא מבינה שכדאי לה למצות כל רגע בחיים – כל עוד זה אפשרי.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11278?exp=1790169737&sig=fa588bab098162881f429db28083137a",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11278?exp=1790169737&sig=fa588bab098162881f429db28083137a",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/4rPGSDnuTCX5XWmS1fuZPXlgDEE.jpg",
+      "custom_slug": null,
+      "series_name": "בו, ביץ'!",
+      "season_number": 1,
+      "episode_number": 3,
+      "episode_title": "",
+      "tmdb_id": 132188,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ttmsbW7t6CPrx85mOUFppWKu9hR.jpg",
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.3,
+      "genres": [
+        "קומדיה",
+        "מדע בדיוני ופנטזיה",
+        "הרפתקאות",
+        "Supernatural"
+      ],
+      "en_title": "Boo, Bitch",
+      "trailer": "nlO3dXL6clc",
+      "cast": [
+        "לאנה קונדור",
+        "Zoe Colletti",
+        "Mason Versaw",
+        "Aparna Brielle",
+        "Tenzing Norgay Trainor",
+        "Jami Alix"
+      ],
+      "duration_seconds": 1500,
+      "imdb_id": "tt14097144",
+      "imdb_rating": "6.0",
+      "network": "Netflix",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x264-ION10.18_Hebrew"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo,.Bitch.S01.WEBRip.Netflix.en[cc]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        }
+      ],
+      "_enriched": true
+    },
+    "f4ac94e1-4051-4d6f-abb0-e6655892b14c": {
+      "id": "f4ac94e1-4051-4d6f-abb0-e6655892b14c",
+      "created_date": "2026-09-17T20:35:58.867Z",
+      "title": "בו, ביץ'!",
+      "year": 2022,
+      "category": "סדרות",
+      "description": "שתי חברות טובות תלמידות י\"ב עושות ניסיון נואש אחרון להיות מקובלות בחברה. כשאחת מהן הופכת לרוח רפאים, היא מבינה שכדאי לה למצות כל רגע בחיים – כל עוד זה אפשרי.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11280?exp=1790169737&sig=decb541871c781b793e03036c7abed5d",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11280?exp=1790169737&sig=decb541871c781b793e03036c7abed5d",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/4rPGSDnuTCX5XWmS1fuZPXlgDEE.jpg",
+      "custom_slug": null,
+      "series_name": "בו, ביץ'!",
+      "season_number": 1,
+      "episode_number": 6,
+      "episode_title": "",
+      "tmdb_id": 132188,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ttmsbW7t6CPrx85mOUFppWKu9hR.jpg",
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.3,
+      "genres": [
+        "קומדיה",
+        "מדע בדיוני ופנטזיה",
+        "הרפתקאות",
+        "Supernatural"
+      ],
+      "en_title": "Boo, Bitch",
+      "trailer": "nlO3dXL6clc",
+      "cast": [
+        "לאנה קונדור",
+        "Zoe Colletti",
+        "Mason Versaw",
+        "Aparna Brielle",
+        "Tenzing Norgay Trainor",
+        "Jami Alix"
+      ],
+      "duration_seconds": 1500,
+      "imdb_id": "tt14097144",
+      "imdb_rating": "6.0",
+      "network": "Netflix",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x264-ION10.18_Hebrew"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo,.Bitch.S01.WEBRip.Netflix.en[cc]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Boo.Bitch.S01.WEBRip.x265-ION265"
         }
       ],
       "_enriched": true
