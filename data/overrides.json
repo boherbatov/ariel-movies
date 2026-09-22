@@ -12472,6 +12472,378 @@
         }
       ],
       "_enriched": true
+    },
+    "5a66c7fe-970d-4f6c-a031-b549503e399b": {
+      "title": "מת לחיות",
+      "year": 1988,
+      "category": "סרטים",
+      "description": "ג'ון מקליין, שוטר ניו יורקי קשוח, מגיע ללוס אנג'לס כדי לבקר את פרודתו ולברר אם עוד אפשר להציל משהו. שעה קלה אחרי שהגיע לבניין \"נקטומי\" בו אשתו מועסקת, והנה מתחיל האקשן. חבורה נכבדת של טרוריסטים אירופים בהנהגתו של הנס גרובר משתלטת על הבניין, ולוקחת את מנהלי החברה כבני ערובה. ג'ון אינו אומר נואש ומטפל",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11936?exp=1790182350&sig=f4baf47fbe560d0de4f154292cb8ac8e",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11936?exp=1790182350&sig=f4baf47fbe560d0de4f154292cb8ac8e",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/df26Nf9jfxbCxJ5xHFGdifVWW9j.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "5a66c7fe-970d-4f6c-a031-b549503e399b",
+      "created_date": "2026-09-18T09:33:44.282Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+      "tmdb_id": 562,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.816,
+      "genres": [
+        "פעולה",
+        "מותחן"
+      ],
+      "en_title": "Die Hard",
+      "trailer": "TotSHi0ViUc",
+      "cast": [
+        "ברוס וויליס",
+        "אלן ריקמן",
+        "Александр Годунов",
+        "Bonnie Bedelia",
+        "רג'ינלד ולג'ונסון",
+        "Paul Gleason",
+        "De'voreaux White",
+        "William Atherton",
+        "Hart Bochner",
+        "James Shigeta",
+        "Bruno Doyon",
+        "Andreas Wisniewski",
+        "קלרנס גיליארד",
+        "Joey Plewa",
+        "Lorenzo Caccialanza"
+      ],
+      "duration_seconds": 7860,
+      "imdb_id": "tt0095016",
+      "imdb_rating": "8.2",
+      "subtitles_found": [
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Die.Hard.1988.DSNP.WEB-DL-POWER"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Die.Hard.1988.720p.BrRip.x264.bitloks.YIFY"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Die Hard (1988) {imdb-tt0095016} [AMZN][WEBDL-1080p][EAC3 5.1][h264]-PiRaTeS.en"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Die Hard (1988) UHD BluRay-Pahe in- es"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "35mm Scan, 2:12:12 - 3840x2160"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "die.hard.1988.1080p.en.forced"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "die.hard.1988.1080p"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "die.hard.1988.1080p"
+        }
+      ],
+      "_enriched": true
+    },
+    "229e51ce-89ce-4803-986c-22e1684f0b80": {
+      "title": "מת לחיות ביום טוב",
+      "year": 2013,
+      "category": "סרטים",
+      "description": "לאחר שג'ק, בנו הבכור של ג'ון מקליין נכנס לצרות במוסקבה, ג'ון עושה הכל על מנת להציל את בנו הבכור. למרות שג'ק וג'ון חיים בנפרד ובעיקר לאור העובדה שג'ק התכחש לאביו במשך שנים רבות, על השניים לעבוד ביחד כדי לשמור על חייהם ועל הביטחון העולמי גם אם זה אומר שהם צריכים להשאיר את הבעיות המשפחתיות שלהם בצד. לא",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11935?exp=1790182350&sig=c0a3d493d967f83c8852a3c93864d7a1",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11935?exp=1790182350&sig=c0a3d493d967f83c8852a3c93864d7a1",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/6VXbfjhSVvWhrDcHLR43KaFTQwZ.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "229e51ce-89ce-4803-986c-22e1684f0b80",
+      "created_date": "2026-09-18T09:32:50.523Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wFUkS5cnMf3I8ysIPWzIXpTsuR7.jpg",
+      "tmdb_id": 47964,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.326,
+      "genres": [
+        "פעולה",
+        "מותחן"
+      ],
+      "en_title": "A Good Day to Die Hard",
+      "trailer": "KyfuPMz8iWs",
+      "cast": [
+        "ברוס וויליס",
+        "ג'יי קורטני",
+        "Sebastian Koch",
+        "Юлия Снигирь",
+        "Radivoje Bukvić",
+        "Cole Hauser",
+        "Сергей Колесников",
+        "אמאורי נולסקו",
+        "מרי אליזבת' וינסטד",
+        "Roman Luknár",
+        "Ganxsta Zolee",
+        "Takátsy Péter",
+        "פאשה ליצ'ניקוף",
+        "מגלין אצ'יקונווק",
+        "Melissa Tang"
+      ],
+      "duration_seconds": 5880,
+      "imdb_id": "tt1606378",
+      "imdb_rating": "5.2",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Die Hard 5 (2013) 1080p (itunes) ENG-ITA (moviesbyrizzo)"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "A Good Day to Die Hard 2013 EXTENDED 720p BRRip x264-PLAYNOW"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "A Good Day To Die Hard 2013 EXTENDED 1080p BRRip x264 AC3-Forced English"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "A.Good.Day.To.Die.Hard.2013.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].en"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "A Good Day to Die Hard Extended Brip -PuRE"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "A.Good.Day.to.Die.Hard.2013.720p.BluRay.x264"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "A.Good.Day.to.Die.Hard.2013.1080p.BluRay.x264.YIFY"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "A.Good.Day.To.Die.Hard.2013.WEB-DL.DSNP"
+        }
+      ],
+      "_enriched": true
+    },
+    "afa4b23e-b27b-4461-99fb-ab449534239d": {
+      "title": "מת לחיות 3",
+      "year": 1995,
+      "category": "סרטים",
+      "description": "הסרט השלישי בסדרת הסרטים על ג'ון מק'ליין, השוטר המסכן בעל המזל הרע בחג המולד. אדם מסתורי הקורא לעצמו \"סיימון\", משליט טרור ברחבי ניו יורק. הוא מאיים לפוצץ מטענים עוצמתיים ברחבי העיר, אלא אם כן השוטר מקליין \"ישחק איתו\". מקליין, יחד עם חברו החדש, נאלצים לשתף פעולה, אך עד מהרה העיניינים מסתבכים.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11933?exp=1790182350&sig=e7ef3888d51096b878a15a38f35febb8",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11933?exp=1790182350&sig=e7ef3888d51096b878a15a38f35febb8",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "afa4b23e-b27b-4461-99fb-ab449534239d",
+      "created_date": "2026-09-18T09:33:21.558Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fBvSfLetWlAMevQVHa0nBDV1Fon.jpg",
+      "tmdb_id": 1572,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.3,
+      "genres": [
+        "פעולה",
+        "מותחן"
+      ],
+      "en_title": "Die Hard: With a Vengeance",
+      "trailer": "aRQetHOPpKA",
+      "cast": [
+        "ברוס וויליס",
+        "ג'רמי איירונס",
+        "סמואל ל. ג'קסון",
+        "Larry Bryggman",
+        "גרהאם גרין",
+        "Anthony Peck",
+        "Nicholas Wyman",
+        "Kevin Chamberlin",
+        "קולין קמפ",
+        "Sam Phillips",
+        "Michael Alexander Jackson",
+        "אלדיס הודג'",
+        "Sharon Washington",
+        "Stephen Pearlman",
+        "Mischa Hausserman"
+      ],
+      "duration_seconds": 7860,
+      "imdb_id": "tt0112864",
+      "imdb_rating": "7.6",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Die Hard 3 Die Hard with a Vengeance 1995 1080p & 720p"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Die Hard 3 (1995) 1080p (itunes) ENG-ITA (moviesbyrizzo)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Die.Hard.With.A.Vengeance.1995.1080p.BluRay.H264.AAC-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Die.Hard.with.a.Vengeance.1995.WEB-DL.DSNP"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Die.Hard.with.a.Vengeance.1995.WEBRip.Amazon"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Die Hard 3 (1995) 1080p (itunes) ENG-ITA (moviesbyrizzo)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Die Hard 3 With A Vengeance (1995)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Die Hard with a Vengeance 1995 (1080p Bluray x265 HEVC 10bit AAC 5 1 Tigole)"
+        }
+      ],
+      "_enriched": true
+    },
+    "f9f71bbf-c4f0-4422-b5e3-ed4a74382bf3": {
+      "title": "מת לחיות 2",
+      "year": 1990,
+      "category": "סרטים",
+      "description": "בערב חג מולד מושלג בעיר וושינגטון, קבוצת טרוריסטים משתלטת על נמל תעופה בינלאומי ומחזיקה אלפי נוסעים. הטרוריסטים, קבוצת חיילי קומנדו עריקים בפיקודו של קצין נוכל ורוצח, הגיעו כדי להציל מושל סמים ממשפט. הם התכוונו לכל אפשרות חוץ מאחת: ג'ון מקליין, שוטר מחוץ לתפקיד, שאחזה בו תחושת דז'ה-וו-קטלנית.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11932?exp=1790182350&sig=5fd0cd0619d0b26b880249d19d997cad",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11932?exp=1790182350&sig=5fd0cd0619d0b26b880249d19d997cad",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/pBtuxQrF5rXBzMjUUMmddyMbwzC.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "f9f71bbf-c4f0-4422-b5e3-ed4a74382bf3",
+      "created_date": "2026-09-18T09:32:11.562Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+      "tmdb_id": 1573,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.967,
+      "genres": [
+        "פעולה",
+        "מותחן"
+      ],
+      "en_title": "Die Hard 2",
+      "trailer": "IoZCfS5290M",
+      "cast": [
+        "ברוס וויליס",
+        "Bonnie Bedelia",
+        "William Sadler",
+        "John Amos",
+        "פרנקו נרו",
+        "William Atherton",
+        "Dennis Franz",
+        "Art Evans",
+        "Fred Thompson",
+        "טום באוור",
+        "Sheila McCarthy",
+        "Don Harvey",
+        "רג'ינלד ולג'ונסון",
+        "Tony Ganios",
+        "Peter Nelson"
+      ],
+      "duration_seconds": 7440,
+      "imdb_id": "tt0099423",
+      "imdb_rating": "7.2",
+      "subtitles_found": [
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Die.Hard.2.1990.DSNP.WEB-DL-POWER"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Die.Hard.2.1990.720p.BrRip.x264.bitloks.YIFY"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Die Hard 2 1990- Disney+"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Die.Hard.2.1990.1080p.BluRay.OSN"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Die Hard II (1990) 2CD"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Die.Hard.2.1990.1080p.BluRay.ALL[OSN-SRT]"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "DVD best quality ever"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "That '70s Show - S01E24 - Hyde Moves In"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
