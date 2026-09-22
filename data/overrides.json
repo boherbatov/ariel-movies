@@ -7180,6 +7180,404 @@
         }
       ],
       "_enriched": true
+    },
+    "2997de02-0b37-4e46-bba6-e5b3ee2065ba": {
+      "title": "מלאך שחור",
+      "year": 2000,
+      "category": "סדרות",
+      "description": "חבורה של ילדים נמלטת מפרוייקט הנדסה גנטית של הצבא, שהיה אמור להפוך אותם לחיילי-על. מספר שנים אחר כך, מקס, ניצולה מאותה חבורה, עובדת עכשיו בשירות שליחויות בסיאטל העתידנית עיר המנסה להשתקם מהנזק של פעימה אלקטרו-מגנטית ששיתקה אותה. היא מסתובבת ברחובות הזועמים על אופנוע ומנסה לאתר את יתר הניצולים מהפרוי",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/13919?exp=1790182350&sig=733002d1e8c3b524a796cb88c85a9b26",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/13919?exp=1790182350&sig=733002d1e8c3b524a796cb88c85a9b26",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/wrWoXvIwyk4UrRZ3OHzXhW89Gnk.jpg",
+      "trailer_url": null,
+      "custom_slug": "mlk-shchvr",
+      "series_name": "מלאך שחור",
+      "season_number": 1,
+      "episode_number": 2,
+      "episode_number_end": null,
+      "episode_title": "",
+      "id": "2997de02-0b37-4e46-bba6-e5b3ee2065ba",
+      "created_date": "2026-09-20T09:17:14.103Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2LCk7u9D0T2ODRvquWKgR64VDOv.jpg",
+      "tmdb_id": 99831,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 4.556,
+      "genres": [
+        "אימה",
+        "פשע",
+        "מותחן"
+      ],
+      "en_title": "Ángel negro",
+      "trailer": "3UM42sT7DNA",
+      "cast": [
+        "Blanca Lewin",
+        "Álvaro Morales",
+        "Andrea Freund",
+        "Juan Pablo Bastidas",
+        "Fernando Gallardo",
+        "Arturo Ruiz-Tagle",
+        "Álvaro Espinoza",
+        "Patricia Pardo",
+        "Claudio Rodríguez",
+        "Miguel 'Chito' Fuentes",
+        "Claudio Santana",
+        "Joaquin Calaf",
+        "Vanessa Lazo",
+        "Moises Gutierrez",
+        "German Campos"
+      ],
+      "duration_seconds": 5100,
+      "imdb_id": "tt0226701",
+      "imdb_rating": "4.2",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Angel Negro.HEB"
+        }
+      ],
+      "_enriched": true
+    },
+    "3a19f878-65f4-422f-b601-743832a54c07": {
+      "title": "מלאך שחור",
+      "year": 2000,
+      "category": "סדרות",
+      "description": "חבורה של ילדים נמלטת מפרוייקט הנדסה גנטית של הצבא, שהיה אמור להפוך אותם לחיילי-על. מספר שנים אחר כך, מקס, ניצולה מאותה חבורה, עובדת עכשיו בשירות שליחויות בסיאטל העתידנית עיר המנסה להשתקם מהנזק של פעימה אלקטרו-מגנטית ששיתקה אותה. היא מסתובבת ברחובות הזועמים על אופנוע ומנסה לאתר את יתר הניצולים מהפרוי",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/13918?exp=1790182350&sig=9010f247aa5d3c5920b983860c608d5f",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/13918?exp=1790182350&sig=9010f247aa5d3c5920b983860c608d5f",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/wrWoXvIwyk4UrRZ3OHzXhW89Gnk.jpg",
+      "trailer_url": null,
+      "custom_slug": "mlk-shchvr",
+      "series_name": "מלאך שחור",
+      "season_number": 1,
+      "episode_number": 1,
+      "episode_number_end": null,
+      "episode_title": "",
+      "id": "3a19f878-65f4-422f-b601-743832a54c07",
+      "created_date": "2026-09-20T09:15:47.743Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2LCk7u9D0T2ODRvquWKgR64VDOv.jpg",
+      "tmdb_id": 99831,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 4.556,
+      "genres": [
+        "אימה",
+        "פשע",
+        "מותחן"
+      ],
+      "en_title": "Ángel negro",
+      "trailer": "3UM42sT7DNA",
+      "cast": [
+        "Blanca Lewin",
+        "Álvaro Morales",
+        "Andrea Freund",
+        "Juan Pablo Bastidas",
+        "Fernando Gallardo",
+        "Arturo Ruiz-Tagle",
+        "Álvaro Espinoza",
+        "Patricia Pardo",
+        "Claudio Rodríguez",
+        "Miguel 'Chito' Fuentes",
+        "Claudio Santana",
+        "Joaquin Calaf",
+        "Vanessa Lazo",
+        "Moises Gutierrez",
+        "German Campos"
+      ],
+      "duration_seconds": 5100,
+      "imdb_id": "tt0226701",
+      "imdb_rating": "4.2",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Angel Negro.HEB"
+        }
+      ],
+      "_enriched": true
+    },
+    "71e59a81-beac-41e4-895b-4415ccad5fcf": {
+      "title": "חולית: חלק שני",
+      "year": 2024,
+      "category": "סרטים",
+      "description": "המשך מסעו של פול אטריידס כשהוא מתאחד עם צ'אני והפרמן תוך כדי נתיב נקמה נגד הקושרים שהרסו את משפחתו. מול בחירה בין אהבת חייו לגורל היקום הידוע, הוא משתדל למנוע עתיד נורא שרק הוא יכול לחזות.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/13752?exp=1790182350&sig=3485485f3b96477afddd0a972424c41b",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/13752?exp=1790182350&sig=3485485f3b96477afddd0a972424c41b",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/xLMebtAGPXYCTOHY4YxXHUCQ2Rq.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "71e59a81-beac-41e4-895b-4415ccad5fcf",
+      "created_date": "2026-09-20T07:36:01.814Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+      "tmdb_id": 693134,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 8.136,
+      "genres": [
+        "מדע בדיוני",
+        "הרפתקאות"
+      ],
+      "en_title": "Dune: Part Two",
+      "trailer": "981NyzVbKxo",
+      "cast": [
+        "טימותי שאלאמה",
+        "זנדאיה",
+        "רבקה פרגוסון",
+        "חאווייר ברדם",
+        "ג'וש ברולין",
+        "אוסטין באטלר",
+        "פלורנס פיו",
+        "דייב בטיסטה",
+        "כריסטופר ווקן",
+        "לאה סדו",
+        "סטלאן סקארסגארד",
+        "שארלוט רמפלינג",
+        "סוהילה יעקוב",
+        "Roger Yuan",
+        "באבס אולוסאנמוקון"
+      ],
+      "duration_seconds": 10020,
+      "imdb_id": "tt15239678",
+      "imdb_rating": "8.4",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Dune.Part.Two.2024.720p.BluRay-ar (1)"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Dune.Part.Two.2024.720p.BluRay-ar (1)"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Dune.Part.Two.2024"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Dune.Part.Two.1080p.OSN.WEB-DL.ar"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Dune.Part.Two.2024.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX_merged"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Dune.Part.Two.2024.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX_merged"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Dune Part Two.2024.WEBDL-2160p Proper-FLUX.en.hi"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Dune.Part.Two.2024.1080p.BluRay.x264-ROEN"
+        }
+      ],
+      "_enriched": true
+    },
+    "5a27824a-1fbf-42dd-a981-433733748a29": {
+      "title": "חולית",
+      "year": 2021,
+      "category": "סרטים",
+      "description": "פול מגיע לכוכב מדברי עתיר סכנות, עליו עתיד לשלוט אביו הדוכס. בעקבות בגידה הוא נאלץ לברוח ולהילחם על חייו.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/13751?exp=1790182350&sig=9ef068f5054331680539fb58acb1858b",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/13751?exp=1790182350&sig=9ef068f5054331680539fb58acb1858b",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/kKi6hJxfOh7kzaXCHYAdUApZFOO.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "5a27824a-1fbf-42dd-a981-433733748a29",
+      "created_date": "2026-09-20T07:35:34.479Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/zRKQW58MBEY078AxkHxEJzUskCl.jpg",
+      "tmdb_id": 438631,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.784,
+      "genres": [
+        "מדע בדיוני",
+        "הרפתקאות"
+      ],
+      "en_title": "Dune",
+      "trailer": "1kL1jwkduFs",
+      "cast": [
+        "טימותי שאלאמה",
+        "רבקה פרגוסון",
+        "אוסקר אייזק",
+        "ג'ייסון מומואה",
+        "סטלאן סקארסגארד",
+        "סטיבן הנדרסון",
+        "ג'וש ברולין",
+        "חאווייר ברדם",
+        "Sharon Duncan-Brewster",
+        "張震",
+        "דייב בטיסטה",
+        "דייוויד דסתמלסיאן",
+        "זנדאיה",
+        "שארלוט רמפלינג",
+        "באבס אולוסאנמוקון"
+      ],
+      "duration_seconds": 9300,
+      "imdb_id": "tt1160419",
+      "imdb_rating": "8.0",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Dune 2021"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Dune.2021.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Dune Part One 2021 2160p UHD Blu-ray Remux HEVC DoVi HDR10+ TrueHD 7.1-WiLDCAT"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Dune2021OSN+"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Dune 2021 By GoldBerg_44"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Dune.2021.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1.Atmos-RARBG.en.SDH.srt"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Dune.Part.One.2021.2160p.Ai-Enhanced.DV.HDR10Plus.H265.TrueHD.Atmos.7.1.MULTI-RIFE.4.15v2-60fps-DirtyHippie"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Dune.Part.One.2021.2160p.Ai-Enhanced.DV.HDR10Plus.H265.TrueHD.Atmos.7.1.MULTI-RIFE.4.15v2-60fps-DirtyHippie"
+        }
+      ],
+      "_enriched": true
+    },
+    "e33104de-4ea3-482c-8be5-7655d9214d70": {
+      "title": "המורדים",
+      "year": 2002,
+      "category": "סדרות",
+      "description": "סיפורם של ארבעה מתבגרים: פבלו בוסטמנטה, בנו של ראש העיר, סרחיו בוסטמנטה, מתבגר עשיר ופופולרי, מיה קולוצ'י, מתבגרת עשירה ומפונקת, יתומה מאמא ואהובת הבנים, מנואל אגירה, אשר מגיע ממקסיקו לארגנטינה על מנת לנקום את מות אביו, ומריצה פיה ספיריטו, אשר גדלה אצל אמה הדוגמנית והשחקנית, סוניה ריי. ארבעתם, לומדי",
+      "type": "telegram",
+      "video_id": "+7R9jHA7OAxZmMWZk",
+      "video_url": "https://t.me/+7R9jHA7OAxZmMWZk",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/3ROiiGuYqXkm1CKX1h3KtmSvI8z.jpg",
+      "trailer_url": null,
+      "custom_slug": "hmvrdym",
+      "series_name": "המורדים",
+      "season_number": null,
+      "episode_number": 102,
+      "episode_number_end": null,
+      "episode_title": "",
+      "id": "e33104de-4ea3-482c-8be5-7655d9214d70",
+      "created_date": "2026-09-20T06:51:25.750Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6WUb3YhgNSpI2Hk33OKiNi0WKUz.jpg",
+      "tmdb_id": 9027,
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 8.026,
+      "genres": [
+        "דרמת טלוויזיה",
+        "דרמה"
+      ],
+      "en_title": "Rebelde Way",
+      "cast": [
+        "Luisana Lopilato",
+        "Benjamín Rojas",
+        "Camila Bordonaba",
+        "Felipe Colombo",
+        "Ángeles Balbiani",
+        "Jazmín Beccar Varela",
+        "Victoria Maurette",
+        "Diego García",
+        "Jorge Maggio",
+        "Diego Mesaglío",
+        "Pablo Heredia",
+        "Carolina Vespa",
+        "Francisco Bass",
+        "María Roji",
+        "Rodrigo Fraga"
+      ],
+      "duration_seconds": 2700,
+      "imdb_id": "tt0328789",
+      "imdb_rating": "7.7",
+      "network": "Canal 9",
+      "series_status": "Ended",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "The.Guru.2002.1080p.WEBRip.x265-RARBG"
+        },
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "The Guru(2002).DvdRip.XviD.SNR.heb"
+        },
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "The.Guru.DcN.HEB"
+        },
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "Guru, The (2002)"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "THE.GURU.2002.PROPER.DVDRip.XVid.[Illegal-Science] - Good Quality"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Guru.2002.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee.sdh"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "DVDRip.Xvid-LKRG"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "dcn-guru"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
