@@ -11006,6 +11006,383 @@
         }
       ],
       "_enriched": true
+    },
+    "24e389d6-ba87-4bfa-afad-e56ed9f179d8": {
+      "title": "סודות בים הכחול 2: השונית",
+      "year": 2009,
+      "category": "סרטים",
+      "description": "תפסו את הגל בהרפתקת אקסטרים \"סודות הים הכחול: השונית\" המביא את סיפורם של הצוללנים סבסטיאן ודני. הזוג הסקסי הופך ללא ידיעתם להרפתקנים כאשר מבטיחים להם הרבה כסף תמורת ליווי צלילות לאורך השונית של האי. ההרפתקה התת ימית מסבכת אתהזוג ללא הכנה מוקדמת. בעזרתם של לקוחותיהם החדשים, הזוג הצעיר מושלך הישר אל ה",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12151?exp=1790182350&sig=a288fb9bb6762102a978fbd9191220d4",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12151?exp=1790182350&sig=a288fb9bb6762102a978fbd9191220d4",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/qLWOHSfrwWYrm7yic0ACFKGRLAq.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "24e389d6-ba87-4bfa-afad-e56ed9f179d8",
+      "created_date": "2026-09-18T13:06:05.779Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hvTLEVHcn3ZC1uZErMHamxkBI1T.jpg",
+      "tmdb_id": 16931,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.1,
+      "genres": [
+        "פעולה",
+        "הרפתקאות",
+        "מותחן"
+      ],
+      "en_title": "Into the Blue 2: The Reef",
+      "trailer": "TPDTw1KLYmA",
+      "cast": [
+        "Chris Carmack",
+        "לורה ונדרוורט",
+        "David Anders",
+        "מרשה תומאסון",
+        "מירצ'ה מונרו",
+        "Michael Graziadei",
+        "Mark Kubr",
+        "Audrina Patridge",
+        "Theo Coumbis",
+        "Amanda Kimmel",
+        "Parvati Shallow",
+        "Rand Holdren",
+        "Timothy D. Lechner",
+        "Michelle Vawer",
+        "Geoff Heise"
+      ],
+      "duration_seconds": 5520,
+      "imdb_id": "tt0865907",
+      "imdb_rating": "4.7",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "Into.The.Blue.2.The.Reef.2009.720p.HDTV.DD5.1.x264-DON"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Into.The.Blue.2.The.Reef.2009.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Into.the.Blue.2.The.Reef.2009.WEBRip.x264-RARBG"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Into.The.Blue.2;The.Reef.2009.NL-subs.xvid.(DutchReleaseTeam)"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "HDTV"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Heathers.1988.720p.BluRay.x264.YIFY"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "WEBRip"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "WEBRip"
+        }
+      ],
+      "_enriched": true
+    },
+    "ab0240c3-929b-4bb2-95cd-f9bc0691ef16": {
+      "title": "אושן 8",
+      "year": 2018,
+      "category": "סרטים",
+      "description": "חמש שנים, שמונה חודשים ו-12 ימים: זה הזמן שלקח לדבי אושן - אסירה משוחררת - לתכנן את השוד הגדול ביותר בקריירה שלה. אושן, יודעת בדיוק שהצוות שלה חייב להיות מורכב מהטובות ביותר בשוק. אז ביחד עם לו, שותפתה הוותיקה לפשע, היא מגייסת את צוות המומחיות של אושן. התכנית שלה מתוכננת עד לפרט האחרון, אך השינוי הק",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12148?exp=1790182350&sig=a17893c9489f2b6da21d7b8c39a84efa",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12148?exp=1790182350&sig=a17893c9489f2b6da21d7b8c39a84efa",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/oJjilfDccs96oP0YzS4zcEsBje5.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "ab0240c3-929b-4bb2-95cd-f9bc0691ef16",
+      "created_date": "2026-09-18T13:02:59.890Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
+      "tmdb_id": 402900,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.946,
+      "genres": [
+        "פשע",
+        "קומדיה",
+        "פעולה"
+      ],
+      "en_title": "Ocean's Eight",
+      "ar_title": "أوشنس 8",
+      "trailer": "eaxlSd6xnR4",
+      "cast": [
+        "סנדרה בולוק",
+        "קייט בלאנשט",
+        "אן האת'וויי",
+        "מינדי קלינג",
+        "שרה פולסון",
+        "אקוופינה",
+        "ריהאנה",
+        "הלנה בונהם קרטר",
+        "ריצ'רד ארמיטאג'",
+        "ג'יימס קורדן",
+        "Elizabeth Ashley",
+        "דנה אייבי",
+        "Marlo Thomas",
+        "Mary Louise Wilson",
+        "Elliott Gould"
+      ],
+      "duration_seconds": 6660,
+      "imdb_id": "tt5164214",
+      "imdb_rating": "6.3",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A9%D7%9F%208",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Oceans.Eight.2018.1080p.WEBRip.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Oceans.8.2018.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Ocean's.Eight.2018.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Oceans.Eight.2018.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].en"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Ocean's8(2018)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Oceans.Eight.2018.1080p.BluRay.H264.AAC-RARBG"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Oceans.Eight.2018.720p/1080p.BluRay.x264-SPARKS"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Ocean's.8.WEBRip.Netflix.en[cc]"
+        }
+      ],
+      "_enriched": true
+    },
+    "af7a03d0-872f-44f6-b5a7-b1eaf4461379": {
+      "title": "אושן 11",
+      "year": 2001,
+      "category": "סרטים",
+      "description": "דני אושן, אסיר משוחרר, כבר מתכנן את המכה הבאה שלו: שוד בתי הקזינו הדול ביותר בתולדות האנושות. בכוונתו לרוקן את תכולת הכספת של בעל בתי קזינו בלאס וגאס, איש עשיר וטיפוס אכזרי במיוחד, שמנהל רומן עם רעייתו לשעבר . כדי להוציא לפועל את מזימתו, שנחשבת לבלתי אפשרית לאור אמצעי האבטחה המשוכללים הנקוטים בבתי ה",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12149?exp=1790182350&sig=232bd27b29deee42e45ebd3395df9214",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12149?exp=1790182350&sig=232bd27b29deee42e45ebd3395df9214",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/cQqpecDzoDG8kNuoEcpYpywnBlG.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "af7a03d0-872f-44f6-b5a7-b1eaf4461379",
+      "created_date": "2026-09-18T13:03:17.159Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg",
+      "tmdb_id": 161,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.465,
+      "genres": [
+        "מותחן",
+        "פשע"
+      ],
+      "en_title": "Ocean's Eleven",
+      "ar_title": "أوشن 11",
+      "trailer": "n3epi9hPbqQ",
+      "cast": [
+        "ג'ורג' קלוני",
+        "בראד פיט",
+        "אנדי גרסיה",
+        "מאט דיימון",
+        "ג'וליה רוברטס",
+        "קייסי אפלק",
+        "סקוט קאן",
+        "דון צ'ידל",
+        "Elliott Gould",
+        "Eddie Jemison",
+        "ברני מאק",
+        "Shaobo Qin",
+        "Carl Reiner",
+        "Cecelia Ann Birt",
+        "Paul L. Nolan"
+      ],
+      "duration_seconds": 6960,
+      "imdb_id": "tt0240772",
+      "imdb_rating": "7.7",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A9%D7%9F%2011",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Oceans.Eleven.2001.1080p.WEBRip.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Oceans.Eleven.2001.1080p.bluray.mora.25r"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Ocean's.Eleven.2001.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Ocean's Eleven 2001 1080p BluRay x265 HEVC 10bit AAC 5.1-LordVako"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Ocean's.Eleven.2001.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Oceans.Eleven.2001.1080p.BluRay.x265-RARBG_HI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Ocean's Eleven - BRrip"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Oceans.Eleven.2001.BluRay.1080p.DD.5.1.VC-1.REMUX-FraMeSToR"
+        }
+      ],
+      "_enriched": true
+    },
+    "2f177454-a687-424f-80d9-b6f8b29982d9": {
+      "title": "סודות בים הכחול",
+      "year": 2005,
+      "category": "סרטים",
+      "description": "כאשר 4 צוללנים צעירים נתקלים בשברי ספינה במעמקי הים, הם מגלים במהרה כי מדובר בספינה אגדית כשהשמועות מדברות על אוצר זהב החבוי בתוכה השווה מיליונים. החבורה הצעירה מאמינה כי הנה החלום להתעשר מהר עומד להתגשם. אך לצד הספינה הטובעת מסתתר סוד אפל ומסתורי יותר, וארבעתם נשבעים כי הם לא ידברו עם אף אחד על תגל",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/12150?exp=1790182350&sig=acdeca0caea73e1726f894878a388385",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/12150?exp=1790182350&sig=acdeca0caea73e1726f894878a388385",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/jpb8AQTvEDjP6J6b1odqZ0GoQNw.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "2f177454-a687-424f-80d9-b6f8b29982d9",
+      "created_date": "2026-09-18T13:05:08.112Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bgYcrIYjoaoZAJY9rvdwGpyIvrM.jpg",
+      "tmdb_id": 11968,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.9,
+      "genres": [
+        "פעולה",
+        "מותחן",
+        "הרפתקאות",
+        "פשע"
+      ],
+      "en_title": "Into the Blue",
+      "ar_title": "داخل البحر",
+      "trailer": "5uMDUHdN24o",
+      "cast": [
+        "פול ווקר",
+        "ג'סיקה אלבה",
+        "סקוט קאן",
+        "אשלי סקוט",
+        "ג'וש ברולין",
+        "James Frain",
+        "Dwayne Adway",
+        "Chris Taloa",
+        "Tyson Beckford",
+        "Gill Montie"
+      ],
+      "duration_seconds": 6600,
+      "imdb_id": "tt0378109",
+      "imdb_rating": "5.9",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%A1%D7%95%D7%93%D7%95%D7%AA%20%D7%91%D7%99%D7%9D%20%D7%94%D7%9B%D7%97%D7%95%D7%9C",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Into.the.Blue.2005.720p.BluRay.264.YIFY"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "IntoTheBlue2005OSN"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Into the Blue"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Into the Blue 25.000 FPS"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Into.The.Blue.2005.720p.BluRay.x264.AAC-[YTS.MX]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "into.the.blue.2005.bluray.remux.1080p.mpeg-2.dts-hd.ma.5.1"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Into.The.Blue.2005.BRRip.Xvid.AC3.PRoDJi"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Into.The.Blue[2005]DVDrip[ENG]-MissRipZ"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
