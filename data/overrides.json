@@ -8493,6 +8493,376 @@
         }
       ],
       "_enriched": true
+    },
+    "09c514fb-6f98-45f2-a454-95c30a3912dc": {
+      "title": "משימה קטלנית",
+      "year": 2015,
+      "category": "סרטים",
+      "description": "איש גיבור ומלא תעוזה,רוצה לסייע ולעזור לאישה במצוקה. יום למחרת מתעורר ומוצא את עצמו ללא כליות, ובנקודת זמן זו הוא מתחיל להכין ולתכנן את תוכניתו לנקמה...",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/13402?exp=1790182350&sig=38552f446cd7fdbce24012175034c881",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/13402?exp=1790182350&sig=38552f446cd7fdbce24012175034c881",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/lLxgyIuENnjPLeNIoqwIg3XBwJ1.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "09c514fb-6f98-45f2-a454-95c30a3912dc",
+      "created_date": "2026-09-19T22:01:31.709Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5KqLlBfhkS58MVQ9ir4ttyGk2i6.jpg",
+      "tmdb_id": 326284,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 5.758,
+      "genres": [
+        "פעולה"
+      ],
+      "en_title": "Pound of Flesh",
+      "trailer": "RpTrypbMr-Q",
+      "cast": [
+        "ז'אן-קלוד ואן דאם",
+        "John Ralston",
+        "Aki Aleong",
+        "Charlotte Peters",
+        "Darren Shahlavi",
+        "Brahim Achabbakhe",
+        "ג'ייסון טובין",
+        "Andrew Ng",
+        "Philippe Joly",
+        "Mike Leeder",
+        "Temur Mamisashvili",
+        "Marsha Yuan",
+        "Terese Cilluffo"
+      ],
+      "duration_seconds": 6240,
+      "imdb_id": "tt3488328",
+      "imdb_rating": "5.1",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Pound.of.Flesh.2015.BDRip.x264-ROVERS"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Pound.of.Flesh.2015.1080p.BluRay.AVC.DTS-HD.MA.5.1-HDAccess"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Pound.of.Flesh.2015.720p.BluRay.x264-ROVERS"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Pound.of.Flesh.2015.1080p.BluRay.AVC.DTS-HD.MA.5.1-HDAccess"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Pound.of.Flesh.2015.1080p.BluRay.x264.YIFY"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Pound.of.Flesh.2015.HDRip.XviD.AC3-EVO"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Pound of Flesh (2015) 720p WEB-DL.x265 HEVC - Team Encodex265 ( 372MB )"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Pound.of.Flesh.2015.720p.BluRay.x264-ROVERS"
+        }
+      ],
+      "_enriched": true
+    },
+    "f0674767-9884-4781-b360-236d692ffc4a": {
+      "title": "משימה בלתי אפשרית",
+      "year": 1996,
+      "category": "סרטים",
+      "description": "יחידת המשימה הבלתי אפשרית יוצאת לחסל בוגד הפועל בפראג. אבל המשימה משתבשת ומרבית אנשי הקבוצה נהרגים. איתן האנט הניצול נחשד בשיתוף פעולה והוא יוצא לטהר את שמו ולמצוא את הבוגד האמיתי. כפי שבעבר בריאן דה פאלמה הסתמך על סרטי היצ'קוק, הפעם מקור ההשראה העיקרי הוא \"מזימות בינלאומיות\". קולנוע טהור שכולו עונג",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/13411?exp=1790182350&sig=b0c4e8ca5a26406d33a1c29767f9a49f",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/13411?exp=1790182350&sig=b0c4e8ca5a26406d33a1c29767f9a49f",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/wD2FIVOQONnilJn7Wsf3t4v45N5.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "f0674767-9884-4781-b360-236d692ffc4a",
+      "created_date": "2026-09-19T22:08:49.162Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
+      "tmdb_id": 954,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.03,
+      "genres": [
+        "הרפתקאות",
+        "פעולה",
+        "מותחן"
+      ],
+      "en_title": "Mission: Impossible",
+      "trailer": "L8Pbjh4EZRk",
+      "cast": [
+        "טום קרוז",
+        "ג'ון ווייט",
+        "עמנואל ביאר",
+        "הנרי סזרני",
+        "ז'אן רנו",
+        "וינג ריימס",
+        "קריסטין סקוט-תומאס",
+        "ונסה רדגרייב",
+        "Ingeborga Dapkūnaitė",
+        "Valentina Yakunina",
+        "Marek Vašut",
+        "Nathan Osgood",
+        "John McLaughlin",
+        "Rolf Saxon",
+        "Karel Dobrý"
+      ],
+      "duration_seconds": 6660,
+      "imdb_id": "tt0117060",
+      "imdb_rating": "7.2",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "Mission.Impossible.1996.BluRay.1080p.x265.10bit-z97"
+        },
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "* תרגום אולפנים * Mission.Impossible.1996.REMASTERED.1080p.BluRay.x265-RARBG"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Mission Impossible.1996.Netflix SRT"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "Mission Impossible bluray"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "blu-ray-720p-AVCHD"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "تم ضبط التوقيت بواسطة هشام عادل"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Mission.Impossible.1996.REMASTERED.1080p.BR.x265.10bit.AC3.6ch.ESub.S420"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Mission Impossible 1996.DVD5.720p.HDDVD.x264-REVEiLLE.mkv"
+        }
+      ],
+      "_enriched": true
+    },
+    "6fc156a8-10e7-4c2e-b1c5-f2b06e964b90": {
+      "title": "מועדון החברים",
+      "year": 2003,
+      "category": "סרטים",
+      "description": "מיטץ', פרנק וביני מדוכאים מחייהם האישיים - חברתו הניפומנית של מיטץ', היידי, בוגדת בו, לאחר מכן חיית המסיבות, פרנק, מתחתן אבל מסרב בתוקף לוותר על דרך חייו הפרועה ולבסוף ביני שכיום הוא איש משפחה למופת, מחפש דרך להשיב אל עצמו את ימי צעירותו המשגעים והפרועים. לכן מחליט ביני שעל כל השלושה לחבור שוב כדי ל",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/13216?exp=1790182350&sig=aa398d04f32022f9e6cb3e0314612638",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/13216?exp=1790182350&sig=aa398d04f32022f9e6cb3e0314612638",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/9MtI6yJCN5GHPBOxMfSfLFvlXEK.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "6fc156a8-10e7-4c2e-b1c5-f2b06e964b90",
+      "created_date": "2026-09-19T21:03:57.040Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2tZVYiosztNM1DAYUF59VPsNp9L.jpg",
+      "tmdb_id": 11635,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.627,
+      "genres": [
+        "קומדיה"
+      ],
+      "en_title": "Old School",
+      "trailer": "VqtymOtKr48",
+      "cast": [
+        "לוק ווילסון",
+        "ויל פרל",
+        "וינס ווהן",
+        "ג'רמי פיבן",
+        "אלן פומפאו",
+        "Craig Kilborn",
+        "Perrey Reeves",
+        "Sara Tanaka",
+        "ג'ולייט לואיס",
+        "אלישה קאת'ברט",
+        "Jerod Mixon",
+        "Patrick Cranshaw",
+        "ריק גונזלס",
+        "מאט וולש",
+        "שון ויליאם סקוט"
+      ],
+      "duration_seconds": 5520,
+      "imdb_id": "tt0302886",
+      "imdb_rating": "7.0",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Old.School.2003.WEBRip.iTunes"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Old.School.2003.Unrated.720p.BluRay.x264-HiDt"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Old.School.2003.720p.BluRay.x264.AAC5.1-[YTS.MX]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Old School WEBRip"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "Old.School.2003.WEBRip.iTunes"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Old School (2003) DVD.US.Retail"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Old.School.2003.UNRATED.1080p.BluRay.x265-RARBG.en"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Old School (2003) UNRATED [ 01:31:15] incl. CHAPTERS (retail,named&amp;numbered]"
+        }
+      ],
+      "_enriched": true
+    },
+    "bc7dbbc0-7bdf-4340-a5c5-561a99f17447": {
+      "title": "10 דברים שאני הכי שונאת אצלך",
+      "year": 1999,
+      "category": "סרטים",
+      "description": "הכירו את האחיות סטארטפורד : ביאנקה היפה והפופולרית (לריסה אויילניק), אשר מעולם לא יצאה עם בחורים : וקייט (ג'וליה סטיילס), אחותה הגדולה, אותה ניתן לתאר במילה אחת : סוררת !. זוהי בחורה שתעשה הכל כדי להרחיק ממנה כל בחור שמתעניין בה. לא שיש רבים כאלה, בגלל מזגה הסוער.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/13217?exp=1790182350&sig=4bda4e2239f1f8980c1303963ed04a1c",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/13217?exp=1790182350&sig=4bda4e2239f1f8980c1303963ed04a1c",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "bc7dbbc0-7bdf-4340-a5c5-561a99f17447",
+      "created_date": "2026-09-19T21:05:55.239Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yvPbncYhMu9FfTjDhq0N5lgnVkO.jpg",
+      "tmdb_id": 4951,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.597,
+      "genres": [
+        "קומדיה",
+        "רומנטיקה",
+        "דרמה"
+      ],
+      "en_title": "10 Things I Hate About You",
+      "trailer": "GbWQ_VXek6A",
+      "cast": [
+        "הית' לדג'ר",
+        "Julia Stiles",
+        "ג'וזף גורדון-לוויט",
+        "Larisa Oleynik",
+        "דייוויד קרומהולץ",
+        "Andrew Keegan",
+        "Susan May Pratt",
+        "גבריאל יוניון",
+        "לארי מילר",
+        "Daryl Mitchell",
+        "אליסון ג'ני",
+        "David Leisure",
+        "Greg Jackson",
+        "Kyle Cease",
+        "Terence Heuston"
+      ],
+      "duration_seconds": 5820,
+      "imdb_id": "tt0147800",
+      "imdb_rating": "7.4",
+      "subtitles_found": [
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "10-things-i-hate-about-you_hebrew-18012"
+        },
+        {
+          "language": "he",
+          "provider": "opensubtitles",
+          "release": "* תרגום אולפנים * 10.Things.I.Hate.About.You.1999.1080p.BluRay.H264.AAC-RARBG"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "10.Things.I.Hate.About.You.1999.DSNP.WEB-DL-POWER"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "10 things i hate about you"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "10 Things I Hate About You (1999) Bluray-1080p tt0147800"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "10.Things.I.Hate.About.You.1999.10th.Anniversary.Edition.1080p.BluRay.x265-YAWNTiC_eng SDH"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "10.Things.I.Hate.About.You.1999.10th.Anniversary.Edition.1080p.BluRay.x265-YAWNTiC_eng"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "10 Things I Hate About You (1999) [2160p] [BluRay] [x265] [10bit] [5.1] [YTS.MX]"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
