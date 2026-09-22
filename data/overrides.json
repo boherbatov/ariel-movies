@@ -12124,6 +12124,354 @@
         }
       ],
       "_enriched": true
+    },
+    "4b9bdfc4-f613-46f3-b286-b0d59c32fcf1": {
+      "title": "השטן לובשת פראדה",
+      "year": 2006,
+      "category": "סרטים",
+      "description": "בוגרת קולג' מוכנה לסבול כדי להצליח בתפקידה החדש כעוזרת של עורכת עריצה במגזין אופנה, ועל הדרך מגלה שיש לה חוזקות – וגם חוש לאופנה.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11944?exp=1790182350&sig=460b3b480d63f7dfd87aa242cddfba9b",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11944?exp=1790182350&sig=460b3b480d63f7dfd87aa242cddfba9b",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/qp7u4WgmwvUL4WeDz1ha42CHKxw.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "4b9bdfc4-f613-46f3-b286-b0d59c32fcf1",
+      "created_date": "2026-09-18T09:47:02.256Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
+      "tmdb_id": 350,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.435,
+      "genres": [
+        "דרמה",
+        "קומדיה"
+      ],
+      "en_title": "The Devil Wears Prada",
+      "trailer": "6ZOZwUQKu3E",
+      "cast": [
+        "מריל סטריפ",
+        "אן האת'וויי",
+        "אמילי בלאנט",
+        "סטנלי טוצ'י",
+        "סיימון בייקר",
+        "Adrian Grenier",
+        "טרייסי תומאס",
+        "ריץ' סומר",
+        "דניאל סונג'אטה",
+        "David Marshall Grant",
+        "James Naughton",
+        "Tibor Feldman",
+        "Rebecca Mader",
+        "Jimena Hoyos",
+        "Gisele Bündchen"
+      ],
+      "duration_seconds": 6540,
+      "imdb_id": "tt0458352",
+      "imdb_rating": "7.0",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "The.Devil.Wears.Prada.2006.WEBRip.iTunes"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Devil.Wears.Prada.2006.REPACK.1080p.BluRay.x264.AAC5.1-[YTS.MX]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "TheDevilWearsPrada(2006).WEB.AMAZON"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The Devil Wears Prada (2006) eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Devil.Wears.Prada.2006.WEB-DL.TUBI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Devil.Wears.Prada.2006.WEBRip.Amazon"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Devil.Wears.Prada.2006.REPACK.1080p.BluRay.x264.AAC5.1-[YTS.MX]_HI"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Devil.Wears.Prada.2006.REPACK.1080p.BluRay.x264.AAC5.1-[YTS.MX]_NON_HI"
+        }
+      ],
+      "_enriched": true
+    },
+    "735ad0ed-c54c-4fad-bf69-618e10b06a0d": {
+      "title": "נהג חדש",
+      "year": 2025,
+      "category": "סרטים",
+      "description": "אחרי שחברתו הלומדת בקולג' נפרדת ממנו, תיכוניסט בשם ג'רמי גונב את המכונית של המורה לחינוך תעבורתי – כשבתוכה שלושה מחבריו לכיתה – כדי לנסוע לקולג' ולזכות בה בחזרה. כשאחריהם אבטחת בית הספר והמשטרה המקומית, החברים נתקלים בסיטואציות מפתיעות, הזויות, ולעיתים מסוכנות, כשבדרך לומדים דברים משני חיים על עצמם,",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11938?exp=1790182350&sig=29e095bae20aa221ca98988e82b80df6",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11938?exp=1790182350&sig=29e095bae20aa221ca98988e82b80df6",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/12EAdgbd05639s2lHMKrIuCTTGG.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "735ad0ed-c54c-4fad-bf69-618e10b06a0d",
+      "created_date": "2026-09-18T09:43:19.128Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3fs6Encf71ChabAKV6VrnpQRrjV.jpg",
+      "tmdb_id": 1398050,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7,
+      "genres": [
+        "קומדיה"
+      ],
+      "en_title": "Driver's Ed",
+      "trailer": "gdhS8ix1Mbc",
+      "cast": [
+        "סאם ניבולה",
+        "סופי טלגאדיס",
+        "Mohana Krishnan",
+        "Aidan Laprete",
+        "קומייל ננג'יאני",
+        "מולי שאנון",
+        "Lilah Pate",
+        "Tim Baltz",
+        "Bri Giger",
+        "Marley Aliah",
+        "אליסה מילאנו",
+        "אלה סטילר",
+        "Clayton Farris",
+        "Chelcie Lynn",
+        "Jesse Golliher"
+      ],
+      "duration_seconds": 6120,
+      "imdb_id": "tt9308022",
+      "imdb_rating": "6.3",
+      "subtitles_found": [
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "[𝗖𝗼𝗳𝗳𝗲𝗲𝗣𝗿𝗶𝘀𝗼𝗻] 𝗗𝗥𝗜𝗩𝗘𝗥'𝗦 𝗘𝗗 (𝟮𝟬𝟮𝟲) 𝗣𝗥𝗜𝗠𝗘 𝗔𝗠𝗭𝗡 𝗪𝗘𝗕 "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Drivers.Ed.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264 (SDH)"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Drivers.Ed.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264"
+        }
+      ],
+      "_enriched": true
+    },
+    "91289756-e2e0-470f-adcf-57416839b684": {
+      "title": "אנולה הולמס 3",
+      "year": 2026,
+      "category": "סרטים",
+      "description": "אנולה הולמס נוסעת להתחתן במלטה, אבל התלאות באות בעקבותיה: שרלוק נעלם, והיא נשאבת לחקירת המקרה המסוכן שמשבש לה את התוכניות.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11943?exp=1790182350&sig=fd84d82a7cb80aa8b48707059ca27c54",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11943?exp=1790182350&sig=fd84d82a7cb80aa8b48707059ca27c54",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/1hHBDH5svNXdbUcOuyrXeqREShS.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "91289756-e2e0-470f-adcf-57416839b684",
+      "created_date": "2026-09-18T09:43:35.929Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+      "tmdb_id": 1202033,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.734,
+      "genres": [
+        "הרפתקאות",
+        "פשע",
+        "מסתורין"
+      ],
+      "en_title": "Enola Holmes 3",
+      "trailer": "Mi148U4XdCs",
+      "cast": [
+        "מילי בובי בראון",
+        "הנרי קאביל",
+        "הלנה בונהם קרטר",
+        "לואי פרטרידג'",
+        "הימש פאטל",
+        "Sharon Duncan-Brewster",
+        "Hattie Morahan",
+        "Susan Wokoma",
+        "Joe Azzopardi",
+        "Nicholas Aaron",
+        "Michela Farrugia",
+        "David Sterne",
+        "ג'ייסון ווטקינס",
+        "Paul Cawley",
+        "Myron Ellul"
+      ],
+      "duration_seconds": 6540,
+      "imdb_id": "tt32278481",
+      "imdb_rating": "5.8",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "Enola.Holmes.3.2026.NF.WEB.h264-ETHEL"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "[𝗖𝗼𝗳𝗳𝗲𝗲𝗣𝗿𝗶𝘀𝗼𝗻] 𝗘𝗡𝗢𝗟𝗔 𝗛𝗢𝗟𝗠𝗘𝗦 𝟯 (𝟮𝟬𝟮𝟲) 𝗡𝗙𝗫 𝗪𝗘𝗕 "
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Enola Holmes 3 (2026) eng"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Enola Holmes 3 2026 1080p WEBRip x265 DH.en.SDH"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Enola Holmes 3 2026 1080p WEBRip x265 DH.en"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Enola Holmes 3 2026 1080p WEBRip x265 DH.en.forced"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Enola.Holmes.3.2026.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.en"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "Enola.Holmes.3.2026.NF.WEB.h264-ETHEL"
+        }
+      ],
+      "_enriched": true
+    },
+    "02b94ec1-0ac2-4ff4-ab91-17b70cb82e9f": {
+      "title": "זואי האחרת",
+      "year": 2023,
+      "category": "סרטים",
+      "description": "חייה של זואי מילר, סטודנטית מבריקה שעושה התמחות במדעי המחשב ולא מגלה עניין באהבה רומנטית, מתהפכים כאשר זאק, שחקן כדורגל מכללות פופולרי, לוקה באמנזיה וחושב בטעות שזואי היא בת הזוג שלו.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/11937?exp=1790182350&sig=95a75cc4c7b75d15a2590f1cf7a2ae21",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/11937?exp=1790182350&sig=95a75cc4c7b75d15a2590f1cf7a2ae21",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/qicbWmC38SiEuiYTOA7vFxSoSng.jpg",
+      "trailer_url": null,
+      "custom_slug": null,
+      "series_name": null,
+      "season_number": null,
+      "episode_number": null,
+      "episode_number_end": null,
+      "episode_title": null,
+      "id": "02b94ec1-0ac2-4ff4-ab91-17b70cb82e9f",
+      "created_date": "2026-09-18T09:34:46.109Z",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hZgl3mdHx1kfnIIVBdgBAm2sWNI.jpg",
+      "tmdb_id": 912916,
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "tmdb_rating": 6.962,
+      "genres": [
+        "רומנטיקה",
+        "דרמה",
+        "קומדיה"
+      ],
+      "en_title": "The Other Zoey",
+      "trailer": "3vAUkn41zeg",
+      "cast": [
+        "ג'וזפין לנגפורד",
+        "דרו סטארקי",
+        "ארצ'י רנו",
+        "Mallori Johnson",
+        "אנדי מקדואל",
+        "פטריק פביאן",
+        "הת'ר גראהם",
+        "Olive Abercrombie",
+        "Amalia Yoo",
+        "Maggie Thurmon",
+        "Jorge López",
+        "Gabriella Saraivah",
+        "Christie Lynn Smith",
+        "Pierce Lackey",
+        "John Crow"
+      ],
+      "duration_seconds": 5460,
+      "imdb_id": "tt11951276",
+      "imdb_rating": "5.9",
+      "subtitles_found": [
+        {
+          "language": "HE",
+          "provider": "subdl",
+          "release": "The.Other.Zoey.2023.720p.WEBRip.x264-LAMA"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Other.Zoey.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX]"
+        },
+        {
+          "language": "AR",
+          "provider": "subdl",
+          "release": "The.Other.Zoey.2023.Web.H264-RBB"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Other.Zoey.2023.720p.WEBRip.x264.AAC-[YTS.MX]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Other.Zoey.2023.720p.WEBRip.x264.AAC-[YTS.MX]"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Other.Zoey.2023.720p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Other.Zoey.2023.720p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX"
+        },
+        {
+          "language": "EN",
+          "provider": "subdl",
+          "release": "The.Other.Zoey.2023.WEBRip-AMZN"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
