@@ -24883,7 +24883,9 @@
       "title:date with love|2016": 393656,
       "title:the fix|2026": 1228834,
       "title:משפחת רעם העימות הגדול|2026": 1506560,
-      "title:מי אני עכשיו|2026": 1007757
+      "title:מי אני עכשיו|2026": 1007757,
+      "series:לופן|": 96677,
+      "series:לופן|2021": 96677
     },
     "tmdbWeak": {
       "title:קללתו של צ׳אקי|2013": {
@@ -26205,6 +26207,16 @@
         "candidate": null,
         "name": "",
         "checkedAt": "2026-09-22T17:41:16.737Z"
+      },
+      "series:brothers 2026|2026": {
+        "candidate": null,
+        "name": "",
+        "checkedAt": "2026-09-23T13:44:49.838Z"
+      },
+      "series:brothers 2026|": {
+        "candidate": null,
+        "name": "",
+        "checkedAt": "2026-09-23T13:44:49.838Z"
       }
     }
   },
