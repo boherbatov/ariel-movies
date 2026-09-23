@@ -24494,8 +24494,8 @@
         ]
       },
       "2026-09-23": {
-        "views": 48,
-        "plays": 34,
+        "views": 54,
+        "plays": 39,
         "searches": 33,
         "visitors": [
           "BzNAGpn0EDOkMnHL",
@@ -24545,7 +24545,7 @@
         "title": "התנתקות"
       },
       "9b34880f-f029-45ec-aa7b-c84f474987e1": {
-        "plays": 5,
+        "plays": 6,
         "title": "איש הגלידה"
       },
       "the-batman-superman-movie-world-s-finest-17074-7144": {
@@ -24585,7 +24585,7 @@
         "title": "צבי הנינג'ה: יוצאים מהצללים חלק 2"
       },
       "237eec0e-2e2c-4aae-a639-f981bbc5b3a3": {
-        "plays": 1,
+        "plays": 2,
         "title": "לגו באטמן הסרט: גיבורי העל מתאחדים"
       },
       "c3802693-4336-41d4-9828-7e16feb4e04e": {
@@ -24601,11 +24601,11 @@
         "title": "דרגון בול זי"
       },
       "e8b5ee4d-a4a4-4b6a-bd74-3491d4214820": {
-        "plays": 3,
+        "plays": 4,
         "title": "פיראטים!"
       },
       "3e13131f-f927-47c6-b56b-cea44187543c": {
-        "plays": 1,
+        "plays": 2,
         "title": "טום וג'רי: הרעד לי את השפם"
       },
       "hmtym-hmhlkym-ep-s2e1-13480": {
@@ -24627,6 +24627,10 @@
       "febf4ae7-a59b-4dcb-bcbc-2115831abd8f": {
         "plays": 1,
         "title": "אווטאר: כשף האוויר האחרון (לייב אקשן)"
+      },
+      "3a1efc9e-50f7-4536-860c-63ed32ad51ee": {
+        "plays": 1,
+        "title": "הכלה של צ'אקי"
       }
     },
     "zeroSearch": {
@@ -316524,6 +316528,85 @@
       "title": "The Bay",
       "overview": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary.",
       "tmdb_id": 1430698,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb"
+    },
+    "0773498a-5731-46be-8e03-620950f6f2c1:en": {
+      "title": "Evil Follows",
+      "overview": "A husband's fight to save his wife from a demonic possession that began the moment the dybbuk box chose her as its next host.",
+      "tmdb_id": 1741346,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb"
+    },
+    "6a79c238-813d-49f6-ac70-203e35683560:en": {
+      "title": "The Love Hypothesis",
+      "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+      "tmdb_id": 1032863,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb"
+    },
+    "da1ff7f3-7e65-48cb-8ca4-19aee3ddebd0:en": {
+      "title": "Mayday",
+      "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+      "tmdb_id": 1137844,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb"
+    },
+    "48607281-4829-4e81-9874-7c8bac59f614:en": {
+      "title": "The Fix",
+      "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+      "tmdb_id": 1228834,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb"
+    },
+    "062f0a7e-8366-4ae5-ab24-52128caee663:en": {
+      "title": "Jo Koy: Blue in the Face",
+      "overview": "Jo Koy relives a wild dental disaster, recounts getting fired from McDonald's and celebrates his veteran stepdad in this hilariously heartfelt set.",
+      "tmdb_id": 1770859,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb"
+    },
+    "c44ffe82-ad1b-4776-a7a4-b8ff6c5b0293:en": {
+      "title": "Date with Love",
+      "overview": "When a boy’s video to a female star goes viral, it scores him a date with his celebrity crush to the prom. Complications arise when the famous starlet falls for the boy’s small-town teacher.",
+      "tmdb_id": 393656,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb"
+    },
+    "dba7d2fb-85cd-48d9-a59b-2d1d5ec12c56:en": {
+      "title": "Go Team!",
+      "overview": "When their team-building event gets downgraded to a tiny village, a cheese company's staff think it can't get worse — then they learn about the layoffs.",
+      "tmdb_id": 1558568,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb"
+    },
+    "2ba53086-1a03-4edd-ad42-5f70a83c7510:en": {
+      "title": "Clash of the Thundermans",
+      "overview": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",
+      "tmdb_id": 1506560,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb"
+    },
+    "eb3e0ebf-bb7f-47e4-9187-fdb614564ead:en": {
+      "title": null,
+      "overview": null,
+      "tmdb_id": null,
+      "lang": "en",
+      "matched": false
+    },
+    "47a20f06-1bcd-4e43-b0d3-055aeed2201d:en": {
+      "title": "Lupin",
+      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "tmdb_id": 96677,
       "lang": "en",
       "matched": true,
       "via": "tmdb"
