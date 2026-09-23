@@ -316343,6 +316343,14 @@
       "lang": "ar",
       "matched": true,
       "via": "ai"
+    },
+    "tvlsh-kyng-ep-s1e2-14425:en": {
+      "title": "Tulsa King",
+      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+      "tmdb_id": 153312,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb"
     }
   },
   "linkScan": {
@@ -316353,8 +316361,8 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "kQEBYCC3FPBhjT6Z",
-    "tag": "c5+PvkeRRMOcXUb63r+rxA==",
-    "data": "X3t8dQojjjvzmMrbh/UJb2Y0c148H7LX6FK9lSJDm/04nbfu5M9M7ZdORTtkxqnT42OZYtY+RbHFtmwnn0P6v0RHK1TAcEUsSfwHq5ioFqtawtVTWKR5Xl41tJAteMCr/2Ms1XEpC87kWCYNERaxyN3eVOHlZCS8yPXZSlYZ1jBnyTz/KFmizGrVkKU0JMLo4Cu7KgMY1SnYJkg6N7zf2h3keeK93/TogRv71oK0+MLxnTW38wDNETmUMpIxNwaPRITDzREgASYUSg=="
+    "iv": "Wa94ziI6R9q5RioN",
+    "tag": "deqYIQr7DkD+2jHBb03YCA==",
+    "data": "f2c1ZRdTdzcbQADKcsSm8qy1yjxgnueg4FFxJpaklf4Hz8m1hJVFx15q/N0mBT8cOyMRF5XOGul99JcVhEBvpw7eKujR5lwlJ6cSiBuoAfJ3J0V/aRTOjMJdES/ew8Sy0ikL+QDLMMcZhgOz487gaCxi5Aa+HgTRPiwP6+/NSE/ZNnG2kI2tSBlOwbVAXe2zxj1KZ8PKZOu0REjBqSCrYTkTaYOSNWW+LapQ47JVLuCpI1ozoIIVy0inS9VAuW96tFkdixq5EfFhfA=="
   }
 }
