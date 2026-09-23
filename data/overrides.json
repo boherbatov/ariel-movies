@@ -24494,11 +24494,12 @@
         ]
       },
       "2026-09-23": {
-        "views": 2,
-        "plays": 1,
-        "searches": 1,
+        "views": 3,
+        "plays": 2,
+        "searches": 7,
         "visitors": [
-          "BzNAGpn0EDOkMnHL"
+          "BzNAGpn0EDOkMnHL",
+          "WeBwA3f_LltJEa4q"
         ]
       }
     },
@@ -24528,7 +24529,7 @@
         "title": "קופה ראשית | ספיישל וידויים מהקופה"
       },
       "6b766d7f-2613-4a7e-862a-d93077045ab9": {
-        "plays": 1,
+        "plays": 2,
         "title": "התנתקות"
       }
     },
@@ -316401,8 +316402,8 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "tsvJCGSHfSSEAcA0",
-    "tag": "o/8GCVkTX2trk9jiDaSDAw==",
-    "data": "NAgzzwFX4YKKKOoiBa5sNNGmL8y+M2SpNduc4BDBFt199hCjsx0ozr9YpGua83iVdBG+5SZ1nK+zOplyOWe90x6WLpUVcPONi/MGn0keCnsTMvKhUpd5W5TjkfBly/UEAW2stJpsN57Ym+viOLLjqzsie7xponYSOvR2D2sEn3r/KihsLA263aF2X9y5ks7rIDmu9eSxf4ZZ3KSvOQoKGG83gSeIZmpaSyWp5mmAoVh4SkjVzNp2X8pyIK+m4afTy1fPciZjykzWuA=="
+    "iv": "mylgG9EwZuj1QHi8",
+    "tag": "EIH3/JyoUn9ZI/kSPx94vw==",
+    "data": "vt3VlPhm+4AoN8HG/E+2DMMwXAfOLj9tMKgPUGZ7fRw5prWBVNgisFsEyij2Bi7qRRCOMcsCAgPQNP7+hjIdc2l1qXW/HwTaaK8FWGPGzkgLLv/ViG+6Ir5HXjga66NGpcD2oZPQg5AuYV7SUe4waun4rgjJo/ZXqUkmNWlBOMq3B7YjZApvCSkQPEdMWPQljzbndS5ZJSZuWP8ZgBaOc21ApvA9mZXMSqBgz1dDByK3bppiB+lMk8PfAO2mzFWoEUFkjF4m0TM+Hg=="
   }
 }
