@@ -24276,6 +24276,214 @@
       "en_title": "Kupa Rashit | Confessions Special",
       "ar_title": " | اعترافات من الصندوق",
       "suggested_title": "קופה ראשית"
+    },
+    "a50f9fef-59ad-4408-b86f-baf64b9e4d65": {
+      "title": "התנתקות | פרק 2 - הכנה מנטלית",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/mb8pLLNCzytjKKAKiNfv5mLsqvd.jpg",
+      "type": "youtube",
+      "youtube_id": "RCqBNJx5YFI",
+      "video_url": "https://www.youtube.com/watch?v=RCqBNJx5YFI",
+      "source": "admin-smart-import",
+      "discovery_playlist_id": "PLKAKLMQaDhCc",
+      "series_name": "התנתקות",
+      "season_number": 1,
+      "episode_number": 2,
+      "year": 2025,
+      "id": "a50f9fef-59ad-4408-b86f-baf64b9e4d65",
+      "tmdb_id": 299897,
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 9,
+      "genres": [
+        "דרמה"
+      ],
+      "category": "תכני התאגיד",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qfTRkeIkgKqwU4r5yEg0QxAdEvQ.jpg",
+      "description": "הסדרה מתרחשת על רקע הנסיגה מרצועת עזה ופינוי גוש קטיף בשנת 2005 במסגרת תוכנית ההתנתקות, ועוקבת אחר תא\"ל שילה מזא\"ה, חובש כיפה סרוגה ומפקד המבצע, המתמודד עם המשימה הקשה שמעמידה אותו מול הקהילה שלו ובני משפחתו הקרובים – אשתו, נעמה, המתנגדת נחרצות לפינוי גוש קטיף, ואחותו עידית ובעלה מאיר שהם תושבי הגוש. בנם, לביא, מנסה למצוא את מקומו בין קהילת היישוב לבין גלי הים. מנגד, סגנו של מזא״ה, אבינועם ברנר, קיבוצניק, מציג גישה ביקורתית על מדיניות ההכלה של מזא\"ה כלפי המתנחלים",
+      "ar_title": "انفصال",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%94%D7%AA%D7%A0%D7%AA%D7%A7%D7%95%D7%AA%20(%D7%A1%D7%A8%D7%98)",
+      "detected_kind": "series",
+      "_sources": {
+        "tmdb_id": "TMDB",
+        "tmdb_rating": "TMDB",
+        "year": "TMDB",
+        "category": "AI",
+        "thumbnail_url": "TMDB",
+        "backdrop_url": "TMDB",
+        "description": "TMDB עברית",
+        "ar_title": "Wikidata"
+      },
+      "_uncertain": [
+        "category"
+      ],
+      "_enriched": true
+    },
+    "039fc84b-2ce1-4b50-86ac-b9a1d8a3cba0": {
+      "title": "התנתקות | פרק 3 - יש בנו אהבה והיא תנצח",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/mb8pLLNCzytjKKAKiNfv5mLsqvd.jpg",
+      "type": "youtube",
+      "youtube_id": "Jv2oclh2Ps8",
+      "video_url": "https://www.youtube.com/watch?v=Jv2oclh2Ps8",
+      "source": "admin-smart-import",
+      "discovery_playlist_id": "PLKAKLMQaDhCc",
+      "series_name": "התנתקות",
+      "season_number": 1,
+      "episode_number": 3,
+      "year": 2025,
+      "id": "039fc84b-2ce1-4b50-86ac-b9a1d8a3cba0",
+      "tmdb_id": 299897,
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 9,
+      "genres": [
+        "דרמה",
+        "תכני התאגיד"
+      ],
+      "category": "תכני התאגיד",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qfTRkeIkgKqwU4r5yEg0QxAdEvQ.jpg",
+      "description": "הסדרה מתרחשת על רקע הנסיגה מרצועת עזה ופינוי גוש קטיף בשנת 2005 במסגרת תוכנית ההתנתקות, ועוקבת אחר תא\"ל שילה מזא\"ה, חובש כיפה סרוגה ומפקד המבצע, המתמודד עם המשימה הקשה שמעמידה אותו מול הקהילה שלו ובני משפחתו הקרובים – אשתו, נעמה, המתנגדת נחרצות לפינוי גוש קטיף, ואחותו עידית ובעלה מאיר שהם תושבי הגוש. בנם, לביא, מנסה למצוא את מקומו בין קהילת היישוב לבין גלי הים. מנגד, סגנו של מזא״ה, אבינועם ברנר, קיבוצניק, מציג גישה ביקורתית על מדיניות ההכלה של מזא\"ה כלפי המתנחלים",
+      "ar_title": "انفصال",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%94%D7%AA%D7%A0%D7%AA%D7%A7%D7%95%D7%AA%20(%D7%A1%D7%A8%D7%98)",
+      "detected_kind": "series",
+      "_sources": {
+        "tmdb_id": "TMDB",
+        "tmdb_rating": "TMDB",
+        "year": "TMDB",
+        "category": "AI",
+        "thumbnail_url": "TMDB",
+        "backdrop_url": "TMDB",
+        "description": "TMDB עברית",
+        "ar_title": "Wikidata"
+      },
+      "_uncertain": [
+        "category"
+      ],
+      "_enriched": true
+    },
+    "a67cae56-4a69-4230-828d-8c9755de7707": {
+      "title": "התנתקות | פרק 4 - בין המצרים",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/mb8pLLNCzytjKKAKiNfv5mLsqvd.jpg",
+      "type": "youtube",
+      "youtube_id": "vAeSsN1qLCs",
+      "video_url": "https://www.youtube.com/watch?v=vAeSsN1qLCs",
+      "source": "admin-smart-import",
+      "discovery_playlist_id": "PLKAKLMQaDhCc",
+      "series_name": "התנתקות",
+      "season_number": 1,
+      "episode_number": 4,
+      "year": 2025,
+      "id": "a67cae56-4a69-4230-828d-8c9755de7707",
+      "tmdb_id": 299897,
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 9,
+      "genres": [
+        "דרמה"
+      ],
+      "category": "תכני התאגיד",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qfTRkeIkgKqwU4r5yEg0QxAdEvQ.jpg",
+      "description": "הסדרה מתרחשת על רקע הנסיגה מרצועת עזה ופינוי גוש קטיף בשנת 2005 במסגרת תוכנית ההתנתקות, ועוקבת אחר תא\"ל שילה מזא\"ה, חובש כיפה סרוגה ומפקד המבצע, המתמודד עם המשימה הקשה שמעמידה אותו מול הקהילה שלו ובני משפחתו הקרובים – אשתו, נעמה, המתנגדת נחרצות לפינוי גוש קטיף, ואחותו עידית ובעלה מאיר שהם תושבי הגוש. בנם, לביא, מנסה למצוא את מקומו בין קהילת היישוב לבין גלי הים. מנגד, סגנו של מזא״ה, אבינועם ברנר, קיבוצניק, מציג גישה ביקורתית על מדיניות ההכלה של מזא\"ה כלפי המתנחלים",
+      "ar_title": "انفصال",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%94%D7%AA%D7%A0%D7%AA%D7%A7%D7%95%D7%AA%20(%D7%A1%D7%A8%D7%98)",
+      "detected_kind": "series",
+      "_sources": {
+        "tmdb_id": "TMDB",
+        "tmdb_rating": "TMDB",
+        "year": "TMDB",
+        "category": "AI",
+        "thumbnail_url": "TMDB",
+        "backdrop_url": "TMDB",
+        "description": "TMDB עברית",
+        "ar_title": "Wikidata"
+      },
+      "_uncertain": [
+        "category"
+      ],
+      "_enriched": true
+    },
+    "aadfc115-6b40-4814-b499-c32151091e5b": {
+      "title": "התנתקות | פרק 5 ואחרון - האהבה מתה",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/mb8pLLNCzytjKKAKiNfv5mLsqvd.jpg",
+      "type": "youtube",
+      "youtube_id": "WDpbmtNyHIA",
+      "video_url": "https://www.youtube.com/watch?v=WDpbmtNyHIA",
+      "source": "admin-smart-import",
+      "discovery_playlist_id": "PLKAKLMQaDhCc",
+      "series_name": "התנתקות",
+      "season_number": 1,
+      "episode_number": 5,
+      "year": 2025,
+      "id": "aadfc115-6b40-4814-b499-c32151091e5b",
+      "tmdb_id": 299897,
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 9,
+      "genres": [
+        "דרמה",
+        "תכני התאגיד"
+      ],
+      "category": "תכני התאגיד",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qfTRkeIkgKqwU4r5yEg0QxAdEvQ.jpg",
+      "description": "הסדרה מתרחשת על רקע הנסיגה מרצועת עזה ופינוי גוש קטיף בשנת 2005 במסגרת תוכנית ההתנתקות, ועוקבת אחר תא\"ל שילה מזא\"ה, חובש כיפה סרוגה ומפקד המבצע, המתמודד עם המשימה הקשה שמעמידה אותו מול הקהילה שלו ובני משפחתו הקרובים – אשתו, נעמה, המתנגדת נחרצות לפינוי גוש קטיף, ואחותו עידית ובעלה מאיר שהם תושבי הגוש. בנם, לביא, מנסה למצוא את מקומו בין קהילת היישוב לבין גלי הים. מנגד, סגנו של מזא״ה, אבינועם ברנר, קיבוצניק, מציג גישה ביקורתית על מדיניות ההכלה של מזא\"ה כלפי המתנחלים",
+      "ar_title": "انفصال",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%94%D7%AA%D7%A0%D7%AA%D7%A7%D7%95%D7%AA%20(%D7%A1%D7%A8%D7%98)",
+      "detected_kind": "series",
+      "_sources": {
+        "tmdb_id": "TMDB",
+        "tmdb_rating": "TMDB",
+        "year": "TMDB",
+        "category": "AI",
+        "thumbnail_url": "TMDB",
+        "backdrop_url": "TMDB",
+        "description": "TMDB עברית",
+        "ar_title": "Wikidata"
+      },
+      "_uncertain": [
+        "category"
+      ],
+      "_enriched": true
+    },
+    "6b766d7f-2613-4a7e-862a-d93077045ab9": {
+      "title": "התנתקות | פרק 1 - וארשתיך לי לעולם",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/mb8pLLNCzytjKKAKiNfv5mLsqvd.jpg",
+      "type": "youtube",
+      "youtube_id": "35Fwt2tHfm0",
+      "video_url": "https://www.youtube.com/watch?v=35Fwt2tHfm0",
+      "source": "admin-smart-import",
+      "discovery_playlist_id": "PLKAKLMQaDhCc",
+      "series_name": "התנתקות",
+      "season_number": 1,
+      "episode_number": 1,
+      "year": 2025,
+      "id": "6b766d7f-2613-4a7e-862a-d93077045ab9",
+      "category": "תכני התאגיד",
+      "genres": [
+        "דרמה"
+      ],
+      "detected_kind": "series",
+      "_sources": {
+        "tmdb_id": "TMDB",
+        "tmdb_rating": "TMDB",
+        "year": "TMDB",
+        "category": "AI",
+        "thumbnail_url": "TMDB",
+        "backdrop_url": "TMDB",
+        "description": "TMDB עברית",
+        "ar_title": "Wikidata"
+      },
+      "_uncertain": [
+        "category"
+      ],
+      "_enriched": true,
+      "episode_title": "וארשתיך לי לעולם",
+      "tmdb_id": 299897,
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 9,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qfTRkeIkgKqwU4r5yEg0QxAdEvQ.jpg",
+      "description": "הסדרה מתרחשת על רקע הנסיגה מרצועת עזה ופינוי גוש קטיף בשנת 2005 במסגרת תוכנית ההתנתקות, ועוקבת אחר תא\"ל שילה מזא\"ה, חובש כיפה סרוגה ומפקד המבצע, המתמודד עם המשימה הקשה שמעמידה אותו מול הקהילה שלו ובני משפחתו הקרובים – אשתו, נעמה, המתנגדת נחרצות לפינוי גוש קטיף, ואחותו עידית ובעלה מאיר שהם תושבי הגוש. בנם, לביא, מנסה למצוא את מקומו בין קהילת היישוב לבין גלי הים. מנגד, סגנו של מזא״ה, אבינועם ברנר, קיבוצניק, מציג גישה ביקורתית על מדיניות ההכלה של מזא\"ה כלפי המתנחלים",
+      "ar_title": "انفصال",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%94%D7%AA%D7%A0%D7%AA%D7%A7%D7%95%D7%AA%20(%D7%A1%D7%A8%D7%98)"
     }
   },
   "deleted": [
