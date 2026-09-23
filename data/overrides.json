@@ -24495,13 +24495,14 @@
       },
       "2026-09-23": {
         "views": 11,
-        "plays": 5,
-        "searches": 11,
+        "plays": 6,
+        "searches": 12,
         "visitors": [
           "BzNAGpn0EDOkMnHL",
           "WeBwA3f_LltJEa4q",
           "hNM-v71n5ZU6KjCe",
-          "Z4FmpYU2Bu9JYznp"
+          "Z4FmpYU2Bu9JYznp",
+          "lp3xGJq1k66rB8c3"
         ]
       }
     },
@@ -24541,6 +24542,10 @@
       "the-batman-superman-movie-world-s-finest-17074-7144": {
         "plays": 1,
         "title": "באטמן וסופרמן: הסרט"
+      },
+      "live_d23243cd-20e0-4cd3-b47b-3af04936f59a": {
+        "plays": 1,
+        "title": "כאן 11"
       }
     },
     "zeroSearch": {
@@ -316441,8 +316446,8 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "mylgG9EwZuj1QHi8",
-    "tag": "EIH3/JyoUn9ZI/kSPx94vw==",
-    "data": "vt3VlPhm+4AoN8HG/E+2DMMwXAfOLj9tMKgPUGZ7fRw5prWBVNgisFsEyij2Bi7qRRCOMcsCAgPQNP7+hjIdc2l1qXW/HwTaaK8FWGPGzkgLLv/ViG+6Ir5HXjga66NGpcD2oZPQg5AuYV7SUe4waun4rgjJo/ZXqUkmNWlBOMq3B7YjZApvCSkQPEdMWPQljzbndS5ZJSZuWP8ZgBaOc21ApvA9mZXMSqBgz1dDByK3bppiB+lMk8PfAO2mzFWoEUFkjF4m0TM+Hg=="
+    "iv": "vjf/9iwZTGl7AlYD",
+    "tag": "Y1n3A7zGlszwewGwlYdHPQ==",
+    "data": "QiZgBjlOm2+SnlKKArmjBmmLiBlVZZbz+Cu9kdyrN0iW/luwnGXrmbVOGDM6b0uTrMw2z3QmUy1Mf14fUkBm9/f3uRZm4NnlydS8H71c7yEzq117cIB8hZv9MecIv2eoZ5f4JAiL1ys8P5sVFWKs+XAfsB3ab3WPCrnhlK6HvWs3E+A+oMLoLEdzlfw33u1hPg/JorW5idWzViSYvQqWcKG9mdSDwUzy1SgF1FGebZ8E4/tSONgJlWdaLBjV+HE7KX+vNgQ8jZIxnQ=="
   }
 }
