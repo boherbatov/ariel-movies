@@ -24494,16 +24494,18 @@
         ]
       },
       "2026-09-23": {
-        "views": 13,
-        "plays": 8,
-        "searches": 18,
+        "views": 24,
+        "plays": 17,
+        "searches": 22,
         "visitors": [
           "BzNAGpn0EDOkMnHL",
           "WeBwA3f_LltJEa4q",
           "hNM-v71n5ZU6KjCe",
           "Z4FmpYU2Bu9JYznp",
           "lp3xGJq1k66rB8c3",
-          "eyNy7f5mQzLMjZbm"
+          "eyNy7f5mQzLMjZbm",
+          "GhecasF9wUkCb7YG",
+          "BDMLMhCpbwp-JIeO"
         ]
       }
     },
@@ -24541,7 +24543,7 @@
         "title": "איש הגלידה"
       },
       "the-batman-superman-movie-world-s-finest-17074-7144": {
-        "plays": 1,
+        "plays": 2,
         "title": "באטמן וסופרמן: הסרט"
       },
       "live_d23243cd-20e0-4cd3-b47b-3af04936f59a": {
@@ -24551,6 +24553,38 @@
       "021a7d63-2288-486f-a992-b77129c39337": {
         "plays": 2,
         "title": "האודיסאה"
+      },
+      "828d54ad-e3cb-4826-b589-4ac40f2427a6": {
+        "plays": 1,
+        "title": "דרגון בול סופר"
+      },
+      "tzby-hnyng-h-ep-s1e4-5784": {
+        "plays": 1,
+        "title": "צבי הנינג'ה"
+      },
+      "0210d71c-6011-40a9-a2e3-cca69d85ec7a": {
+        "plays": 1,
+        "title": "צבי הנינג'ה חלק 2"
+      },
+      "8421fe6b-0b18-4ad0-aa1f-7e8cf62a5f35": {
+        "plays": 1,
+        "title": "צבי הנינג'ה: יוצאים מהצללים חלק 1"
+      },
+      "hshvtrym-ep-s2e7-14412": {
+        "plays": 1,
+        "title": "השוטרים"
+      },
+      "baa13962-645e-4d77-98cd-2502a495e9fe": {
+        "plays": 1,
+        "title": "צבי הנינג'ה: יוצאים מהצללים חלק 2"
+      },
+      "237eec0e-2e2c-4aae-a639-f981bbc5b3a3": {
+        "plays": 1,
+        "title": "לגו באטמן הסרט: גיבורי העל מתאחדים"
+      },
+      "c3802693-4336-41d4-9828-7e16feb4e04e": {
+        "plays": 1,
+        "title": "סרט לגו באטמן"
       }
     },
     "zeroSearch": {
