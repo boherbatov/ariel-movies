@@ -24495,7 +24495,7 @@
       },
       "2026-09-23": {
         "views": 54,
-        "plays": 39,
+        "plays": 40,
         "searches": 33,
         "visitors": [
           "BzNAGpn0EDOkMnHL",
@@ -24631,6 +24631,10 @@
       "3a1efc9e-50f7-4536-860c-63ed32ad51ee": {
         "plays": 1,
         "title": "הכלה של צ'אקי"
+      },
+      "0773498a-5731-46be-8e03-620950f6f2c1": {
+        "plays": 1,
+        "title": "Evil Follows"
       }
     },
     "zeroSearch": {
@@ -316631,5 +316635,51 @@
     "iv": "vjf/9iwZTGl7AlYD",
     "tag": "Y1n3A7zGlszwewGwlYdHPQ==",
     "data": "QiZgBjlOm2+SnlKKArmjBmmLiBlVZZbz+Cu9kdyrN0iW/luwnGXrmbVOGDM6b0uTrMw2z3QmUy1Mf14fUkBm9/f3uRZm4NnlydS8H71c7yEzq117cIB8hZv9MecIv2eoZ5f4JAiL1ys8P5sVFWKs+XAfsB3ab3WPCrnhlK6HvWs3E+A+oMLoLEdzlfw33u1hPg/JorW5idWzViSYvQqWcKG9mdSDwUzy1SgF1FGebZ8E4/tSONgJlWdaLBjV+HE7KX+vNgQ8jZIxnQ=="
-  }
+  },
+  "customPages": [
+    {
+      "id": "6b248a95-36f6-4bd0-8d2e-6f4cda91559f",
+      "slug": "test-page",
+      "title": "דף בדיקה",
+      "subtitle": "",
+      "icon": "",
+      "dir": "rtl",
+      "published": true,
+      "showInMenu": true,
+      "menuOrder": 0,
+      "theme": {
+        "bg": "",
+        "text": "",
+        "accent": "",
+        "card": "",
+        "bgImage": "",
+        "heroImage": "",
+        "width": "normal",
+        "font": "default",
+        "hideTitle": false
+      },
+      "blocks": [
+        {
+          "id": "u9db6exp0gxz",
+          "type": "button",
+          "align": "center",
+          "bg": "",
+          "padding": 0,
+          "hidden": false,
+          "label": "כפתור בדיקה",
+          "url": "/",
+          "image": "",
+          "icon": "",
+          "target": "auto",
+          "style": "solid",
+          "color": "",
+          "textColor": "",
+          "size": "m",
+          "full": false
+        }
+      ],
+      "created_at": "2026-09-23T21:23:23.096Z",
+      "updated_at": "2026-09-23T21:23:23.096Z"
+    }
+  ]
 }
