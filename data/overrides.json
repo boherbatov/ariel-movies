@@ -24494,9 +24494,9 @@
         ]
       },
       "2026-09-23": {
-        "views": 42,
-        "plays": 30,
-        "searches": 31,
+        "views": 46,
+        "plays": 32,
+        "searches": 33,
         "visitors": [
           "BzNAGpn0EDOkMnHL",
           "WeBwA3f_LltJEa4q",
@@ -24509,7 +24509,8 @@
           "XYubMFhb4Q5OZ0GA",
           "qT0oUkWmOWgkcc8B",
           "4HafTB_xizePrXEz",
-          "4ddAcVEfhJlRJNvk"
+          "4ddAcVEfhJlRJNvk",
+          "ilWGRZfXMz8_KGh4"
         ]
       }
     },
@@ -24613,6 +24614,14 @@
       "mlkvt-ep-s1e1-6122": {
         "plays": 1,
         "title": "גות׳האם"
+      },
+      "9e8a6c1c-444f-4430-81cd-3af8f304a7f6": {
+        "plays": 1,
+        "title": "גרייסי ופדרו: חיות המחמד בפעולה"
+      },
+      "fe8035ba-1d65-4853-b71e-6c0d5227ff5d": {
+        "plays": 1,
+        "title": "מי אני עכשיו?"
       }
     },
     "zeroSearch": {
@@ -24625,7 +24634,8 @@
       "בנות גילמור": 2,
       "gilmor girls": 1,
       "הקוברה": 1,
-      "the mentalist": 1
+      "the mentalist": 1,
+      "אריתואל": 1
     }
   },
   "settings": {
