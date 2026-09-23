@@ -24494,15 +24494,16 @@
         ]
       },
       "2026-09-23": {
-        "views": 11,
-        "plays": 6,
-        "searches": 12,
+        "views": 13,
+        "plays": 8,
+        "searches": 18,
         "visitors": [
           "BzNAGpn0EDOkMnHL",
           "WeBwA3f_LltJEa4q",
           "hNM-v71n5ZU6KjCe",
           "Z4FmpYU2Bu9JYznp",
-          "lp3xGJq1k66rB8c3"
+          "lp3xGJq1k66rB8c3",
+          "eyNy7f5mQzLMjZbm"
         ]
       }
     },
@@ -24546,13 +24547,19 @@
       "live_d23243cd-20e0-4cd3-b47b-3af04936f59a": {
         "plays": 1,
         "title": "כאן 11"
+      },
+      "021a7d63-2288-486f-a992-b77129c39337": {
+        "plays": 2,
+        "title": "האודיסאה"
       }
     },
     "zeroSearch": {
       "צומת מחלר": 1,
       "צומת מילר": 2,
       "לדשות": 1,
-      "פו הדוב": 1
+      "פו הדוב": 1,
+      "ספיידרמן": 1,
+      "spiderman": 1
     }
   },
   "settings": {
