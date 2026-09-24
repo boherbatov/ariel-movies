@@ -24519,14 +24519,15 @@
         ]
       },
       "2026-09-24": {
-        "views": 8,
-        "plays": 11,
-        "searches": 5,
+        "views": 9,
+        "plays": 12,
+        "searches": 8,
         "visitors": [
           "4CtFvDhdclw8FFHo",
           "1gyflAdcqIWc4atZ",
           "I-By34nGTtQH7lL3",
-          "UgiuzstDyXKqX-UD"
+          "UgiuzstDyXKqX-UD",
+          "cc2toutw3cfVohFS"
         ]
       }
     },
@@ -24686,6 +24687,10 @@
       "395186ae-271a-47e0-89d3-cab6df920c2f": {
         "plays": 1,
         "title": "פלאות"
+      },
+      "a2e44c46-0ce7-4a70-9687-488404cb9e75": {
+        "plays": 1,
+        "title": "אגם העצמות"
       }
     },
     "zeroSearch": {
@@ -24700,7 +24705,8 @@
       "הקוברה": 1,
       "the mentalist": 1,
       "אריתואל": 1,
-      "הסרט של אבא שלי": 4
+      "הסרט של אבא שלי": 4,
+      "בלתי ניראה": 1
     }
   },
   "settings": {
