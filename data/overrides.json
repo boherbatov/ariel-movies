@@ -25676,7 +25676,7 @@
         ]
       },
       "2026-09-24": {
-        "views": 56,
+        "views": 57,
         "plays": 64,
         "searches": 29,
         "visitors": [
@@ -332688,6 +332688,14 @@
       "overview": null,
       "tmdb_id": 1058054,
       "lang": "ar",
+      "matched": true,
+      "via": "tmdb"
+    },
+    "53872ee8-d424-4bcf-866d-b687a55c1e3c:en": {
+      "title": "Chickenhare and the Secret of the Groundhog",
+      "overview": "Chickenhare embarks on an epic quest, a mysterious groundhog with the power to reverse time and save his species. His adventure takes a dangerous turn when his group discover they are not the only ones searching for this ancient power.",
+      "tmdb_id": 1215532,
+      "lang": "en",
       "matched": true,
       "via": "tmdb"
     }
