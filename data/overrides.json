@@ -24520,7 +24520,7 @@
       },
       "2026-09-24": {
         "views": 41,
-        "plays": 39,
+        "plays": 40,
         "searches": 26,
         "visitors": [
           "4CtFvDhdclw8FFHo",
@@ -24760,6 +24760,10 @@
       "9c0cf9cb-0868-4a41-8d8b-b50ca821d294": {
         "plays": 1,
         "title": "מכאן 33"
+      },
+      "ea9b73d9-9e4a-4836-864b-e2103a7f9709": {
+        "plays": 1,
+        "title": "ערוץ גוניור"
       }
     },
     "zeroSearch": {
@@ -328957,9 +328961,9 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "g3noUn7O8PB3ZAhM",
-    "tag": "GvRUR8neYa9mJGDKyG8E6Q==",
-    "data": "lzqZnAwu07yqiTgGeqy770bIKKhnH4DcuSW3JtsLGN4v0IaKRCr6z3TCbI3/j3pek8Ip1WmbnTi/eEOSPy+PfnyVrK18hbpDUQESYKAhN6ZXiHZ4O6EL9g0HDzm2vy1VIr9H07gHMQn+UZn3YMd5N0RH+A74aaoJLd85f6hP0WXJSLZtPIMXXTqGuXmBrVZLR7S/lHaNogmZfkSeDmBR98v5ExwoRcMHppThFthdTttmELnAzT8+veVF59IBUoMz6FQGYhITB/hvlGEjSTS9qYNK4RiFsNc/IweyoadE8uCeSnIL/3S+/fjA/2AbaodcQAVub8QATCA1zCV1RJ9EFSi/Brf7oL3NgDrPTl/kz7ONCe8MzTuv1fOaYLxGTpKEqyGo5UhpRkm7RvkfTNaZmob19MPFsW0PNxiRUvKrjFw0BbOli4k6q8tZWE+XYgE/fXBP21PqCsRcxAP1+TQstT5e6Gp7wD7X1xW5CwY6jM6wEG7PdVpUjVWK81g6aNo0Jp4K0QIGB0Q="
+    "iv": "jQoqiUHFNEw791ve",
+    "tag": "xOLk3GWOZaDoMRYW/G6MZg==",
+    "data": "DmuIODawANlIt5I30htxpSechVLZ2usrzx5Z4bPlf9kkcgqudWTOxAHMyOon4KELKN5zdCtZiTRX/VRnGeRNYwnXORfTMjX1EjVb12U+14hsYl0Kde6uvUWxfYc2Iz0kMDdyVQJ0DtawNYg2+RvxKW8r8357FMcbzl75JtJdpY0s5tB06eBbAgXtWtk6zUo44sVCo78vtl9MpC42HFyEGDs9RB31LdOpDyRnObZBr8PvTAIuda0MKuAIbPnJRlOC68Qrib2L3RfiA/vMHoq47CFmyrg+Lb2F9ezZeg0Dyalrzkieg0DiKOoJZ2p2S1xuYi7WfDPieq1FSotoJ9Ll6HYh41Pmhrn9CLS1pOvAuv6ql5gYbYEoB3JGPGN7Dx7E/21e5uco32IcJTaQ8eKhB2diPkl9kkp6WqdldbJYKM0HGPlbDvCANkqmwrmupOWvfhtWgFrNXUelx4yqCAfDcye8fetPHNwmhUK8PTEoHQqbIkAPSxzs8yrLLL8xUgWuwoMasMjakms="
   },
   "customPages": [],
   "contentRequests": []
