@@ -340981,6 +340981,15 @@
   "customPages": [],
   "contentRequests": [],
   "liveCategories": [],
-  "liveChannels": [],
+  "liveChannels": [
+    {
+      "id": "2cdd8f7f27",
+      "name": "ערוץ הכנסת",
+      "url": "https://ariel-movies.onrender.com/?item=knesset",
+      "logo": "https://yt3.googleusercontent.com/n99JlSjcefq2tgim1xSTjaqzEH5oytFR6ywQ-NlvIB5znvCCm8Wolvsf6jizCZUkuKwIQ4RiXQ=s900-c-k-c0x00ffffff-no-rj",
+      "cat": "",
+      "created_at": "2026-09-24T19:44:48.778Z"
+    }
+  ],
   "liveBuiltinCats": {}
 }
