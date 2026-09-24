@@ -24520,7 +24520,7 @@
       },
       "2026-09-24": {
         "views": 41,
-        "plays": 41,
+        "plays": 42,
         "searches": 26,
         "visitors": [
           "4CtFvDhdclw8FFHo",
@@ -24768,6 +24768,10 @@
       "live_4692f62b-3b80-40f4-b345-9fe79b8c61e4": {
         "plays": 1,
         "title": "כאן חינוכית"
+      },
+      "live_e0feb41e-e47b-45ac-9368-c70753f2e1e9": {
+        "plays": 1,
+        "title": "רשת 13"
       }
     },
     "zeroSearch": {
@@ -328965,9 +328969,9 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "muL9if4WZYg10MBg",
-    "tag": "bY14oFWvBXjYHmHYmD1sNg==",
-    "data": "INzUfwFV1p6Ym5rlsVOrDB8aFY1k8MMhKSFB7XNrRVFNzx/zwu+OtyKWKZCuq8QuGvqx3tlt6Jf0y2qYHPY3xW624WMkfP555rbA2ZxwMlM4FODXYidq6o2of8qRYFgiedOhTvqMkK4GY4zn16CugGFykHNvGogG4whSH28KAE6orYdSQghMT9y1eYVVs/rMw+VUuoH1HYFvfLK0u8lsDuvSrUHEpx7NxOgAXKAjzmbfXvhsxcrG1PhgaEy9iSf0kDNO9QvSERlOl4Xn6l/2qlntJq4KZTQnCRswWYiKurFLb3zk/TY4hmqaISIZoc9uisOTNQoY3fkliV3eNhctap/rtIbtvtvb7YhGyHk8+TGB1NUM45A2shInEhQnkRidm9rUUFVBaeq2oKnNj6oq6HjmxrMxM3xxzNgWVIRamkrwY031vx1IVjX71hZuNlXjg+0M52tXxx7QzX4Z3KgCRZXjQo5RqZcZafZ73WC9+cSiEk3xfr3PPlsHF9qcxF1xnZN3gkfaM1w="
+    "iv": "WNzuadf3/gbnIZ+1",
+    "tag": "01lhK1XvrvsIuY+lAculfw==",
+    "data": "N3J1HYhDQwcRYGn8nNZhrYiBLCOpKS1HbnfSwvFf/Hl1Ye9sXX+fNndp0RA7tCTSHaJzIJ5Jy21wAHUfBZ4TTvqyY6uJoGPxaRqJpPKScR7oWqTQLefnLEaMkusB6/ffna97E1XIvm+Y/pgs292zlpqVCCera5sb+KlnA0+Z/e3V4HQKvrX0D9h29d2NpHGjLPup9QcR/t8W2j0Mas4s+hXb3lV+lQ+LDmNkMuFWSt6ywdUqlLM+ura2oM4tsRHqbiSJSb19jxefmra/D/uxrRCzzTI5bSm5sTAJovRazdRuwggwDrntw+LRgn7WIZgRrccdufsY3q/Qxz3szaSGfJdSwtjomgIf3LEs1StE6/FcJkqB8MrLPH9knuxDhQXWraKzUEbPOX0pudBPwr3wNozLPEimpNbNWQTHhMdJAyMsnpsc/HDJtwTH37HXX185yHMHz5w2A56PMmzc2G65WM8WqKrB33JkECVlWqflcPGFg3DbyzSC5QRmJ1p/XdbFajh1S3a1Ej4="
   },
   "customPages": [],
   "contentRequests": []
