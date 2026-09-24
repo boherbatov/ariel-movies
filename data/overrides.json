@@ -24521,7 +24521,7 @@
       "2026-09-24": {
         "views": 9,
         "plays": 12,
-        "searches": 9,
+        "searches": 10,
         "visitors": [
           "4CtFvDhdclw8FFHo",
           "1gyflAdcqIWc4atZ",
@@ -24706,7 +24706,7 @@
       "הקוברה": 1,
       "the mentalist": 1,
       "אריתואל": 1,
-      "הסרט של אבא שלי": 5,
+      "הסרט של אבא שלי": 6,
       "בלתי ניראה": 1
     }
   },
@@ -316695,5 +316695,22 @@
     "tag": "V5+N3KpmX0ExIOgdnJPYVA==",
     "data": "nsSyyA54CnUKF7EkTvVktTVO+aOKiiMKSC+6kDCDrAv07RgSgMoPkjkkc+5CkPyvRI3wGp6oF4iK2Bz/9AetcKKBmqRzrCiywTw+nuQRIFV6G450rAyAx0lc7Ghu+wNieE+CDcy5oc+fZbxZG4uKiiVv7UvWJif4EIFq2IEmR4EkET/1j6YLj+3u4htPot1WOwZS/+Gub387DCfl37e0zztb53qxlsvxryamKL2skAav1Q32ZrVv3vLd7ljD//yHGDhuqaGTU7dD1/RwfVWY2mUjRuLNZDIf9DbNK9Jinb9tfho6UG+dvJTp/gdkVoYvRZHc5Bz21wybxKqutvGUyTRaturN/TAgod6nvMOpiY6cKorM51Vv6su+WETe0J26vP7et0+mnotN9XZJWtWQVtMkFYoNav+Mb4Ay8UsEY42jBD6bBnk5kcbe7fBgvZ5do0sLQK8CuhfZoX5QhqjY8PkNTPZRJYaW8ZNV/kIf1RcyvvxAL7K/0SGgyEsy7TAWs41GEptpE7Y="
   },
-  "customPages": []
+  "customPages": [],
+  "contentRequests": [
+    {
+      "id": "6aeeee2e-a98b-4276-874f-bdb62fdd2bdd",
+      "title": "הסרט של אבא שלי",
+      "details": "",
+      "query": "הסרט של אבא שלי",
+      "lang": "he",
+      "uid": "pke6fwn2dxZMyJbWmnp5EYtXNRf2",
+      "name": "",
+      "email": "rq-test-1790245268@example.com",
+      "status": "new",
+      "reply": "",
+      "created_at": "2026-09-24T10:21:23.048Z",
+      "updated_at": "2026-09-24T10:21:23.048Z",
+      "user_updated_at": ""
+    }
+  ]
 }
