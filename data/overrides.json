@@ -332756,11 +332756,12 @@
   "liveChannels": [
     {
       "id": "e41fd26dff",
-      "name": "ערוץ בדיקה",
-      "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
-      "logo": "https://github.com/github.png",
+      "name": "ערוץ בדיקה ערוך",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "logo": "https://github.com/octocat.png",
       "cat": "",
-      "created_at": "2026-09-24T19:27:40.340Z"
+      "created_at": "2026-09-24T19:27:40.340Z",
+      "updated_at": "2026-09-24T19:28:10.092Z"
     }
   ],
   "liveBuiltinCats": {}
