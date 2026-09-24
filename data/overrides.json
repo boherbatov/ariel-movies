@@ -24520,7 +24520,7 @@
       },
       "2026-09-24": {
         "views": 41,
-        "plays": 44,
+        "plays": 45,
         "searches": 26,
         "visitors": [
           "4CtFvDhdclw8FFHo",
@@ -24540,7 +24540,8 @@
           "QJcY4K-Vt5DhKEvW",
           "A7vkB0nwsWrkZ56t",
           "VQpwPHA7U_nxwH2Z",
-          "xI8KUg34hozXFL8R"
+          "xI8KUg34hozXFL8R",
+          "bG8HD5sAcI4KYjkZ"
         ]
       }
     },
@@ -24582,7 +24583,7 @@
         "title": "באטמן וסופרמן: הסרט"
       },
       "live_d23243cd-20e0-4cd3-b47b-3af04936f59a": {
-        "plays": 8,
+        "plays": 9,
         "title": "כאן11"
       },
       "021a7d63-2288-486f-a992-b77129c39337": {
@@ -328961,6 +328962,22 @@
       "overview": null,
       "tmdb_id": 97177,
       "lang": "ar",
+      "matched": true,
+      "via": "tmdb"
+    },
+    "54ed7285-f0df-48db-9f0f-509807187167:en": {
+      "title": "Bros",
+      "overview": "After receiving some shocking news, two best friends travel from Jerusalem to Krakow for a football match, hoping to leave their troubles behind.",
+      "tmdb_id": 251842,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb"
+    },
+    "d2a039a7-42fa-46aa-b896-f8ebbb838580:en": {
+      "title": "The Pumpkin Eater",
+      "overview": "Jo, the mother of seven children, divorces her second husband in order to marry Jake, a successful but promiscuous screenwriter. Though they are physically and emotionally compatible, they are slowly torn apart.",
+      "tmdb_id": 69557,
+      "lang": "en",
       "matched": true,
       "via": "tmdb"
     }
