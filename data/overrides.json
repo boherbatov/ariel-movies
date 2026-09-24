@@ -332745,5 +332745,15 @@
       "id": "0fe7d9c8",
       "name": "ספורט"
     }
+  ],
+  "liveChannels": [
+    {
+      "id": "26d4c09cfd",
+      "name": "ערוץ בדיקה חדשות",
+      "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+      "logo": "https://github.com/github.png",
+      "cat": "4517b569",
+      "created_at": "2026-09-24T16:46:36.790Z"
+    }
   ]
 }
