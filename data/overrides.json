@@ -332747,16 +332747,10 @@
   "contentRequests": [],
   "liveCategories": [
     {
-      "id": "4517b569",
-      "name": "חדשות"
-    },
-    {
       "id": "0fe7d9c8",
       "name": "ספורט"
     }
   ],
   "liveChannels": [],
-  "liveBuiltinCats": {
-    "kan11": "4517b569"
-  }
+  "liveBuiltinCats": {}
 }
