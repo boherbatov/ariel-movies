@@ -316696,22 +316696,5 @@
     "data": "kl/GhrZjgRh9NYhyhI93g6Sh1xkLYhxT3i4A6F5U7DHDC40OluvCi8MEt6Go63pQK/LHGkcDFDh0LFD8EJHjygsRvhgd7TYNJkDXCApJijniCflnxqffjye7RvshVxHY7kv/l/J6Xkhu1it2YfQsM4qbNKb46vqFH8wBOIwhq28KTDJOf6mYDAcE6JXAAKmn9xfOMOKPwnDb63pwxymxvF2yYVBMjpAZovu+jty9GC9NP5Yo0W6Ctmxi9Xoyqt+Gz6h20aG+3xDtVjG15A+siwSJvSDqzeuuoJXJipIxOb7Z2X3gjx7UsADQViV36mu3DlfTfnexx8/UCUDQeedu25bkbwq6EA/MzRHKLj+yBENmE3mEYblxhhUgVi971qZLeJ1ieCKUa0i6dRqjxohBlk9Q6SVrve0sdaug+3jFyqYKXLLaI9cjj5OH9v18zvihHrQBeRCbzsiqutuUjoskCv7a/pfIg97MSu4mE8adLQaXYCsmN/kII77AlJ4NDwUKit+s0OLah4g="
   },
   "customPages": [],
-  "contentRequests": [
-    {
-      "id": "6aeeee2e-a98b-4276-874f-bdb62fdd2bdd",
-      "title": "הסרט של אבא שלי",
-      "details": "",
-      "query": "הסרט של אבא שלי",
-      "lang": "he",
-      "uid": "pke6fwn2dxZMyJbWmnp5EYtXNRf2",
-      "name": "",
-      "email": "rq-test-1790245268@example.com",
-      "status": "done",
-      "reply": "תודה על הבקשה! אנחנו בודקים את זה (הודעת בדיקה)",
-      "created_at": "2026-09-24T10:21:23.048Z",
-      "updated_at": "2026-09-24T10:24:07.860Z",
-      "user_updated_at": "2026-09-24T10:24:07.860Z",
-      "replied_at": "2026-09-24T10:22:32.075Z"
-    }
-  ]
+  "contentRequests": []
 }
