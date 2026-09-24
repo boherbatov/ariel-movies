@@ -332755,16 +332755,7 @@
       "name": "ספורט"
     }
   ],
-  "liveChannels": [
-    {
-      "id": "75233d6921",
-      "name": "ערוץ בדיקה ספורט",
-      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "logo": "https://example.com/missing-logo.png",
-      "cat": "0fe7d9c8",
-      "created_at": "2026-09-24T16:46:55.610Z"
-    }
-  ],
+  "liveChannels": [],
   "liveBuiltinCats": {
     "kan11": "4517b569"
   }
