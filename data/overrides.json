@@ -25677,7 +25677,7 @@
       },
       "2026-09-24": {
         "views": 70,
-        "plays": 88,
+        "plays": 91,
         "searches": 31,
         "visitors": [
           "4CtFvDhdclw8FFHo",
@@ -25752,7 +25752,7 @@
         "title": "באטמן וסופרמן: הסרט"
       },
       "live_d23243cd-20e0-4cd3-b47b-3af04936f59a": {
-        "plays": 18,
+        "plays": 19,
         "title": "כאן11"
       },
       "021a7d63-2288-486f-a992-b77129c39337": {
@@ -25936,7 +25936,7 @@
         "title": "ערוץ גוניור"
       },
       "live_4692f62b-3b80-40f4-b345-9fe79b8c61e4": {
-        "plays": 4,
+        "plays": 5,
         "title": "כאן חינוכית"
       },
       "live_e0feb41e-e47b-45ac-9368-c70753f2e1e9": {
@@ -26006,6 +26006,10 @@
       "breaking-bad-ep-s1e3-13426": {
         "plays": 1,
         "title": "שובר שורות"
+      },
+      "live-2cdd8f7f27": {
+        "plays": 1,
+        "title": "ערוץ הכנסת"
       }
     },
     "zeroSearch": {
@@ -340974,9 +340978,9 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "QCR2iYxCHrGc+EWN",
-    "tag": "yIyrclG9Z5A+5N3/9vb/tw==",
-    "data": "oBxt3bJa6iUIuzUWpj/sBVTA45sbSecT27fi/v2EdLkDqEV8l5Him0jdbPDzKFhiA3VqS+r94ZUY8clzsxEKoe22TfDxY2fBF+RU6BoALcXKdapgix8OyI5sfMLR5VJDy993YdUmtoq2uLtuSu+hr/RnCO11/G7H5x8eYrcog2W9AxDmAc/fh5ZXVzcHxrLebn5+OsPw2EUn2uM2qI1Y9jJYtdwt0oVSySVKQS2X/oeYznhLizwhL6zDIpUa3jW6e6gnStOC8fLj8BhcB4rOr0zX/UZYe1TPYcrtLSsGhtdKmwqRb5BuhSfvkFGWQavcH4nDJmrx4nOzkjt2JN2RgFOWGvIBjvNCt87nYuuvLNPXQIwJX1t2PsPeIPzBjam+8DyeL4RzveQQQ7tiFjyxZ+q8vDb3qIBlDBh5f7JPdKHqqiAdmXQBMxKAsSZ4gB8r6Z/5uZQwNhGrJb8YpzoZyp1oqVw4evY98m+0+vHOWpUQBClmOIcTgVipM2HLVdL8x6a6BMZ81o0="
+    "iv": "FFncJ7SoqHhhSwbC",
+    "tag": "wSyawS2FKAfIIN2RDu+dSQ==",
+    "data": "ggWAqLKJb3HOtOT1iz84HS3AME4LJF8bJrmH2yAHtDkdkJ0rYXNitupAoqwsCSEzhpz3c929chA/xSmLvk0T0x1QO3Cxxks2GTw6LRJmMgmIJNuL9K4hOmUZFvIiw+4XeTHm+NVEgyeTixZceMENKhh0y5KNjZmAfcvCjULw4paoH4E7jzdfy/EuQOLLVM9cqzNurHnDhteljLlQHYcYBWyMQutF/mhu/uCaZ6PzRko/xYV6Si819n9KzrLpomItUDqBeEuScSc3rcEfBN8OcJMXuFKc2ERGRrv8CVFxpGRSU1KhejBwUngW1ycyPDocy7aOwx8DYp6QoTHoZfn+qaG79hmgV6m2k6hFORJsOwMdVZbbrMRdRzNNN5cKh+Fl9YKs5mHONEpuSy+ARN3E6ElffqOJCTwRqE91vlkyjHqSN3B/Vrm+mFNHHxz4HsejZ+2SBAKuTTCeRaIptfugdcYBp8LX8pJCrFBXnzecZNB0Ai3qd2tHQeJ2aJ/faUb/JE6QomEgFnE="
   },
   "customPages": [],
   "contentRequests": [],
