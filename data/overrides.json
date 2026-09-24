@@ -25677,7 +25677,7 @@
       },
       "2026-09-24": {
         "views": 70,
-        "plays": 93,
+        "plays": 94,
         "searches": 31,
         "visitors": [
           "4CtFvDhdclw8FFHo",
@@ -26010,6 +26010,10 @@
       },
       "live-2cdd8f7f27": {
         "plays": 2,
+        "title": "ערוץ הכנסת"
+      },
+      "live_786dcd3c-ca5b-464e-9975-9c288dbecaba": {
+        "plays": 1,
         "title": "ערוץ הכנסת"
       }
     },
@@ -340979,9 +340983,9 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "wA5zCkQhbY0QjLVr",
-    "tag": "wuzxvCJGfmI7rpqPWdBh1w==",
-    "data": "TPwbsJaQnuugLjJV9VfDiu4HIZ5yboQ8U7Drky04hxUh4tqms0sqjQSIP1/76LoBz4YsYJFUOTlrwhf0q7B9s+ljYlYa7luN+22xBOgxQa4eNMF2E2X17qT3KpJP4m6Zzb7+LW4IONHT0NQbaRwywKFKAxv19+1WCcWuDO+30ZH966BL1GcYy/gUS7ZCnFu4c11eKu/WVQ5q3l075OfuuXTeld2K2kKCWrn731eJj97GCX4NcuvifFU9Q1cmBoHRcPY6dvho02kpWaBzmo2UcurZBpfsZzTGL9XczOWAyquOssAl60yhApVNXf8PYvswx0liGc/9SZK5O4znuqzseaJ+tPvXuoASFlpqQMg2GIOi1qpJvYx2BVrW9HGFnF8k0kZixGk3bMRVov2Ck5SlSr8U1W1GPOHhg3JoL61gmcg5bTnXXNbmBZq5bOHGi/A/1ENd/e0S/2IERCePmvGxUHl6FplKoCDdR245q8l4Pz8uppl89w5T8Tz0JxtLfDr3K/BN/k2zZsQ="
+    "iv": "8kwSw6iLHJxJpVXw",
+    "tag": "35l7EnGz66t7SF9pTGXrIA==",
+    "data": "2PTVgjzn+Mjr11VygfJcPqiaQ4zMl6tfTWPg5POjkHbclx4umkWfV5qnE4cVCI0j6qq3hHmRmErcSXGu7gzzDuPXVJpOx+haxtkloEIum+PDujBIfrPn1jhG3JcS9+7IyiO2Qp6yhHYGVoNQnCPJIs4w73h1UOXpr6gA8bb8EX1soPiaLGGicUHtXxulWXXmJ4hGhGbArQvUeaUK2vfPSisNSMgoR242LXP05ldQNbgEdfQAI+M5T2p13PwRb9+kxynzc4nipwQwEmV6qnr94sTLXpTs/ztDTjJFZnSZUZKNVfhrIdqL/zZpBBLXfTT5LIv5IsnnxESWNQ5VRI9o2uy8P+weYddA+vvgEAaU361HRpptO9AjTNgGuSSptTdtOfnoQBBfCYBwGhNCqTv6ZucI5RbQWy+MjR7Nx5PLQLCdf0n/wzYnUPrxUJpdnR+NVzaJx38wD/+Lnm1oA8djsBib0qTbkfSUgbBwMSd866A2sn0DRScUT8ytsYtQCgav86U2Bq8Burs="
   },
   "customPages": [],
   "contentRequests": [],
