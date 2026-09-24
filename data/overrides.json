@@ -24519,8 +24519,8 @@
         ]
       },
       "2026-09-24": {
-        "views": 40,
-        "plays": 31,
+        "views": 41,
+        "plays": 33,
         "searches": 26,
         "visitors": [
           "4CtFvDhdclw8FFHo",
@@ -24536,7 +24536,9 @@
           "_YSKDq9VZ-AxpH0w",
           "YOqdWcoHQn86bYeR",
           "JtC0HhnqJGGM7Ov9",
-          "QpFywptIzU8K-6km"
+          "QpFywptIzU8K-6km",
+          "QJcY4K-Vt5DhKEvW",
+          "A7vkB0nwsWrkZ56t"
         ]
       }
     },
@@ -24614,7 +24616,7 @@
         "title": "לגו באטמן הסרט: גיבורי העל מתאחדים"
       },
       "c3802693-4336-41d4-9828-7e16feb4e04e": {
-        "plays": 1,
+        "plays": 2,
         "title": "סרט לגו באטמן"
       },
       "the-rookie-ep-s8e2-10384": {
@@ -24748,6 +24750,10 @@
       "hbvrr-ep-s1e4-9096": {
         "plays": 1,
         "title": "הבורר"
+      },
+      "be446d51-f3f4-417f-8126-fea9a109185b": {
+        "plays": 1,
+        "title": "FREE TV סרטים"
       }
     },
     "zeroSearch": {
@@ -328941,9 +328947,9 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "Ce6nCeBNe4LvBKc7",
-    "tag": "dFtPxk2GCqo+r5FTcSbz1g==",
-    "data": "4qUyw5T1RHxEGQ6JFv9wU0zpQ9jWsgmlugU4d9yqpXvVroEXjeZ5GTsrFgSlRpJjfDP4NHZ1lYtNBluelUBrx01opFgH+bNPqyenARjN+BbxQ/TFN1Be2q1+hv7MJPmX0ogP4f0J+he6JtoIekNiEkXFAbTrieBA5yyTUfmqxnXDiU8sPRTAYG4UPXpyw1/28ODWjt76wnSUEOs3ao+92utLxkOK7+OcgVgp0OtMZsn4rtl2JxEW919wBnJqNrJfuD/DpeZ8KlwB7nFeV40Hh8dTfJTkfN8Huq/yZaHxv669OufUO4Hv+xRsj1HbDdIWGcJYMMhjVBWv7wCwJDmlQJx2BhNGALM95EHHo1QyaCLR4mknJ4xl1AlAp8UzMNwl7pwdhbb02cFB/0REnGTJD5jMyBajt9afTvTwKjuZsAD4k9H+hDqLnAbmZLHM6oITCCCO6prB0taNeS+JqvJfgy4gDDdst7V5wIWcMhQdTY9YKtPN9quOPBsoxUHCwNHlqzGZ1DAE8ok="
+    "iv": "lOZToApiVKzzrYO6",
+    "tag": "aq4848oL0RNU8J3gG0PXJA==",
+    "data": "Qu0xENO5UwKKtXuxEJjp+aaDXqSnlTptaf+5KZawf30HaAY3WuU3Sreh582rGgkrmEhug7hBde675OXDy8p99gCjM65uRDIBDJCPT9gIOt2HhRaO1KWmXstp2pwJp3L5SRZ1QkV6bvoez/ljKFbaqmCMu8gyIzQ3csKQhKomw+XUI19U5avnUFRYezK1cmZ5vtIBkJeqBDzujJ6ULa2il8AqhRjAL7ISfoIADH1cVIhT4O/CTvZOnz1Z/MRqLvbzcsVwfXcPhPq5mfyA+xtmzmUaTB/8CvOObBZLYxMTQ19f3Au+4M/cdqr1kbCEzkWoVq3cEbFNkcrp1wbz3MpIW17iHiOFIoglWNszDpEbYNkyaFku8QJhKtUdL7DgfX7T1XwC/eeq3esr4B3ErKs6yeXPjrPkTIp+4NA3uhSMVWlFdFquMiu3bxWXrtxeHxECYEQemQ23c90nqiy39VFSIOsZ+M6T0kqTA4ma/H5W5nNxUxQBZBgURMC7i+0n0Ks8UiOu+1N3x3A="
   },
   "customPages": [],
   "contentRequests": []
