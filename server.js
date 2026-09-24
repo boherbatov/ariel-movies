@@ -74,7 +74,7 @@ function __tmdbFix(x){if(!x||!x.series_name)return x;let tf=(typeof overrides!==
 // Episode dedupe: (1) same slot + same video -> keep the richer record; (2) same video listed as several episodes of one series (source numbering errors) -> keep the lowest season/episode; (3) same episode slot from several sources (Telegram vs Kan copies) -> keep one copy: the probed-playable pick from data/ep-slot-prefs.json, else prefer Kan/YouTube, then other direct links, then the richer record. Hidden ids still resolve to the kept copy, so history and continue-watching keep working.
 let __epSlotPrefs={};try{__epSlotPrefs=JSON.parse(fs.readFileSync(path.join(ROOT,'data/ep-slot-prefs.json'),'utf8'))}catch(e){console.error('ep slot prefs',e.message)}
 function __isEp(x){return x.series_name&&x.episode_number!=null&&x.episode_number!==''}
-function __epVk(x){let v=String(x.video_url||x.video_id||''),sm=v.match(/\/stream\/(-?\d+)\/(\d+)/);if(sm)return 'tg:'+sm[1]+'/'+sm[2];if(x.youtube_id)return 'yt:'+x.youtube_id;if(/^https?:/.test(v))return 'url:'+v.split('#')[0].replace(/\?.*$/,'');return ''}
+function __epVk(x){let v=String(x.video_url||x.video_id||''),sm=v.match(/\/stream\/(-?\d+)\/(\d+)/);if(sm)return 'tg:'+sm[1]+'/'+sm[2];if(x.youtube_id)return 'yt:'+x.youtube_id;if(x.type==='kaltura'&&/^\d+$/.test(v))return 'kaltura:'+v;if(/^https?:/.test(v))return 'url:'+v.split('#')[0].replace(/\?.*$/,'');return ''}
 function __epSlot(x){return String(x.series_name).trim()+'|'+String(x.season_number||1)+'|'+String(x.episode_number)}
 function __epSc(o){return Object.values(o).filter(v=>v!==null&&v!==undefined&&v!==''&&!(Array.isArray(v)&&!v.length)).length}
 function __epPick(slotKey,cands){let pid=__epSlotPrefs[slotKey];if(pid){let f=cands.find(x=>String(x.id||x.custom_slug)===pid);if(f)return f}let rk=x=>{let v=__epVk(x);return v.startsWith('yt:')?2:v.startsWith('url:')?1:0},best=cands[0];for(let x of cands.slice(1))if(rk(x)>rk(best)||(rk(x)===rk(best)&&__epSc(x)>__epSc(best)))best=x;return best}
@@ -354,7 +354,6 @@ async function runLinkScan(batchSize){let items=scanTargets();overrides.linkScan
 let titleTrState={running:false,stop:false,done:0,total:0,translated:0,failed:0,lang:'',retry:false};
 async function runTitleTranslate(langs){overrides.translations=overrides.translations||{};let items=merged().filter(x=>x&&(x.id||x.custom_slug)&&(x.title||x.series_name)),cache=new Map(),sinceSave=0;for(let lang of langs){let queue=items.filter(x=>{let t=overrides.translations[String(x.id||x.custom_slug)+':'+lang];return titleTrState.retry?!t||!t.title:!t});titleTrState.lang=lang;titleTrState.total=queue.length;titleTrState.done=0;for(let n=0;n<queue.length&&!titleTrState.stop;n+=4){await Promise.all(queue.slice(n,n+4).map(async x=>{let id=String(x.id||x.custom_slug),ck=id+':'+lang;try{let out=await localizedTitle(x,lang,cache);if(out.matched){overrides.translations[ck]={...out,overview:null};titleTrState.translated++}else{if(!out.transient)overrides.translations[ck]=out;titleTrState.failed++}}catch(e){titleTrState.failed++}titleTrState.done++;sinceSave++}));if(sinceSave>=500){sinceSave=0;await saveOverrides().catch(e=>console.error('titletr save',e.message))}}}await saveOverrides()}
 setInterval(()=>{if(analyticsDirty>0){analyticsDirty=0;saveOverrides().catch(e=>console.error('analytics flush',e.message))}},10*60000).unref();
-
 
 
 
