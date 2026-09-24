@@ -332745,12 +332745,7 @@
   },
   "customPages": [],
   "contentRequests": [],
-  "liveCategories": [
-    {
-      "id": "0fe7d9c8",
-      "name": "ספורט"
-    }
-  ],
+  "liveCategories": [],
   "liveChannels": [],
   "liveBuiltinCats": {}
 }
