@@ -332735,5 +332735,11 @@
     "data": "s/eXdUDGfWIOJWo9vNbWJ39NZ1E5eGMPyjqTKIDocLPplqjzU+JQllPF3Vx2GAULitgYQKBROJsMLHGDvqFz5w1rlbHMvvMLxHW1tj6bGJGvKOhSDiqSW13MdYksBoDvfVXG/AEvmAp18q8aY4SnyDi3I1yUYgiwLobRrWRvpMn/4SFc6pC/dQgJIFOPJ4h4RmXYHOixRt+VnVLpVUfwoppewm6ShoRgjy3y1ode4N7f8+nuKJtK0pxvCF0MPyruNWAkwns03PkQByk84fjnFV4Lnz/K6StBo/W1qMISpqOSqEdStDlRscTB8Nd0FxgFCxmjTRlYMO+MSP1moAO4tWs5qI5RmqmI0A52zG60zQ2ns+vsznRZEiVo089u0UyDDW60ZLvIvzaY1gjfx0Vt/Ai7LuHnclebkKLKH4pkJUE6VKwF+DiaXManISdqA2/Y6M8rwQ3O8Ato89J/awcmy2Oqi7l6tMUVuN4ILzwTwq8ICXoDOXqhjnYEGkqQCl6PWVD2jlwdT7w="
   },
   "customPages": [],
-  "contentRequests": []
+  "contentRequests": [],
+  "liveCategories": [
+    {
+      "id": "4517b569",
+      "name": "חדשות"
+    }
+  ]
 }
