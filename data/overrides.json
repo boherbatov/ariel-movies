@@ -25676,7 +25676,7 @@
         ]
       },
       "2026-09-24": {
-        "views": 70,
+        "views": 71,
         "plays": 94,
         "searches": 31,
         "visitors": [
@@ -25711,7 +25711,8 @@
           "dhzt6shsEypPWl4K",
           "-is51rS6o0tiuwF-",
           "ztzAkFDk4_MP6nio",
-          "qH61SUmHP3U7RweD"
+          "qH61SUmHP3U7RweD",
+          "w8KxOeB7qtI2pgbg"
         ]
       }
     },
@@ -355734,6 +355735,42 @@
       "lang": "ar",
       "matched": true,
       "via": "ai"
+    },
+    "dm-r-ep-s1e5-10452:en": {
+      "title": "Batman: Bad Blood",
+      "overview": "When Batman goes missing, it takes the entire Bat \"family\" - including Batwoman and Batwing - to keep the peace in Gotham and unravel the mystery behind the Dark Knight's disappearance.",
+      "tmdb_id": 366924,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb",
+      "tmdb_kind": "movie"
+    },
+    "hsypvr-shlnv-ep-s1e3-14198:en": {
+      "title": "The Story of Us with Morgan Freeman",
+      "overview": "Morgan Freeman travels the globe in search of an answer to one fundamental question for humanity: what are the common forces that bind us together?",
+      "tmdb_id": 74236,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb",
+      "tmdb_kind": "tv"
+    },
+    "ceaee890-3512-48ae-81c6-7fae04c28dc7:en": {
+      "title": "Avatar: The Last Airbender",
+      "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+      "tmdb_id": 246,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb",
+      "tmdb_kind": "tv"
+    },
+    "tzyydy-htrvlym-sypvry-rkdyh-ep-s3e13-3681:en": {
+      "title": "Trollhunters: Tales of Arcadia",
+      "overview": "After uncovering a mysterious amulet, an average teen assumes an unlikely destiny and sets out to save two worlds.",
+      "tmdb_id": 68267,
+      "lang": "en",
+      "matched": true,
+      "via": "tmdb",
+      "tmdb_kind": "tv"
     }
   },
   "linkScan": {
