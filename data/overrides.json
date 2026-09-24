@@ -25676,9 +25676,9 @@
         ]
       },
       "2026-09-24": {
-        "views": 42,
-        "plays": 55,
-        "searches": 26,
+        "views": 56,
+        "plays": 64,
+        "searches": 29,
         "visitors": [
           "4CtFvDhdclw8FFHo",
           "1gyflAdcqIWc4atZ",
@@ -25700,7 +25700,9 @@
           "xI8KUg34hozXFL8R",
           "bG8HD5sAcI4KYjkZ",
           "X-u6Zf8Kc6QZVhv9",
-          "J5huuRWyaFJl7kz1"
+          "J5huuRWyaFJl7kz1",
+          "h6GU7tMj7zzBkdZL",
+          "ot2uAHPMUstltQRU"
         ]
       }
     },
@@ -25814,7 +25816,7 @@
         "title": "מי אני עכשיו?"
       },
       "febf4ae7-a59b-4dcb-bcbc-2115831abd8f": {
-        "plays": 1,
+        "plays": 2,
         "title": "אווטאר: כשף האוויר האחרון (לייב אקשן)"
       },
       "3a1efc9e-50f7-4536-860c-63ed32ad51ee": {
@@ -25936,6 +25938,26 @@
       "9cf767cb-b66a-4976-ac32-a85ac1dc85d3": {
         "plays": 1,
         "title": "yes ישראלי"
+      },
+      "19b53b8e-54d9-4dac-ab68-51ed36a49f7f": {
+        "plays": 2,
+        "title": "המתים המהלכים"
+      },
+      "hmtym-hmhlkym-ep-s1e2-13479": {
+        "plays": 2,
+        "title": "המתים המהלכים"
+      },
+      "hmtym-hmhlkym-ep-s1e1-13478": {
+        "plays": 2,
+        "title": "המתים המהלכים"
+      },
+      "hmtym-hmhlkym-ep-s2e3-13485": {
+        "plays": 1,
+        "title": "המתים המהלכים"
+      },
+      "gvt-x27-hm-ep-s5e9-6234": {
+        "plays": 1,
+        "title": "גות׳האם"
       }
     },
     "zeroSearch": {
