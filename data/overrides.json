@@ -25677,7 +25677,7 @@
       },
       "2026-09-24": {
         "views": 62,
-        "plays": 77,
+        "plays": 79,
         "searches": 31,
         "visitors": [
           "4CtFvDhdclw8FFHo",
@@ -25704,7 +25704,8 @@
           "h6GU7tMj7zzBkdZL",
           "ot2uAHPMUstltQRU",
           "-5e45ILMsM6sd_Py",
-          "yRSReais2aFaetIV"
+          "yRSReais2aFaetIV",
+          "kbNvJsGeaA2Hwwk_"
         ]
       }
     },
@@ -25980,6 +25981,14 @@
       "live_3c2c4a4c-b77a-4ed7-bd91-23b17fa41363": {
         "plays": 2,
         "title": "C14"
+      },
+      "live-26d4c09cfd": {
+        "plays": 1,
+        "title": "ערוץ בדיקה חדשות"
+      },
+      "live-75233d6921": {
+        "plays": 1,
+        "title": "ערוץ בדיקה ספורט"
       }
     },
     "zeroSearch": {
@@ -332747,14 +332756,6 @@
     }
   ],
   "liveChannels": [
-    {
-      "id": "26d4c09cfd",
-      "name": "ערוץ בדיקה חדשות",
-      "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
-      "logo": "https://github.com/github.png",
-      "cat": "4517b569",
-      "created_at": "2026-09-24T16:46:36.790Z"
-    },
     {
       "id": "75233d6921",
       "name": "ערוץ בדיקה ספורט",
