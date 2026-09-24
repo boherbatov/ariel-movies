@@ -24519,9 +24519,9 @@
         ]
       },
       "2026-09-24": {
-        "views": 25,
-        "plays": 20,
-        "searches": 24,
+        "views": 29,
+        "plays": 24,
+        "searches": 25,
         "visitors": [
           "4CtFvDhdclw8FFHo",
           "1gyflAdcqIWc4atZ",
@@ -24533,7 +24533,8 @@
           "JHz4br6xRnOwvL4l",
           "YC5x1BUtlS74pGQi",
           "MY5aqrlipV2TxhDW",
-          "_YSKDq9VZ-AxpH0w"
+          "_YSKDq9VZ-AxpH0w",
+          "YOqdWcoHQn86bYeR"
         ]
       }
     },
@@ -24699,7 +24700,7 @@
         "title": "אגם העצמות"
       },
       "shvbr-shvrvt-ep-s3e5-13438": {
-        "plays": 3,
+        "plays": 4,
         "title": "שובר שורות"
       },
       "hdvyvt-ep-s1e9-15201": {
@@ -24717,6 +24718,18 @@
       "shvbr-shvrvt-ep-s1e2-13414": {
         "plays": 1,
         "title": "שובר שורות"
+      },
+      "shvbr-shvrvt-ep-s3e1-13434": {
+        "plays": 1,
+        "title": "שובר שורות"
+      },
+      "shvbr-shvrvt-ep-s1e6-13418": {
+        "plays": 1,
+        "title": "שובר שורות"
+      },
+      "f0674767-9884-4781-b360-236d692ffc4a": {
+        "plays": 1,
+        "title": "משימה בלתי אפשרית"
       }
     },
     "zeroSearch": {
@@ -24733,7 +24746,8 @@
       "אריתואל": 1,
       "הסרט של אבא שלי": 6,
       "בלתי ניראה": 1,
-      "מה -טרה": 5
+      "מה -טרה": 5,
+      "על הכוונת": 1
     }
   },
   "settings": {
