@@ -24675,6 +24675,461 @@
       "duration_seconds": 5400,
       "wiki_url": "https://he.wikipedia.org/wiki/%D7%91%D7%90%D7%A9%20%D7%95%D7%91%D7%9E%D7%99%D7%9D%20(%D7%A1%D7%A8%D7%98)",
       "_enriched": true
+    },
+    "3e2fe164-2aec-4a0d-88ab-52b2451cef7c": {
+      "id": "3e2fe164-2aec-4a0d-88ab-52b2451cef7c",
+      "created_date": "2026-09-24T13:39:11.790Z",
+      "title": "באש ובמים",
+      "year": 2025,
+      "category": "סדרות",
+      "description": "שני חברי ילדות פרועים ושרופים על כדורגל, מקבלים באותו יום שתי בשורות שמשנות את חייהם. השניים מחליטים להשאיר את הכל מאחור ולטוס עם הקבוצה האהובה עליהם למשחק גורלי בפולין.  דווקא שם, התפתחויות לא צפויות מציפות את הסודות שהסתירו האחד מהשני ומאלצות אותם להתמודד איתם ביחד.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/15286?exp=1790343558&sig=fe064482c522cfd2db759b113514d43d",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/15286?exp=1790343558&sig=fe064482c522cfd2db759b113514d43d",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/6PcJguU4B0WcWTWPC4Yffc8bRBk.jpg",
+      "custom_slug": null,
+      "series_name": "באש ובמים",
+      "season_number": 1,
+      "episode_number": 5,
+      "episode_title": "",
+      "tmdb_id": 251842,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5m2LHEc05pkaS2fPIlkGLF2pwoW.jpg",
+      "tmdb_kind": "movie",
+      "tmdb_match": "exact",
+      "genres": [
+        "קומדיה"
+      ],
+      "ar_title": "مهما كلف الأمر",
+      "trailer": "Nf9J4BBWwKY",
+      "cast": [
+        "גיא עמיר",
+        "חנן סביון",
+        "יניב סוויסה"
+      ],
+      "duration_seconds": 5400,
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%91%D7%90%D7%A9%20%D7%95%D7%91%D7%9E%D7%99%D7%9D%20(%D7%A1%D7%A8%D7%98)",
+      "_enriched": true
+    },
+    "5301bd96-017f-469f-a24b-d10d83a845fb": {
+      "id": "5301bd96-017f-469f-a24b-d10d83a845fb",
+      "created_date": "2026-09-24T13:32:53.886Z",
+      "title": "פאודה",
+      "year": 2015,
+      "category": "סדרות",
+      "description": "דורון, מפקד צוות מסתערבים ואנשיו מנסים ללכוד את מבוקשי החמאס בשטחים. המרדף הבלתי פוסק גובה מחיר יקר - פיזי ונפשי מחברי הצוות והקרובים אליהם. אולם את המחיר משלם גם הצד השני, של \"האויב\". המבוקשים, שדם של יותר ממאות ישראלים על ידיהם, גורמים לפגיעה בחפים מפשע, ישראלים ופלסטינים כאחד. המאבק הקשה והמדמם בין הצדדים נפרש למול עינינו במלוא האכזריות שלו וחושף את פניה המכוערים של המלחמה, אך גם את הרעות ואחוות הלוחמים.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/15220?exp=1790343558&sig=4b1b66bb5ef1c9e53172ca9ae1f9696f",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/15220?exp=1790343558&sig=4b1b66bb5ef1c9e53172ca9ae1f9696f",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/iTZX0noHJMYLhNHNj7r97mm9Zi.jpg",
+      "custom_slug": null,
+      "series_name": "פאודה",
+      "season_number": 1,
+      "episode_number": 2,
+      "episode_title": "",
+      "trailer_url": "https://youtu.be/epiZMlt5Ocg?si=DEAd4-A0ZLc2Fd7Z",
+      "tmdb_id": 69557,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/l7BDJsD2zRYHvu3G7qV1v7q5hoF.jpg",
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.382,
+      "genres": [
+        "דרמה",
+        "פעולה והרפתקאות",
+        "מלחמה ופוליטיקה",
+        "פעולה",
+        "מותחן"
+      ],
+      "ar_title": "فوضى",
+      "trailer": "wf_-X6ocMHI",
+      "cast": [
+        "ליאור רז",
+        "נטע גרטי",
+        "דורון בן דוד",
+        "רונה-לי שמעון",
+        "איציק כהן",
+        "יעקב זדה-דניאל",
+        "Dan Kadosh"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt4565380",
+      "imdb_rating": "8.3",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%A4%D7%90%D7%95%D7%93%D7%94",
+      "network": "Yes",
+      "series_status": "To Be Determined",
+      "subtitles_found": [
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The.Pumpkin.Eater.1964.720p.BluRay.x264-x0r"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The Pumpkin Eater (1964) Anne Bancroft Eng"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Pumpkin Eater (1964) Anne Bancroft Eng"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Andy Richter Controls the Universe.S02E01.We're All the Same, Only Different"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Pumpkin.Eater.1964.BDRip.x264-GHOULS"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Pumpkin.Eater.1964.BDRip.x264-GHOULS"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "the pumpkin eater"
+        }
+      ],
+      "_enriched": true
+    },
+    "fb4f77bb-cc6c-4df8-bef6-dabbedd0614c": {
+      "id": "fb4f77bb-cc6c-4df8-bef6-dabbedd0614c",
+      "created_date": "2026-09-24T13:32:53.886Z",
+      "title": "פאודה",
+      "year": 2015,
+      "category": "סדרות",
+      "description": "דורון, מפקד צוות מסתערבים ואנשיו מנסים ללכוד את מבוקשי החמאס בשטחים. המרדף הבלתי פוסק גובה מחיר יקר - פיזי ונפשי מחברי הצוות והקרובים אליהם. אולם את המחיר משלם גם הצד השני, של \"האויב\". המבוקשים, שדם של יותר ממאות ישראלים על ידיהם, גורמים לפגיעה בחפים מפשע, ישראלים ופלסטינים כאחד. המאבק הקשה והמדמם בין הצדדים נפרש למול עינינו במלוא האכזריות שלו וחושף את פניה המכוערים של המלחמה, אך גם את הרעות ואחוות הלוחמים.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/15221?exp=1790343558&sig=9b057e2cc09e04b5907199644219b374",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/15221?exp=1790343558&sig=9b057e2cc09e04b5907199644219b374",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/iTZX0noHJMYLhNHNj7r97mm9Zi.jpg",
+      "custom_slug": null,
+      "series_name": "פאודה",
+      "season_number": 1,
+      "episode_number": 5,
+      "episode_title": "",
+      "trailer_url": "https://youtu.be/epiZMlt5Ocg?si=DEAd4-A0ZLc2Fd7Z",
+      "tmdb_id": 69557,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/l7BDJsD2zRYHvu3G7qV1v7q5hoF.jpg",
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.382,
+      "genres": [
+        "דרמה",
+        "פעולה והרפתקאות",
+        "מלחמה ופוליטיקה",
+        "פעולה",
+        "מותחן"
+      ],
+      "ar_title": "فوضى",
+      "trailer": "wf_-X6ocMHI",
+      "cast": [
+        "ליאור רז",
+        "נטע גרטי",
+        "דורון בן דוד",
+        "רונה-לי שמעון",
+        "איציק כהן",
+        "יעקב זדה-דניאל",
+        "Dan Kadosh"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt4565380",
+      "imdb_rating": "8.3",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%A4%D7%90%D7%95%D7%93%D7%94",
+      "network": "Yes",
+      "series_status": "To Be Determined",
+      "subtitles_found": [
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The.Pumpkin.Eater.1964.720p.BluRay.x264-x0r"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The Pumpkin Eater (1964) Anne Bancroft Eng"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Pumpkin Eater (1964) Anne Bancroft Eng"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Andy Richter Controls the Universe.S02E01.We're All the Same, Only Different"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Pumpkin.Eater.1964.BDRip.x264-GHOULS"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Pumpkin.Eater.1964.BDRip.x264-GHOULS"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "the pumpkin eater"
+        }
+      ],
+      "_enriched": true
+    },
+    "25f17fac-345b-4029-92fa-460a8479c0a5": {
+      "id": "25f17fac-345b-4029-92fa-460a8479c0a5",
+      "created_date": "2026-09-24T13:32:53.886Z",
+      "title": "פאודה",
+      "year": 2015,
+      "category": "סדרות",
+      "description": "דורון, מפקד צוות מסתערבים ואנשיו מנסים ללכוד את מבוקשי החמאס בשטחים. המרדף הבלתי פוסק גובה מחיר יקר - פיזי ונפשי מחברי הצוות והקרובים אליהם. אולם את המחיר משלם גם הצד השני, של \"האויב\". המבוקשים, שדם של יותר ממאות ישראלים על ידיהם, גורמים לפגיעה בחפים מפשע, ישראלים ופלסטינים כאחד. המאבק הקשה והמדמם בין הצדדים נפרש למול עינינו במלוא האכזריות שלו וחושף את פניה המכוערים של המלחמה, אך גם את הרעות ואחוות הלוחמים.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/15222?exp=1790343558&sig=590b47e240d02dc12f33d9391d5c3de0",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/15222?exp=1790343558&sig=590b47e240d02dc12f33d9391d5c3de0",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/iTZX0noHJMYLhNHNj7r97mm9Zi.jpg",
+      "custom_slug": null,
+      "series_name": "פאודה",
+      "season_number": 1,
+      "episode_number": 3,
+      "episode_title": "",
+      "trailer_url": "https://youtu.be/epiZMlt5Ocg?si=DEAd4-A0ZLc2Fd7Z",
+      "tmdb_id": 69557,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/l7BDJsD2zRYHvu3G7qV1v7q5hoF.jpg",
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.382,
+      "genres": [
+        "דרמה",
+        "פעולה והרפתקאות",
+        "מלחמה ופוליטיקה",
+        "פעולה",
+        "מותחן"
+      ],
+      "trailer": "wf_-X6ocMHI",
+      "cast": [
+        "ליאור רז",
+        "נטע גרטי",
+        "דורון בן דוד",
+        "רונה-לי שמעון",
+        "איציק כהן",
+        "יעקב זדה-דניאל",
+        "Dan Kadosh"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt4565380",
+      "imdb_rating": "8.3",
+      "network": "Yes",
+      "series_status": "To Be Determined",
+      "subtitles_found": [
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The.Pumpkin.Eater.1964.720p.BluRay.x264-x0r"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The Pumpkin Eater (1964) Anne Bancroft Eng"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Pumpkin Eater (1964) Anne Bancroft Eng"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Andy Richter Controls the Universe.S02E01.We're All the Same, Only Different"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Pumpkin.Eater.1964.BDRip.x264-GHOULS"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Pumpkin.Eater.1964.BDRip.x264-GHOULS"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "the pumpkin eater"
+        }
+      ],
+      "_enriched": true
+    },
+    "58cd35e5-d4a7-4e21-be3d-59fdd740907c": {
+      "id": "58cd35e5-d4a7-4e21-be3d-59fdd740907c",
+      "created_date": "2026-09-24T13:32:53.886Z",
+      "title": "פאודה",
+      "year": 2015,
+      "category": "סדרות",
+      "description": "דורון, מפקד צוות מסתערבים ואנשיו מנסים ללכוד את מבוקשי החמאס בשטחים. המרדף הבלתי פוסק גובה מחיר יקר - פיזי ונפשי מחברי הצוות והקרובים אליהם. אולם את המחיר משלם גם הצד השני, של \"האויב\". המבוקשים, שדם של יותר ממאות ישראלים על ידיהם, גורמים לפגיעה בחפים מפשע, ישראלים ופלסטינים כאחד. המאבק הקשה והמדמם בין הצדדים נפרש למול עינינו במלוא האכזריות שלו וחושף את פניה המכוערים של המלחמה, אך גם את הרעות ואחוות הלוחמים.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/15224?exp=1790343558&sig=a409a2c6b358d83ac7d9586be2873573",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/15224?exp=1790343558&sig=a409a2c6b358d83ac7d9586be2873573",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/iTZX0noHJMYLhNHNj7r97mm9Zi.jpg",
+      "custom_slug": null,
+      "series_name": "פאודה",
+      "season_number": 1,
+      "episode_number": 4,
+      "episode_title": "",
+      "trailer_url": "https://youtu.be/epiZMlt5Ocg?si=DEAd4-A0ZLc2Fd7Z",
+      "tmdb_id": 69557,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/l7BDJsD2zRYHvu3G7qV1v7q5hoF.jpg",
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.382,
+      "genres": [
+        "דרמה",
+        "פעולה והרפתקאות",
+        "מלחמה ופוליטיקה",
+        "פעולה",
+        "מותחן"
+      ],
+      "trailer": "wf_-X6ocMHI",
+      "cast": [
+        "ליאור רז",
+        "נטע גרטי",
+        "דורון בן דוד",
+        "רונה-לי שמעון",
+        "איציק כהן",
+        "יעקב זדה-דניאל",
+        "Dan Kadosh"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt4565380",
+      "imdb_rating": "8.3",
+      "network": "Yes",
+      "series_status": "To Be Determined",
+      "subtitles_found": [
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The.Pumpkin.Eater.1964.720p.BluRay.x264-x0r"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The Pumpkin Eater (1964) Anne Bancroft Eng"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Pumpkin Eater (1964) Anne Bancroft Eng"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Andy Richter Controls the Universe.S02E01.We're All the Same, Only Different"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Pumpkin.Eater.1964.BDRip.x264-GHOULS"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Pumpkin.Eater.1964.BDRip.x264-GHOULS"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "the pumpkin eater"
+        }
+      ],
+      "_enriched": true
+    },
+    "644e4332-4ef1-4c96-a4ad-f0751f3dee49": {
+      "id": "644e4332-4ef1-4c96-a4ad-f0751f3dee49",
+      "created_date": "2026-09-24T13:32:53.886Z",
+      "title": "פאודה",
+      "year": 2015,
+      "category": "סדרות",
+      "description": "דורון, מפקד צוות מסתערבים ואנשיו מנסים ללכוד את מבוקשי החמאס בשטחים. המרדף הבלתי פוסק גובה מחיר יקר - פיזי ונפשי מחברי הצוות והקרובים אליהם. אולם את המחיר משלם גם הצד השני, של \"האויב\". המבוקשים, שדם של יותר ממאות ישראלים על ידיהם, גורמים לפגיעה בחפים מפשע, ישראלים ופלסטינים כאחד. המאבק הקשה והמדמם בין הצדדים נפרש למול עינינו במלוא האכזריות שלו וחושף את פניה המכוערים של המלחמה, אך גם את הרעות ואחוות הלוחמים.",
+      "type": "direct",
+      "video_id": "https://zovex.duckdns.org/stream/-1003936100530/15223?exp=1790343558&sig=7ec9b47e006ce912c4bb926ef17afbd7",
+      "video_url": "https://zovex.duckdns.org/stream/-1003936100530/15223?exp=1790343558&sig=7ec9b47e006ce912c4bb926ef17afbd7",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w500/iTZX0noHJMYLhNHNj7r97mm9Zi.jpg",
+      "custom_slug": null,
+      "series_name": "פאודה",
+      "season_number": 1,
+      "episode_number": 7,
+      "episode_title": "",
+      "trailer_url": "https://youtu.be/epiZMlt5Ocg?si=DEAd4-A0ZLc2Fd7Z",
+      "tmdb_id": 69557,
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/l7BDJsD2zRYHvu3G7qV1v7q5hoF.jpg",
+      "tmdb_kind": "tv",
+      "tmdb_match": "exact",
+      "tmdb_rating": 7.382,
+      "genres": [
+        "דרמה",
+        "פעולה והרפתקאות",
+        "מלחמה ופוליטיקה",
+        "פעולה",
+        "מותחן"
+      ],
+      "ar_title": "فوضى",
+      "trailer": "wf_-X6ocMHI",
+      "cast": [
+        "ליאור רז",
+        "נטע גרטי",
+        "דורון בן דוד",
+        "רונה-לי שמעון",
+        "איציק כהן",
+        "יעקב זדה-דניאל",
+        "Dan Kadosh"
+      ],
+      "duration_seconds": 2580,
+      "imdb_id": "tt4565380",
+      "imdb_rating": "8.3",
+      "wiki_url": "https://he.wikipedia.org/wiki/%D7%A4%D7%90%D7%95%D7%93%D7%94",
+      "network": "Yes",
+      "series_status": "To Be Determined",
+      "subtitles_found": [
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The.Pumpkin.Eater.1964.720p.BluRay.x264-x0r"
+        },
+        {
+          "language": "ar",
+          "provider": "opensubtitles",
+          "release": "The Pumpkin Eater (1964) Anne Bancroft Eng"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The Pumpkin Eater (1964) Anne Bancroft Eng"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "Andy Richter Controls the Universe.S02E01.We're All the Same, Only Different"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Pumpkin.Eater.1964.BDRip.x264-GHOULS"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "The.Pumpkin.Eater.1964.BDRip.x264-GHOULS"
+        },
+        {
+          "language": "en",
+          "provider": "opensubtitles",
+          "release": "the pumpkin eater"
+        }
+      ],
+      "_enriched": true
     }
   },
   "deleted": [
