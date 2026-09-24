@@ -25677,7 +25677,7 @@
       },
       "2026-09-24": {
         "views": 67,
-        "plays": 83,
+        "plays": 84,
         "searches": 31,
         "visitors": [
           "4CtFvDhdclw8FFHo",
@@ -25706,7 +25706,8 @@
           "-5e45ILMsM6sd_Py",
           "yRSReais2aFaetIV",
           "kbNvJsGeaA2Hwwk_",
-          "VFmejIpgckKJdIie"
+          "VFmejIpgckKJdIie",
+          "BB14XYxWoI-vM9dA"
         ]
       }
     },
@@ -25994,6 +25995,10 @@
       "a2b0567e-3015-48bb-bfe8-ca4ee91332af": {
         "plays": 1,
         "title": "הרסיסים"
+      },
+      "live-e41fd26dff": {
+        "plays": 1,
+        "title": "ערוץ בדיקה ערוך"
       }
     },
     "zeroSearch": {
@@ -332769,16 +332774,6 @@
   "customPages": [],
   "contentRequests": [],
   "liveCategories": [],
-  "liveChannels": [
-    {
-      "id": "e41fd26dff",
-      "name": "ערוץ בדיקה ערוך",
-      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "logo": "https://github.com/octocat.png",
-      "cat": "",
-      "created_at": "2026-09-24T19:27:40.340Z",
-      "updated_at": "2026-09-24T19:28:10.092Z"
-    }
-  ],
+  "liveChannels": [],
   "liveBuiltinCats": {}
 }
