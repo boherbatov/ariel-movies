@@ -24520,7 +24520,7 @@
       },
       "2026-09-24": {
         "views": 41,
-        "plays": 40,
+        "plays": 41,
         "searches": 26,
         "visitors": [
           "4CtFvDhdclw8FFHo",
@@ -24764,6 +24764,10 @@
       "ea9b73d9-9e4a-4836-864b-e2103a7f9709": {
         "plays": 1,
         "title": "ערוץ גוניור"
+      },
+      "live_4692f62b-3b80-40f4-b345-9fe79b8c61e4": {
+        "plays": 1,
+        "title": "כאן חינוכית"
       }
     },
     "zeroSearch": {
@@ -328961,9 +328965,9 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "jQoqiUHFNEw791ve",
-    "tag": "xOLk3GWOZaDoMRYW/G6MZg==",
-    "data": "DmuIODawANlIt5I30htxpSechVLZ2usrzx5Z4bPlf9kkcgqudWTOxAHMyOon4KELKN5zdCtZiTRX/VRnGeRNYwnXORfTMjX1EjVb12U+14hsYl0Kde6uvUWxfYc2Iz0kMDdyVQJ0DtawNYg2+RvxKW8r8357FMcbzl75JtJdpY0s5tB06eBbAgXtWtk6zUo44sVCo78vtl9MpC42HFyEGDs9RB31LdOpDyRnObZBr8PvTAIuda0MKuAIbPnJRlOC68Qrib2L3RfiA/vMHoq47CFmyrg+Lb2F9ezZeg0Dyalrzkieg0DiKOoJZ2p2S1xuYi7WfDPieq1FSotoJ9Ll6HYh41Pmhrn9CLS1pOvAuv6ql5gYbYEoB3JGPGN7Dx7E/21e5uco32IcJTaQ8eKhB2diPkl9kkp6WqdldbJYKM0HGPlbDvCANkqmwrmupOWvfhtWgFrNXUelx4yqCAfDcye8fetPHNwmhUK8PTEoHQqbIkAPSxzs8yrLLL8xUgWuwoMasMjakms="
+    "iv": "muL9if4WZYg10MBg",
+    "tag": "bY14oFWvBXjYHmHYmD1sNg==",
+    "data": "INzUfwFV1p6Ym5rlsVOrDB8aFY1k8MMhKSFB7XNrRVFNzx/zwu+OtyKWKZCuq8QuGvqx3tlt6Jf0y2qYHPY3xW624WMkfP555rbA2ZxwMlM4FODXYidq6o2of8qRYFgiedOhTvqMkK4GY4zn16CugGFykHNvGogG4whSH28KAE6orYdSQghMT9y1eYVVs/rMw+VUuoH1HYFvfLK0u8lsDuvSrUHEpx7NxOgAXKAjzmbfXvhsxcrG1PhgaEy9iSf0kDNO9QvSERlOl4Xn6l/2qlntJq4KZTQnCRswWYiKurFLb3zk/TY4hmqaISIZoc9uisOTNQoY3fkliV3eNhctap/rtIbtvtvb7YhGyHk8+TGB1NUM45A2shInEhQnkRidm9rUUFVBaeq2oKnNj6oq6HjmxrMxM3xxzNgWVIRamkrwY031vx1IVjX71hZuNlXjg+0M52tXxx7QzX4Z3KgCRZXjQo5RqZcZafZ73WC9+cSiEk3xfr3PPlsHF9qcxF1xnZN3gkfaM1w="
   },
   "customPages": [],
   "contentRequests": []
