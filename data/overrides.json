@@ -24519,19 +24519,20 @@
         ]
       },
       "2026-09-24": {
-        "views": 6,
-        "plays": 7,
-        "searches": 1,
+        "views": 8,
+        "plays": 11,
+        "searches": 5,
         "visitors": [
           "4CtFvDhdclw8FFHo",
           "1gyflAdcqIWc4atZ",
-          "I-By34nGTtQH7lL3"
+          "I-By34nGTtQH7lL3",
+          "UgiuzstDyXKqX-UD"
         ]
       }
     },
     "top": {
       "kan11-Wcya26_Fh08": {
-        "plays": 1,
+        "plays": 2,
         "title": "בואו לאכול איתי - ספיישל פסח 2025"
       },
       "kan11-DGfUxcJAA0A": {
@@ -24673,6 +24674,18 @@
       "83b49dd0-6433-4a88-abc6-d4c51abc047a": {
         "plays": 1,
         "title": "ספורט 6"
+      },
+      "4ff2d8fc-2502-407a-9b51-9246bd9a6393": {
+        "plays": 1,
+        "title": "ספורט 4"
+      },
+      "6a79c238-813d-49f6-ac70-203e35683560": {
+        "plays": 1,
+        "title": "ההיפותזה של האהבה"
+      },
+      "395186ae-271a-47e0-89d3-cab6df920c2f": {
+        "plays": 1,
+        "title": "פלאות"
       }
     },
     "zeroSearch": {
@@ -24686,7 +24699,8 @@
       "gilmor girls": 1,
       "הקוברה": 1,
       "the mentalist": 1,
-      "אריתואל": 1
+      "אריתואל": 1,
+      "הסרט של אבא שלי": 4
     }
   },
   "settings": {
