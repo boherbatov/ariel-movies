@@ -25676,8 +25676,8 @@
         ]
       },
       "2026-09-24": {
-        "views": 57,
-        "plays": 64,
+        "views": 58,
+        "plays": 66,
         "searches": 29,
         "visitors": [
           "4CtFvDhdclw8FFHo",
@@ -25702,7 +25702,8 @@
           "X-u6Zf8Kc6QZVhv9",
           "J5huuRWyaFJl7kz1",
           "h6GU7tMj7zzBkdZL",
-          "ot2uAHPMUstltQRU"
+          "ot2uAHPMUstltQRU",
+          "-5e45ILMsM6sd_Py"
         ]
       }
     },
@@ -25958,6 +25959,14 @@
       "gvt-x27-hm-ep-s5e9-6234": {
         "plays": 1,
         "title": "גות׳האם"
+      },
+      "53872ee8-d424-4bcf-866d-b687a55c1e3c": {
+        "plays": 1,
+        "title": "ארנגול וחבורת גנבי הזמן"
+      },
+      "live_02034054-4b1a-4f8e-9a5e-3895d1f5d5a4": {
+        "plays": 1,
+        "title": "ספורט 5 פלוס"
       }
     },
     "zeroSearch": {
@@ -332708,9 +332717,9 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "zvWrggQ3/xpbySrT",
-    "tag": "u7VRWNHGyHDsQg+s2jQF+A==",
-    "data": "ZOVrAr1Mh5AnZzyb8/l6y6SXoBHnDWwCI+wuPzPy+rbK6qut3OKbNAc1IAR7XmBMhtUlA0dP0w+dUSqLduXrjfgNGXHFoi8PdFqa0sLW4MK4MRbLvIsZIqDpV4jdH0CCxJjc6AsJWrk5k/BjoLtmHc11yUylU+lbM22tk9SXYqL2BrwwRTf+IWe8ZgNzk3baHv34THtyC9E9+QHukBjHOHsIoRrF9gur9p0pt11EaWI5ehmBd+Eq09GxWgZr+sm1mg+lhCsIR06BD1mabLMng4MO7VIAZiYU7XCu0hAx5Q0l76nok86UfJ8hf/28lCJLkc8rp9cUrfFyZX65mmzm+e+qjpeuuMSuCMx2BMrgs5ijBaSU+4L3SxhutfMw33QH2rmnUPRFDj6WrmE7oYUivQ1EBYHDVZZ7E8ykIqI8+YyAMwLXXsnfjJ9maBMb7fYOSjxME5mqxFQsGyG8pYvwbcMrm3TODSXsxCwnEsx7CPcPvUj/QZ7TQ8sb+plU7Ien2FFf8rNr9Jc="
+    "iv": "pyNz5Oa91ErCJ1H5",
+    "tag": "Z45CcZcJslJ/+uXaxFI2yQ==",
+    "data": "HcP/o9eM+rWnVsUBmvZcx5gx+CBobfdvI4oR+dAZten/OdYll4jCUVe4FXFUnm4lS38CyPqcKWQm+WdaheFjaB+XPvtRMyUV3sXEESNeGfm9u9f4OMDNKZiEiTMuWJx8GAgSKyOXbw63uuJ9kujU3sei4lkzjcX/BHtEvPdLv2xR0R6XjzARgR/ebRTuBFR7KenVZ/olGOg6klasWv567xDRbVkz10ODLoi6lEfsZkAgmG8SI6eshHJlhyZK3bsv+1KHQC0IHKPjcOH0OvFdDxgz9OQxNYJ6TWxhqeBhwpb5ly5Mh4+phl+UnfKAeKK6l1s55PrWdgYzCMA5UG8iZagw2Cyt2W52y0hYJfVdppW1QpxhsrcIBOILsBmTmE93KSni4fZvSVs6XdjgKNk9UOpLfdpLDywEqVTKkOuK/FwE7m6PeQcZQYU41jd//ytTLSWskzAKfUoQC0Y7KEPD26k2QBUVZZsrULgzAcr22VVIuiDgGCteSOumWhZzhVv78RrCn1e76nY="
   },
   "customPages": [],
   "contentRequests": []
