@@ -25717,11 +25717,12 @@
       },
       "2026-09-25": {
         "views": 0,
-        "plays": 4,
+        "plays": 6,
         "searches": 0,
         "visitors": [
           "rj3cfObVolyBJtIq",
-          "LbvgwBNdBYfTIbeg"
+          "LbvgwBNdBYfTIbeg",
+          "oMcvyzW09lUP-wmc"
         ]
       }
     },
@@ -26033,6 +26034,10 @@
       "607ba3a9-f2dc-4a68-868d-487e2431b368": {
         "plays": 1,
         "title": "yes Drama"
+      },
+      "d286eea9-308d-4def-8197-46f511391646": {
+        "plays": 2,
+        "title": "HOT משפחה"
       }
     },
     "zeroSearch": {
@@ -355807,9 +355812,9 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "393e2cxc/WMuugcJ",
-    "tag": "2y8tb0Oj9UBdU/5PmP9tKA==",
-    "data": "EKd4vyGDu4q7GlxSPwyza2myTMFZuehRz4xPwKXkimMQ2E/WlU1s+EPlJ3wD3XTZkTcob/X5UeyaWxBzhrexQEveF6tV4ZMCmssv9QF0iKDAPeQJTBQS7MxQWGN23qM0K3trHDif23dytQowg/dVdDdqPYd+eKLa/oUrEU6ZxPQTdXEjQbY0BkAnpRuSgDfjfma4kNeD+UNGix5NT6HhLKcmUmoawbFdPwb8Ye9oH7Gmgp02isPsRs0k5dTj0HISlCtJB6J698LjawfVEhvogafWUU/m+dY+p3oebZmRRZbjwde9kYwUeFSMlJK0tCG5W2e2aeFp16h5vKi6sGHlyPlMVpSKH3R4V15xxqWNajEVvl6ERGmKdJUiuet/29kQG4CvKgdPlSBFwHq+sokf4XIipXZp29Zx2l/jCYvN91uvkYNaYQBsu3F5bWt6cDWt8d4w9FSRU27jFDIdiyhKLl46IDDoY82dQR5h9aWUq50Wa0Tmo6VLstwlPA06HYOj5rtL52l8GmY="
+    "iv": "34bPcO5ZFah84zaV",
+    "tag": "E13bNlz+ZsAxaKfsmDy/Kg==",
+    "data": "DF9YwLEHvn+qtcVxt2arnevW2bnFLu7Cyx65WV2yXKfm7lfumGesnUNzMsCSv4We+R19iupew50TNPpQgh5K4iS8q6dJlFIzxxU987ooNqoGB1vJ8LZPfFLyIK1pnCjtmO9f92ADwLAukLRGhDTZuugUzyxxjygUyFVhJaAwDNV4/L3sgv09D65RY9ZSsl4ukcjeIdCLRftz5k4QC37fjQog4NO+a8JFBh1imxsYPmmlyLRjrMPOhqZmjFWDurC0bRu71V1ZdHjHH6S57eE71wRb43I7sJgk5A1Wde/Caq/cEjGL/o68h7qivN33LfzrXx9k+kN3xsO57UBlTuoPYii7x+kp99Q7bCfF3V54OvV86jBKONtvPpmxOLEQ4TynEb1P9ojdBbsXhs4vmBcsw3CROUXUbbpltZkP/fDqHpNv5+r+VgtKZeiJy+DFRMX47X+Q28poYWmgIqaH7qUD0Z0ByKy8uRzxLOzj2oN1w77TnYjn6enVUkdGWDe7fM1k+qQ5g50r6lU="
   },
   "customPages": [],
   "contentRequests": [],
