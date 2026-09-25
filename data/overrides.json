@@ -25716,15 +25716,16 @@
         ]
       },
       "2026-09-25": {
-        "views": 1,
-        "plays": 10,
+        "views": 2,
+        "plays": 11,
         "searches": 8,
         "visitors": [
           "rj3cfObVolyBJtIq",
           "LbvgwBNdBYfTIbeg",
           "oMcvyzW09lUP-wmc",
           "WVXzJeeAhC7RPA0g",
-          "981bO9RxRn_KHYj6"
+          "981bO9RxRn_KHYj6",
+          "XIaf3sLYcNWAYlLV"
         ]
       }
     },
@@ -26044,6 +26045,10 @@
       "live-671fdf166f": {
         "plays": 1,
         "title": "חגחג"
+      },
+      "da1ff7f3-7e65-48cb-8ca4-19aee3ddebd0": {
+        "plays": 1,
+        "title": "Mayday"
       }
     },
     "zeroSearch": {
