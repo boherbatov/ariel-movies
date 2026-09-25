@@ -25717,7 +25717,7 @@
       },
       "2026-09-25": {
         "views": 0,
-        "plays": 7,
+        "plays": 8,
         "searches": 0,
         "visitors": [
           "rj3cfObVolyBJtIq",
@@ -25868,7 +25868,7 @@
         "title": "מאלום"
       },
       "83b49dd0-6433-4a88-abc6-d4c51abc047a": {
-        "plays": 2,
+        "plays": 3,
         "title": "ספורט 6"
       },
       "4ff2d8fc-2502-407a-9b51-9246bd9a6393": {
@@ -355819,16 +355819,7 @@
   "customPages": [],
   "contentRequests": [],
   "liveCategories": [],
-  "liveChannels": [
-    {
-      "id": "2cdd8f7f27",
-      "name": "ערוץ הכנסת",
-      "url": "https://ariel-movies.onrender.com/?item=knesset",
-      "logo": "https://yt3.googleusercontent.com/n99JlSjcefq2tgim1xSTjaqzEH5oytFR6ywQ-NlvIB5znvCCm8Wolvsf6jizCZUkuKwIQ4RiXQ=s900-c-k-c0x00ffffff-no-rj",
-      "cat": "",
-      "created_at": "2026-09-24T19:44:48.778Z"
-    }
-  ],
+  "liveChannels": [],
   "liveBuiltinCats": {},
   "liveBuiltinEdits": {},
   "tmdbKind": {
