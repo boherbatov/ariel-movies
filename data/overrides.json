@@ -25717,10 +25717,11 @@
       },
       "2026-09-25": {
         "views": 0,
-        "plays": 3,
+        "plays": 4,
         "searches": 0,
         "visitors": [
-          "rj3cfObVolyBJtIq"
+          "rj3cfObVolyBJtIq",
+          "LbvgwBNdBYfTIbeg"
         ]
       }
     },
@@ -26028,6 +26029,10 @@
       "0a9a7708-7597-48df-a604-61a742a03de4": {
         "plays": 1,
         "title": "ערוץ 98"
+      },
+      "607ba3a9-f2dc-4a68-868d-487e2431b368": {
+        "plays": 1,
+        "title": "yes Drama"
       }
     },
     "zeroSearch": {
@@ -355802,9 +355807,9 @@
   },
   "contacts": [],
   "privateUsers": {
-    "iv": "lxHla8BteYlwAu+d",
-    "tag": "SQb3/JcfqtUEwt1KUDqFxg==",
-    "data": "4s3ji+JV4AjPYFD5Xl3UvPbiBsTWEAh1BBxfUhyP+sQCauZwfQsJAW/qfe5sz5tQr/tJocuKEpakw5F3/NjeiC2j3BDBr/upKxxqttw4n7BhhpMrOtRMC7nckBWTwUq2JXUUDHnjC71pE2Xrt46kxO1QVgxlWoDUDIXFtb7ZsPFlhwMf5aGNlKOWE3vsYDYNX6IfoWw8fRtcLnsxtE2vapZsVKAQK7O7Lgxf7idqyoxVZpFYwnxQ5/z5wMW/eybYFkfPRUAJNiabJTCyYEFEdrI9YJ16zSOA+KXn5s91yvGmujM4yz+JG0ttPdo3wbJpAG4/xzeIGAz5I6Xgc7FL6HELSmsbYuh/ZciAPsWKCqdtxtm09QHq27qh3GrSLViHNdLMiLC9KNgEZ0kKqr5nTxOIFDaSEE2JvjoU5mWZUGTdH4VStuZv8/3fJow3ihQhscHUZCjg5fBq9aIwHQUMnUb1757pKE0VbO38y6ZPRhQ2jr7WCNDIAmfiXkanu7tp8N3A52B2Pl4="
+    "iv": "393e2cxc/WMuugcJ",
+    "tag": "2y8tb0Oj9UBdU/5PmP9tKA==",
+    "data": "EKd4vyGDu4q7GlxSPwyza2myTMFZuehRz4xPwKXkimMQ2E/WlU1s+EPlJ3wD3XTZkTcob/X5UeyaWxBzhrexQEveF6tV4ZMCmssv9QF0iKDAPeQJTBQS7MxQWGN23qM0K3trHDif23dytQowg/dVdDdqPYd+eKLa/oUrEU6ZxPQTdXEjQbY0BkAnpRuSgDfjfma4kNeD+UNGix5NT6HhLKcmUmoawbFdPwb8Ye9oH7Gmgp02isPsRs0k5dTj0HISlCtJB6J698LjawfVEhvogafWUU/m+dY+p3oebZmRRZbjwde9kYwUeFSMlJK0tCG5W2e2aeFp16h5vKi6sGHlyPlMVpSKH3R4V15xxqWNajEVvl6ERGmKdJUiuet/29kQG4CvKgdPlSBFwHq+sokf4XIipXZp29Zx2l/jCYvN91uvkYNaYQBsu3F5bWt6cDWt8d4w9FSRU27jFDIdiyhKLl46IDDoY82dQR5h9aWUq50Wa0Tmo6VLstwlPA06HYOj5rtL52l8GmY="
   },
   "customPages": [],
   "contentRequests": [],
