@@ -355878,6 +355878,15 @@
       "cat": "",
       "kind": "link",
       "created_at": "2026-09-25T01:29:28.264Z"
+    },
+    {
+      "id": "2850c9b30e",
+      "name": "ייבוא טסט שתיים",
+      "url": "https://www.ynet.co.il",
+      "logo": "",
+      "cat": "",
+      "kind": "link",
+      "created_at": "2026-09-25T01:29:34.597Z"
     }
   ],
   "liveBuiltinCats": {},
