@@ -25716,9 +25716,9 @@
         ]
       },
       "2026-09-25": {
-        "views": 0,
+        "views": 1,
         "plays": 10,
-        "searches": 6,
+        "searches": 8,
         "visitors": [
           "rj3cfObVolyBJtIq",
           "LbvgwBNdBYfTIbeg",
@@ -26063,7 +26063,7 @@
       "מה -טרה": 5,
       "על הכוונת": 1,
       "השמועה": 1,
-      "s.w.a.t": 5
+      "s.w.a.t": 6
     }
   },
   "settings": {
@@ -355869,6 +355869,15 @@
       "cat": "",
       "kind": "link",
       "created_at": "2026-09-25T01:16:55.013Z"
+    },
+    {
+      "id": "9b88dd2698",
+      "name": "ייבוא טסט אחד",
+      "url": "https://example.com",
+      "logo": "",
+      "cat": "",
+      "kind": "link",
+      "created_at": "2026-09-25T01:29:28.264Z"
     }
   ],
   "liveBuiltinCats": {},
