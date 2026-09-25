@@ -25718,12 +25718,13 @@
       "2026-09-25": {
         "views": 0,
         "plays": 10,
-        "searches": 1,
+        "searches": 6,
         "visitors": [
           "rj3cfObVolyBJtIq",
           "LbvgwBNdBYfTIbeg",
           "oMcvyzW09lUP-wmc",
-          "WVXzJeeAhC7RPA0g"
+          "WVXzJeeAhC7RPA0g",
+          "981bO9RxRn_KHYj6"
         ]
       }
     },
@@ -26061,7 +26062,8 @@
       "בלתי ניראה": 1,
       "מה -טרה": 5,
       "על הכוונת": 1,
-      "השמועה": 1
+      "השמועה": 1,
+      "s.w.a.t": 5
     }
   },
   "settings": {
@@ -355822,7 +355824,23 @@
     "data": "MlMnHjXu5KTRlSioxOL4kUjd5JDs1mFMt+YrvKMuaAqR7S1dbYiAeC6Y6C9zih+/kwCivpHSQlajQAiUNKKWT0T8oNjE8fwKe0FPonaPbt7Tw5ooYLXyeCC34D7LPKPYJrbzdd3ebX3WEp8X+k5xxLCL1geJWVwGSARSgRC1BEekdxQQtGSRJobhlBdaLJyBT105i61dqamjGk04FzG+28UvjqySYEAkyYEat2UOR8tk/QsxbtCzwynZNSzx7f8l+zRYIuJTk8OXFw4GEVYJ069biNSJnnhhr3TeLa5Z0wMh9u+jd2Gs7g2FpIHgDYzhdi+UXgx/CfroI5Kifo8a/PQPSQ7KxDo4+wlZvSz5xTO6EfETEnD/UvzKInq4AUw9OhN3kEg5oGavSY05SS7SYbzstNjsZ8QRjZG21gfio7buUJPByK9TfeSjbypOwGaucFR6I98HL05NeZArB1lw6VG6nZ5ZEPc/WBxFLHzqzCkfoOt8fj1n2F4QRZLWIBeGZErtiR3cvPs="
   },
   "customPages": [],
-  "contentRequests": [],
+  "contentRequests": [
+    {
+      "id": "0263289e-6f57-4672-8639-0060ca676d23",
+      "title": "S.W.A.T",
+      "details": "",
+      "query": "S.W.A.T",
+      "lang": "he",
+      "uid": "",
+      "name": "",
+      "email": "",
+      "status": "new",
+      "reply": "",
+      "created_at": "2026-09-25T01:27:04.123Z",
+      "updated_at": "2026-09-25T01:27:04.123Z",
+      "user_updated_at": ""
+    }
+  ],
   "liveCategories": [],
   "liveChannels": [
     {
